@@ -115,7 +115,7 @@ function generatePromptSection(prompt: Prompt, index: number): string {
 
   // 如果有参数，添加说明
   if (hasArguments) {
-    md += `> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: \`{argument name="..." default="..."}\`\n\n`;
+    // md += `> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: \`{argument name="..." default="..."}\`\n\n`;
   }
 
   // 渲染所有图片，有几张渲染几张

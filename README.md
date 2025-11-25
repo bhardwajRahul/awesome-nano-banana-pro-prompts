@@ -75,9 +75,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **496** |
+| 📝 Total Prompts | **497** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 12:21:38 PM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 1:21:54 PM UTC** |
 
 </div>
 
@@ -102,8 +102,6 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 ```
 一张宽幅的名人金句卡，棕色背景，衬线体浅金色“{argument name="金句" default="保持饥饿，保持愚蠢"}”，小字“——{argument name="作者" default="Steve Jobs"}”，文字前面带一个大的淡淡的引号。人物头像在左边，文字在右边，文字占画面比例 2/3，人物占 1/3，人物有一点渐变过渡的感觉。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -207,8 +205,6 @@ Amazon 売れ筋ランキング
 商業デザイン売上 1位 を記録（10/15 調べ）
 https://t.co/QxbYpfFVj6
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -395,8 +391,6 @@ A prompt to create an image of a specific place and time using latitude, longitu
 Crea una imagen en {argument name="coordenadas" default="34°36’07’’S 58°23’58’’O"} el {argument name="fecha" default="18 de julio de 1994"} a las {argument name="hora" default="9:53 a.m. (UTC-3)"}
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -409,7 +403,7 @@ Crea una imagen en {argument name="coordenadas" default="34°36’07’’S 58°
 
 - **Author:** [N≡H](https://x.com/nehuenmk)
 - **Source:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20en%20%7Bargument%20name%3D%22coordenadas%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99O%22%7D%20el%20%7Bargument%20name%3D%22fecha%22%20default%3D%2218%20de%20julio%20de%201994%22%7D%20a%20las%20%7Bargument%20name%3D%22hora%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
@@ -456,8 +450,6 @@ Important:
  * Preserve the authentic p
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -482,7 +474,7 @@ Important:
 
 - **Author:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Source:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%20image%20in%208K%20resolution%2C%20keeping%20exactly%20my%20real%20face%2C%20features%2C%20skin%20color%2C%20eyes%2C%20and%20hair%20as%20per%20the%20reference%20image.%0AI%20am%20the%20%7Bargument%20name%3D%22subject_gender_role%22%20default%3D%22woman%22%7D%20in%20the%20photo%3B%20preserve%20my%20confident%2C%20charming%2C%20and%20elegant%20expression%2C%20with%20a%20slight%20smile%20and%20relaxed%20posture.%0AI%20am%20at%20an%20outdoor%20automotive%20event%2C%20in%20a%20grandstand%20or%20VIP%20box%2C%20with%20a%20wide%20view%20of%20the%20track%20and%20the%20crowd%20in%20the%20background.%20The%20weather%20is%20sunny%2C%20with%20an%20intense%20blue%20sky%20and%20natural%20sunlight%2C%20enhancing%20the%20colors%20and%20creating%20a%20vibrant%20racing%20atmosphere.%0AThe%20framing%20is%20a%20medium%20shot%2C%20capturing%20the%20upper%20body%20and%20the%20busy%20background%20with%20a%20slight%20depth-of-field%20blur.%0AThe%20look%20is%20sporty%20fashion%20with%20a%20sophisticated%20touch%2C%20composed%20of%3A%0A%20*%20%7Bargument%20name%3D%22cap_brand%22%20default%3D%22Red%20Ferrari%22%7D%20cap%2C%20with%20the%20yellow%20prancing%20horse%20(cavallino%20rampante)%20logo%20on%20the%20front%20and%20the%20number%20%22%7Bargument%20name%3D%22driver_number%22%20default%3D%2216%22%7D%22%20in%20white%20on%20the%20brim%3B%0A%20*%20Strapless%20top%20in%20structured%20denim%2C%20tight%20and%20with%20visible%20stitching%2C%20enhancing%20the%20d%C3%A9colletage%20and%20silhouette%3B%0A%20*%20%7Bargument%20name%3D%22sunglasses_brand%22%20default%3D%22Miu%20Miu%22%7D%20sunglasses%20with%20brown%20gradient%20lenses%20and%20a%20rectangular%20metallic%20frame%2C%20partially%20covering%20the%20eyes%3B%0A%20*%20Double%20necklace%20%E2%80%93%20one%20with%20large%20golden%20links%20and%20another%20with%20delicate%20diamonds%20close%20to%20the%20neck%3B%0A%20%20%20*%20Geometric%20gold%20earrings%3B%0A%20%20%20*%20Silver%20bracelet%20on%20the%20right%20wrist%3B%0A%20%20%20*%20Discreet%20red%20bag%20hanging%20on%20the%20shoulder%2C%20partially%20visible%20beside%20the%20arm.%0AHair%3A%20natural%2C%20loose.%0AThe%20makeup%20is%20impeccable%20and%20glamorous%2C%20with%20illuminated%20skin%2C%20defined%20eyes%2C%20pink%20lipstick%2C%20and%20warm%20blush.%0AThe%20nails%20are%20long%20and%20decorated%20with%20nail%20art%20in%20shades%20of%20pink%20and%20red%20with%20white%20details%2C%20visible%20while%20holding%20the%20glass.%0AThe%20pose%20conveys%20attitude%20and%20sophistication%3A%0A%20*%20Right%20hand%20holding%20the%20brim%20of%20the%20cap%2C%20adjusting%20it%20slightly%3B%0A%20*%20Left%20hand%20holding%20a%20glass%20of%20%7Bargument%20name%3D%22drink_type%22%20default%3D%22white%20wine%22%7D%2C%20with%20the%20arm%20relaxed%3B%0A%20*%20Body%20slightly%20leaned%2C%20face%20turned%20towards%20the%20camera.%0AThe%20lighting%20is%20natural%20and%20intense%2C%20with%20subtle%20solar%20reflections%20on%20the%20face%20and%20hair.%0AThe%20color%20palette%20is%20vibrant%20%E2%80%93%20shades%20of%20red%2C%20denim%20blue%2C%20gold%2C%20and%20caramel%2C%20contrasting%20with%20the%20sunny%20background.%0AThe%20general%20atmosphere%20is%20modern%2C%20luxurious%2C%20and%20relaxed%20%E2%80%93%20transmitting%20the%20style%20of%20someone%20who%20lives%20exclusive%20experiences%2C%20with%20elegance%20and%20a%20striking%20presence%20at%20a%20premium%20automotive%20event.%0AQuality%3A%208K%20hyper-realistic%20photo%2C%20sharp%20focus%20on%20the%20face%20and%20outfit%2C%20background%20slightly%20blurred%20with%20a%20colorful%20crowd%20and%20the%20track%20in%20the%20sun.%0AImportant%3A%0A%20*%20Keep%20my%20face%2C%20hair%2C%20and%20skin%20color%20original.%0A%20*%20Preserve%20the%20authentic%20p)**
@@ -509,8 +501,6 @@ Output must be original—avoid direct copying of the reference image.
 Final image should be in 4K resolution, {argument name="aspect_ratio" default="16:9"} aspect ratio.
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -535,7 +525,7 @@ Final image should be in 4K resolution, {argument name="aspect_ratio" default="1
 
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20set%20of%20colorful%2C%20hand-drawn%20LINE-style%20half-body%20Q-version%20emoji%20portraits%20based%20on%20the%20%7Bargument%20name%3D%22reference_characters%22%20default%3D%22characters%20shown%20in%20the%20reference%20image%22%7D%2C%20ensuring%20accurate%20depiction%20of%20their%20head%20accessories.%0A%0AArrange%20the%20images%20in%20a%20%7Bargument%20name%3D%22grid_layout%22%20default%3D%224x6%22%7D%20layout%2C%20featuring%20common%20chat%20phrases%20or%20relevant%20humorous%20memes.%0AUse%20handwritten-style%20fonts%20for%20text.%0AOutput%20must%20be%20original%E2%80%94avoid%20direct%20copying%20of%20the%20reference%20image.%0AFinal%20image%20should%20be%20in%204K%20resolution%2C%20%7Bargument%20name%3D%22aspect_ratio%22%20default%3D%2216%3A9%22%7D%20aspect%20ratio.)**
@@ -557,8 +547,6 @@ A simple template prompt for creating hand-drawn isometric diagrams of landmarks
 Create a hand drawn isometric schematic diagram of {argument name="landmark" default="[LANDMARK]"}. {argument name="dimension" default="1080x1080"} dimension
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -571,7 +559,7 @@ Create a hand drawn isometric schematic diagram of {argument name="landmark" def
 
 - **Author:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand%20drawn%20isometric%20schematic%20diagram%20of%20%7Bargument%20name%3D%22landmark%22%20default%3D%22%5BLANDMARK%5D%22%7D.%20%7Bargument%20name%3D%22dimension%22%20default%3D%221080x1080%22%7D%20dimension)**
@@ -615,7 +603,7 @@ medium close-up, straight-on
 
 - **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20realistic%20black%20and%20white%20photograph%20of%20a%20young%20woman%20with%20long%2C%20dark%20hair%2C%20closely%20resembling%20the%20facial%20features%2C%20structure%2C%20and%20expression%20of%20the%20subject%20in%20the%20reference%20image.%20She%20has%20an%20imposing%20or%20serious%20expression%2C%20looking%20directly%20at%20the%20camera.%20She%20is%20wearing%20a%20black%20suit%20jacket%2C%20a%20white%20collared%20shirt%2C%20and%20a%20slim%20black%20tie.%20The%20lighting%20is%20dramatic%2C%20and%20the%20background%20is%20dark%20and%20uniform.%0Aphotorealistic%2C%20cinematic%2C%20high-contrast%2C%20black%20and%20white%0Afemale%0Ablack%20suit%2C%20white%20shirt%2C%20slim%20black%20tie%0Aimposing%2C%20serious%2C%20confident%0Amedium%20close-up%2C%20straight-on)**
@@ -637,8 +625,6 @@ A conceptual prompt for turning the contents of a fridge into a simple step-by-s
 Scan what’s inside of the {argument name="location" default="fridge"} and offer me an idea what can be cooked with the ingredients available with a detailed step by step recipe in a form of a simple infographic
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -657,7 +643,7 @@ Scan what’s inside of the {argument name="location" default="fridge"} and offe
 
 - **Author:** [AmirMušić](https://x.com/AmirMushich)
 - **Source:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Language:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Scan%20what%E2%80%99s%20inside%20of%20the%20%7Bargument%20name%3D%22location%22%20default%3D%22fridge%22%7D%20and%20offer%20me%20an%20idea%20what%20can%20be%20cooked%20with%20the%20ingredients%20available%20with%20a%20detailed%20step%20by%20step%20recipe%20in%20a%20form%20of%20a%20simple%20infographic)**
@@ -678,8 +664,6 @@ A detailed prompt for turning any object into an ultra-realistic knolling-style 
 ```
 Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into {argument name="min_parts" default="8"}–{argument name="max_parts" default="12"} key parts and arranged in a clean grid or radial pattern on a minimalist {argument name="surface_material" default="wooden or matte gray"} table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -723,8 +707,6 @@ Lighting: cinematic winter lighting blend cool blue shadows + warm golden highli
 Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -832,8 +814,6 @@ A reusable prompt template for creating labeled exploded view diagrams of any su
 Create a technical exploded view diagram of a {argument name="subject" default="[SUBJECT]"} in {argument name="dimension" default="1080x1080"} dimension. The device is deconstructed showing all individual components floating in space, separated from each other to reveal internal parts. Each major component is labeled
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -867,8 +847,6 @@ A long, detailed prompt for creating a hyper-realistic portrait infographic that
 ```
 A hyper-realistic, high-resolution portrait infographic based on ({argument name="reference_photo" default="your photo"}). Keep the same person, identity, hairstyle, clothing and natural skin tone from ({argument name="reference_photo_short" default="your photo"}), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -916,8 +894,6 @@ A prompt that tells Nano Banana Pro to act like a Japanese manga artist with a D
 
 {argument name="你提供的待分析内容" default="在这里填入你想改编成漫画的文字内容"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -986,8 +962,6 @@ A prompt for transforming a food photo into a hand-drawn vintage cookbook recipe
 Turn this {argument name="dish" default="ramen"} into a cute recipe page with illustrations in the style of a vintage cookbook that was hand-drawn.  A carefully drawn ingredients with labels, measures, and implements like bowls, whisks, or spoons should surround the composition's focal point.  To create a homey, nostalgic vibe, use textured shading, warm pastel colors, and fine, ink-like outlines.  Add recipe writing in the handwritten manner, including the ingredients and directions organically into the layout.  Make sure the page has an artistic and educational tone, combining the beauty of colorful illustrations with a cookbook aesthetic
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -1027,8 +1001,6 @@ A short prompt for generating a cinematic multi-panel widescreen sequence illust
 ```
 create a cinematic sequence using multiple widescreen panels grids to tell the story of the imaginative script from the book "{argument name="book_title" default="IT"}"
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1154,7 +1126,45 @@ A JSON-style prompt for creating an 8K editorial fashion portrait of a person in
 
 ---
 
-### No. 18: Grid of four camera angles from reference image
+### No. 18: Childlike crayon-style family camping drawing
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A Korean prompt for turning only the drawing on a sheet of paper into a childlike crayon-style illustration of a family camping scene, while keeping the rest of the image unchanged. It’s meant for style-transfer or image-to-image use where the surrounding elements stay the same.
+
+#### 📝 Prompt
+
+```
+이미지 속 나머지 구성은 그대로 유지하고, 도화지 속 그림만 스타일을 바꾸고 싶어.
+
+그림의 내용은 {argument name="탈것" default="카라반"}을 타고 간 캠핑을 그린거고, 왼쪽의 두 명은 테이블에 앉아 있는 {argument name="인물_왼쪽_둘" default="엄마와 아이"}이고, 오른쪽은 {argument name="요리도구" default="바베큐기"}로 고기를 굽고 있는 {argument name="인물_오른쪽" default="아빠"}의 모습이야.
+
+초등학생이 크래파스로 그린 그림체로 그림을 바꿔줘.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6aTZUyasAAi6u8.jpg" width="600" alt="Childlike crayon-style family camping drawing - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [SETI Park](https://x.com/seti_park)
+- **Source:** [Twitter Post](https://x.com/seti_park/status/1992441954744115286)
+- **Published:** November 23, 2025
+- **Language:** ko
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%EC%84%B1%EC%9D%80%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B3%A0%2C%20%EB%8F%84%ED%99%94%EC%A7%80%20%EC%86%8D%20%EA%B7%B8%EB%A6%BC%EB%A7%8C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84%20%EB%B0%94%EA%BE%B8%EA%B3%A0%20%EC%8B%B6%EC%96%B4.%0A%0A%EA%B7%B8%EB%A6%BC%EC%9D%98%20%EB%82%B4%EC%9A%A9%EC%9D%80%20%7Bargument%20name%3D%22%ED%83%88%EA%B2%83%22%20default%3D%22%EC%B9%B4%EB%9D%BC%EB%B0%98%22%7D%EC%9D%84%20%ED%83%80%EA%B3%A0%20%EA%B0%84%20%EC%BA%A0%ED%95%91%EC%9D%84%20%EA%B7%B8%EB%A6%B0%EA%B1%B0%EA%B3%A0%2C%20%EC%99%BC%EC%AA%BD%EC%9D%98%20%EB%91%90%20%EB%AA%85%EC%9D%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%7Bargument%20name%3D%22%EC%9D%B8%EB%AC%BC_%EC%99%BC%EC%AA%BD_%EB%91%98%22%20default%3D%22%EC%97%84%EB%A7%88%EC%99%80%20%EC%95%84%EC%9D%B4%22%7D%EC%9D%B4%EA%B3%A0%2C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9D%80%20%7Bargument%20name%3D%22%EC%9A%94%EB%A6%AC%EB%8F%84%EA%B5%AC%22%20default%3D%22%EB%B0%94%EB%B2%A0%ED%81%90%EA%B8%B0%22%7D%EB%A1%9C%20%EA%B3%A0%EA%B8%B0%EB%A5%BC%20%EA%B5%BD%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%7Bargument%20name%3D%22%EC%9D%B8%EB%AC%BC_%EC%98%A4%EB%A5%B8%EC%AA%BD%22%20default%3D%22%EC%95%84%EB%B9%A0%22%7D%EC%9D%98%20%EB%AA%A8%EC%8A%B5%EC%9D%B4%EC%95%BC.%0A%0A%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%B4%20%ED%81%AC%EB%9E%98%ED%8C%8C%EC%8A%A4%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EA%B7%B8%EB%A6%BC%EC%B2%B4%EB%A1%9C%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EB%B0%94%EA%BF%94%EC%A4%98.)**
+
+---
+
+### No. 19: Grid of four camera angles from reference image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,8 +1178,6 @@ A prompt to create a grid of four different camera angles of a reference image, 
 ```
 Create a grid of 4 different camera angles of {argument name="reference" default="[@]img1"}, {argument name="camera_angle" default="[CAMERA ANGLE]"}, that follow the same style and colour palette as {argument name="reference_repeat" default="[@]img1"}. Make the new shots unique.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1196,7 +1204,7 @@ Create a grid of 4 different camera angles of {argument name="reference" default
 
 ---
 
-### No. 19: Edit moon position and change painting style
+### No. 20: Edit moon position and change painting style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1235,7 +1243,7 @@ An editing prompt that moves the painted moon to the left of a woman and switche
 
 ---
 
-### No. 20: Major event at given coordinates
+### No. 21: Major event at given coordinates
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1249,8 +1257,6 @@ A reasoning-heavy prompt that asks the AI to create an image of a major event th
 ```
 Create an image of the major event that happened at these coordinates: {argument name="coordinates" default="41°43′32″N 49°56′49″W"}.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1271,7 +1277,7 @@ Create an image of the major event that happened at these coordinates: {argument
 
 ---
 
-### No. 21: Infographic about the Jackson Laboratory
+### No. 22: Infographic about the Jackson Laboratory
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1285,8 +1291,6 @@ A simple prompt to generate an infographic summarizing information about the Jac
 ```
 Infographic about {argument name="topic" default="the Jackson Laboratory"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1307,7 +1311,7 @@ Infographic about {argument name="topic" default="the Jackson Laboratory"}
 
 ---
 
-### No. 22: Web page design from reference wireframe
+### No. 23: Web page design from reference wireframe
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1344,7 @@ A Japanese prompt that asks Nano Banana Pro to design a clean, flowing layout ba
 
 ---
 
-### No. 23: Cute Shima-enaga LINE sticker set
+### No. 24: Cute Shima-enaga LINE sticker set
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1373,7 +1377,7 @@ A Japanese prompt to generate 12 LINE stickers themed around a deformed cute Shi
 
 ---
 
-### No. 24: Infographic about Google’s early years
+### No. 25: Infographic about Google’s early years
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1406,7 +1410,7 @@ please create an info graphic about google's early years and its major milestone
 
 ---
 
-### No. 25: Sprite sheet for 2D NES platformer
+### No. 26: Sprite sheet for 2D NES platformer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1439,7 +1443,7 @@ create a sprite sheet for a 2D NES platforming game, include enemies and NPCs
 
 ---
 
-### No. 26: Paint scheme comparison image
+### No. 27: Paint scheme comparison image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1472,7 +1476,7 @@ A Japanese prompt that asks Nano Banana Pro to generate a single image containin
 
 ---
 
-### No. 27: Action scene from reference photos and sketch
+### No. 28: Action scene from reference photos and sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1486,8 +1490,6 @@ Uses uploaded photos and a sketch to compose a 1990s-style NYC action shot of a 
 ```
 Use man photo as slipping off the building edge, woman is reaching out, match sketch pose and composition precisely, {argument name="city_style" default="nyc"} (style reference) for the scene. High quality action shot from the 90’s
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1526,7 +1528,7 @@ Use man photo as slipping off the building edge, woman is reaching out, match sk
 
 ---
 
-### No. 28: Edo-style woodblock print ninja character
+### No. 29: Edo-style woodblock print ninja character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1540,8 +1542,6 @@ A Japanese prompt to generate an Edo-period style woodblock print of a character
 ```
 キャラクターが見栄を切ってカッコいいポーズを取っている、タイトル「{argument name="タイトル" default="からくり忍者　朧"}」の版画の画像、江戸時代の作風
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1562,7 +1562,7 @@ A Japanese prompt to generate an Edo-period style woodblock print of a character
 
 ---
 
-### No. 29: Candid series of Indonesian president photos
+### No. 30: Candid series of Indonesian president photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1576,8 +1576,6 @@ A prompt for generating a six-image documentary-style series of an Indonesian pr
 ```
 Generate a series of six candid, documentary-style photos of {argument name="person" default="this Indonesian president"} in office, in the rice fields, and partying with other presidents.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1604,7 +1602,7 @@ Generate a series of six candid, documentary-style photos of {argument name="per
 
 ---
 
-### No. 30: 90s version of a website via style transfer
+### No. 31: 90s version of a website via style transfer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1649,7 +1647,7 @@ Create a 90s version of my website
 
 ---
 
-### No. 31: Turn Netflix screen into a western version
+### No. 32: Turn Netflix screen into a western version
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1682,7 +1680,7 @@ Turning the whole Netflix screen into a western version
 
 ---
 
-### No. 32: Thumbnail design prompt for articles or content
+### No. 33: Thumbnail design prompt for articles or content
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1702,8 +1700,6 @@ A reusable prompt template that assigns the model the role of a graphic designer
 読者が思わずクリックしたくなるデザインを作成してください。
 まずはデザイン案3つ画像を出力してください。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1736,7 +1732,7 @@ A reusable prompt template that assigns the model the role of a graphic designer
 
 ---
 
-### No. 33: Clothing separated on the bed
+### No. 34: Clothing separated on the bed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1775,7 +1771,7 @@ Give each piece of her clothing separately on the bed
 
 ---
 
-### No. 34: Naive doodle-style subject illustration
+### No. 35: Naive doodle-style subject illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1789,8 +1785,6 @@ A concise English prompt to generate doodle-style illustrations with naive lines
 ```
 A doodle-style {argument name="subject" default="[subject]"}, naive lines, humorous shape exaggeration
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1811,7 +1805,7 @@ A doodle-style {argument name="subject" default="[subject]"}, naive lines, humor
 
 ---
 
-### No. 35: Simple action movie scene
+### No. 36: Simple action movie scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1844,7 +1838,7 @@ Make an action movie scene
 
 ---
 
-### No. 36: Chalkboard-style AI news summary
+### No. 37: Chalkboard-style AI news summary
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1879,7 +1873,7 @@ Grokの検索結果
 
 ---
 
-### No. 37: Photorealistic naan bread pun image
+### No. 38: Photorealistic naan bread pun image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1893,8 +1887,6 @@ A Japanese prompt that generates a 1:1 photorealistic close-up of freshly baked 
 ```
 焼きたてのナンをクローズアップしたアスペクト比1:1のフォトリアリスティックな画像。ふっくら膨らんだナンの表面に、焦げ目で「{argument name="メッセージ" default="ナンでもできる"}」という文字が浮かび上がっている。カレーの入った器が横に添えられている。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -1933,7 +1925,7 @@ A Japanese prompt that generates a 1:1 photorealistic close-up of freshly baked 
 
 ---
 
-### No. 38: Food photo turned into creature-style nutrition poster
+### No. 39: Food photo turned into creature-style nutrition poster
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1972,7 +1964,7 @@ A hybrid prompt that takes a food photo as reference and turns each ingredient i
 
 ---
 
-### No. 39: Japanese gyaru magazine spread on school uniforms
+### No. 40: Japanese gyaru magazine spread on school uniforms
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2005,7 +1997,7 @@ A prompt to generate a Japanese gyaru-style magazine feature page focusing on sc
 
 ---
 
-### No. 40: Yu-Gi-Oh magic card from text theme
+### No. 41: Yu-Gi-Oh magic card from text theme
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2019,8 +2011,6 @@ A Japanese text-only prompt that creates a Yu-Gi-Oh magic card themed around a s
 ```
 遊戯王カードの魔法カードをデザイン。イラストは遊戯王の公式イラストのスタイルで魅力的に描いて。カードのテーマは「{argument name="カードテーマ" default="ビットコイン大暴落"}」。説明は日本語で表記し、ふりがな・ルビは使用禁止。カードの外側の背景は白。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2047,7 +2037,7 @@ A Japanese text-only prompt that creates a Yu-Gi-Oh magic card themed around a s
 
 ---
 
-### No. 41: Two-shot of AI partner hugging from behind
+### No. 42: Two-shot of AI partner hugging from behind
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2080,7 +2070,7 @@ A prompt that composites two images so the second character hugs the first perso
 
 ---
 
-### No. 42: 4-panel comic about embedded engineer struggles
+### No. 43: 4-panel comic about embedded engineer struggles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2119,7 +2109,7 @@ A concise Japanese prompt that asks Nano Banana Pro to generate a four-panel man
 
 ---
 
-### No. 43: Where’s Waldo-style LOTR in the Shire
+### No. 44: Where’s Waldo-style LOTR in the Shire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2133,8 +2123,6 @@ Generates a busy Where’s Waldo-style illustration featuring all Lord of the Ri
 ```
 A where is waldo image showing all {argument name="franchise" default="Lord of the Rings"} characters in {argument name="location" default="Shire"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2155,7 +2143,7 @@ A where is waldo image showing all {argument name="franchise" default="Lord of t
 
 ---
 
-### No. 44: Rock band poster with consistent faces
+### No. 45: Rock band poster with consistent faces
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2169,8 +2157,6 @@ An English prompt to generate a rock band poster using several reference people,
 ```
 make a rock band poster with these people. Keep faces consistent. Add "{argument name="band_name" default="The AI Syndicate"}" name of the band.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2191,7 +2177,7 @@ make a rock band poster with these people. Keep faces consistent. Add "{argument
 
 ---
 
-### No. 45: Middle-earth style career map from LinkedIn PDF
+### No. 46: Middle-earth style career map from LinkedIn PDF
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2224,7 +2210,7 @@ Create a similar map using data from my PDF file.
 
 ---
 
-### No. 46: Monochrome tough-guy LINE stickers
+### No. 47: Monochrome tough-guy LINE stickers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2257,7 +2243,7 @@ A Japanese prompt to create 16 black-and-white LINE stickers from an attached ch
 
 ---
 
-### No. 47: Cinematic illustration of a poem
+### No. 48: Cinematic illustration of a poem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2271,8 +2257,6 @@ A flexible prompt that asks the AI to create a single cinematic illustration rep
 ```
 Create a single cinematic illustration that visually represents the following poem, capturing its emotions, metaphors, and atmosphere: {argument name="poem" default="[poem here]"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2293,7 +2277,7 @@ Create a single cinematic illustration that visually represents the following po
 
 ---
 
-### No. 48: Cute handwritten notes over a photo
+### No. 49: Cute handwritten notes over a photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2326,7 +2310,7 @@ Asks Nano Banana Pro to overlay lots of cute handwritten annotations onto a phot
 
 ---
 
-### No. 49: Clothing laid out separately on a bed
+### No. 50: Clothing laid out separately on a bed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2371,7 +2355,7 @@ Give each piece of her clothing separately on the bed
 
 ---
 
-### No. 50: Photorealistic render from illustration
+### No. 51: Photorealistic render from illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2410,7 +2394,7 @@ Raw photo based on image, photorealistic, highly detailed, 8k uhd, realistic tex
 
 ---
 
-### No. 51: Cinematic 3D logo with auto-assigned texture
+### No. 52: Cinematic 3D logo with auto-assigned texture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2427,8 +2411,6 @@ Automatically assign a realistic texture (glass, fire, neon, chrome, liquid, ice
 Use dramatic lighting, depth of field, and a soft glowing background.
 Style: product ad / reveal shot, cinematic tone, ultra HD.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2467,7 +2449,7 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 
 ---
 
-### No. 52: Shoe pattern pieces layout
+### No. 53: Shoe pattern pieces layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2506,7 +2488,7 @@ Create an image showing the individual pattern pieces of this shoe, each separat
 
 ---
 
-### No. 53: Silksong 4-panel comic from uploaded character
+### No. 54: Silksong 4-panel comic from uploaded character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2520,8 +2502,6 @@ A Japanese prompt that uses an uploaded character image to explain the game Silk
 ```
 アップロードした画像のキャラクターを使って、{argument name="ゲーム名" default="Silksong"}というゲームを４コマ漫画で説明して。アスペクト比は9:16
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2542,7 +2522,7 @@ A Japanese prompt that uses an uploaded character image to explain the game Silk
 
 ---
 
-### No. 54: Turn a social bio into a NES cartridge cover
+### No. 55: Turn a social bio into a NES cartridge cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2575,7 +2555,7 @@ Analyze my bio and come up with a video game that would be me if I was a video g
 
 ---
 
-### No. 55: Anime-style seated portrait from face image
+### No. 56: Anime-style seated portrait from face image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2614,7 +2594,7 @@ A Japanese prompt that takes a face image and generates an anime-leaning digital
 
 ---
 
-### No. 56: Multiple characters in one basket
+### No. 57: Multiple characters in one basket
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2647,7 +2627,7 @@ put all of them into one basket
 
 ---
 
-### No. 57: High-detail IT careers infographic (Thai/English mix)
+### No. 58: High-detail IT careers infographic (Thai/English mix)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2698,7 +2678,7 @@ create a very high-detail infographic image that describe about IT career or IT 
 
 ---
 
-### No. 58: Single diagram image summarizing text (Japanese)
+### No. 59: Single diagram image summarizing text (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2731,7 +2711,7 @@ A very short Japanese prompt asking Nano Banana Pro to summarize a text-heavy cl
 
 ---
 
-### No. 59: Shoulder-stretch infographic for neck and shoulder stiffness
+### No. 60: Shoulder-stretch infographic for neck and shoulder stiffness
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2745,8 +2725,6 @@ A prompt for generating a 3:4 minimal illustration infographic about a simple th
 ```
 「{argument name="テーマ" default="3分でできる！肩こりストレッチ"}」についての図解を作成してください。ミニマルなイラスト、モデルは女性。3:4サイズ
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -2767,7 +2745,7 @@ A prompt for generating a 3:4 minimal illustration infographic about a simple th
 
 ---
 
-### No. 60: Hyperrealistic glass pork belly on a grill
+### No. 61: Hyperrealistic glass pork belly on a grill
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -2806,7 +2784,7 @@ A Korean prompt for a hyperrealistic photo-style image of glass-made samgyeopsal
 
 ---
 
-### No. 61: Simpsons-style rocket-banana hybrid
+### No. 62: Simpsons-style rocket-banana hybrid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2839,7 +2817,7 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 
 ---
 
-### No. 62: Recipe breakdown and food photoshoot
+### No. 63: Recipe breakdown and food photoshoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2878,7 +2856,7 @@ Make a detailed recipe on this dish with all the ingredients names and it's raw 
 
 ---
 
-### No. 63: Text-to-mindmap graphic
+### No. 64: Text-to-mindmap graphic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2920,7 +2898,7 @@ A Japanese prompt that turns given text into an organic, color-coded mindmap wit
 
 ---
 
-### No. 64: Squatty Potty whiteboard instructions
+### No. 65: Squatty Potty whiteboard instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2953,7 +2931,7 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 
 ---
 
-### No. 65: VTuber-style street-fashion thumbnail from a city photo
+### No. 66: VTuber-style street-fashion thumbnail from a city photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2991,7 +2969,7 @@ vtuberで見られがちなデザインにしたい。
 
 ---
 
-### No. 66: Whiteboard-style simple diagram from text
+### No. 67: Whiteboard-style simple diagram from text
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3032,7 +3010,7 @@ A prompt that turns a text into a clean 16:9 whiteboard-style diagram with centr
 
 ---
 
-### No. 67: MrBeast-style thumbnail about Epstein files
+### No. 68: MrBeast-style thumbnail about Epstein files
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3065,7 +3043,7 @@ A Mr. Beast style YouTube thumbnail but it's Donald Trump and the video is where
 
 ---
 
-### No. 68: High-angle fairy grunge idol in cluttered closet
+### No. 69: High-angle fairy grunge idol in cluttered closet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3083,8 +3061,6 @@ Fairy grunge aesthetic, girl in rich blue dress and red leather boots lying upsi
 
 minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, hd digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3117,7 +3093,7 @@ minimalism, clean floor, bright daylight, cold lighting, organized, empty space,
 
 ---
 
-### No. 69: LINE sticker sheet from an attached image
+### No. 70: LINE sticker sheet from an attached image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3156,7 +3132,7 @@ Lineスタンプを作成。添付画像をチビキャラにしてセリフ入�
 
 ---
 
-### No. 70: Trompe l'oeil subject stepping out of social media screen
+### No. 71: Trompe l'oeil subject stepping out of social media screen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3170,8 +3146,6 @@ A prompt to turn an uploaded subject into a trompe l'oeil illusion where they st
 ```
 Trompe l'oeil illusion of {argument name="subject" default="A (subject)"} {argument name="attire" default="(attire)"} steps out of a large screen displaying {argument name="platform" default="xyz social media"} interface. The screen shows the username "@" 1K likes, and 12- 20 comments, with floating emojis (heart-eyes, smiley) around it. {argument name="background" default="your preferred background"}.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3192,7 +3166,7 @@ Trompe l'oeil illusion of {argument name="subject" default="A (subject)"} {argum
 
 ---
 
-### No. 71: Ultra-realistic Roronoa Zoro portrait
+### No. 72: Ultra-realistic Roronoa Zoro portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3225,7 +3199,7 @@ Ultra-realistic Roronoa Zoro portrait.
 
 ---
 
-### No. 72: Unpack items from bag onto bed haul shot
+### No. 73: Unpack items from bag onto bed haul shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3258,7 +3232,7 @@ Unpack the items from the bag and place them on the bed withe some of them scatt
 
 ---
 
-### No. 73: GTA 5 online action scene
+### No. 74: GTA 5 online action scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3291,7 +3265,7 @@ Create a picture of GTA 5 online where a person is shooting a car
 
 ---
 
-### No. 74: Four-panel comic about a clumsy elf
+### No. 75: Four-panel comic about a clumsy elf
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3324,7 +3298,7 @@ Nano Banana Proで4コマ漫画を作ってみよう、【 ドジっ子エルフ
 
 ---
 
-### No. 75: Hyper faithful image remaster
+### No. 76: Hyper faithful image remaster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3363,7 +3337,7 @@ Create a hyper faithful remaster of this image.
 
 ---
 
-### No. 76: Famicom game box, cartridge, manual, and CRT screen (Japanese)
+### No. 77: Famicom game box, cartridge, manual, and CRT screen (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3396,7 +3370,7 @@ A Japanese prompt from the replies to generate a Famicom game box, cartridge, ma
 
 ---
 
-### No. 77: Color comic of a character getting energized by barbecue
+### No. 78: Color comic of a character getting energized by barbecue
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3429,7 +3403,7 @@ A Japanese prompt to create a numbered-panel color comic where a given character
 
 ---
 
-### No. 78: Infographic from reference info with classic Japanese font
+### No. 79: Infographic from reference info with classic Japanese font
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3469,7 +3443,7 @@ lang:ja
 
 ---
 
-### No. 79: Rabbits wearing identical clothes
+### No. 80: Rabbits wearing identical clothes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3508,7 +3482,7 @@ The rabbits also wear the same clothes
 
 ---
 
-### No. 80: Coffee drinks infographic
+### No. 81: Coffee drinks infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3541,7 +3515,7 @@ Create an infographic showing different coffee drinks…
 
 ---
 
-### No. 81: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
+### No. 82: Hand-drawn style header image introducing Nano Banana Pro (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3559,8 +3533,6 @@ A Japanese prompt for turning an uploaded person into a hand-drawn style header 
 スタイル、カラー：シンプル、手描き風、斜体、青と緑のグラデーション
 タイトル：{argument name="タイトル" default="Googleの新 AI「Nano Banana Pro」徹底解説"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3587,7 +3559,7 @@ A Japanese prompt for turning an uploaded person into a hand-drawn style header 
 
 ---
 
-### No. 82: Hand-drawn style header image prompt from photo
+### No. 83: Hand-drawn style header image prompt from photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3631,7 +3603,7 @@ Banana Pro」徹底解説
 
 ---
 
-### No. 83: Header image with uploaded person introducing Nano Banana Pro
+### No. 84: Header image with uploaded person introducing Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3675,7 +3647,7 @@ Banana Pro」徹底解説￼
 
 ---
 
-### No. 84: Luxurious header image with uploaded person for Nano Banana Pro article
+### No. 85: Luxurious header image with uploaded person for Nano Banana Pro article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3714,7 +3686,7 @@ Banana Pro」徹底解説￼
 
 ---
 
-### No. 85: LINE sticker sheet for standing doll character (Japanese)
+### No. 86: LINE sticker sheet for standing doll character (Japanese)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3753,7 +3725,7 @@ A Japanese prompt asking for a 4x3 grid of 12 LINE stickers featuring a standing
 
 ---
 
-### No. 86: Translucent seawater whale in the clouds
+### No. 87: Translucent seawater whale in the clouds
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3786,7 +3758,7 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 
 ---
 
-### No. 87: Portfolio image for a fictional web designer
+### No. 88: Portfolio image for a fictional web designer
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3819,7 +3791,7 @@ A straightforward Japanese prompt to generate a portfolio image for an imaginary
 
 ---
 
-### No. 88: Levi’s shopping mirror selfie edit
+### No. 89: Levi’s shopping mirror selfie edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3833,8 +3805,6 @@ An English prompt that edits a person’s photo to look like they are shopping a
 ```
 Make it look like I am shopping at Levi's holding bags, taking a picture at the mirror in the store, covering my face with my phone, make the phone a {argument name="phone_model" default="Samsung S25 Plus"}.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3855,7 +3825,7 @@ Make it look like I am shopping at Levi's holding bags, taking a picture at the 
 
 ---
 
-### No. 89: Geolocation sunset scene at specific coordinates
+### No. 90: Geolocation sunset scene at specific coordinates
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3869,8 +3839,6 @@ Generates a sunset scene at a precise latitude and longitude, useful for geo-bas
 ```
 Create an image of {argument name="coordinates" default="7°36′28″S 110°12′14″E"} at {argument name="time" default="sunset"}.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3891,7 +3859,7 @@ Create an image of {argument name="coordinates" default="7°36′28″S 110°12�
 
 ---
 
-### No. 90: Presentation slide about PLM and digital thread
+### No. 91: Presentation slide about PLM and digital thread
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3905,8 +3873,6 @@ A Japanese business prompt that first asks the model to think through key messag
 ```
 ”{argument name="タイトル" default="PLMシステムがデジタルスレッド実現に不可欠な理由"}”というタイトルで、メッセージを支える要素を一度思考して洗い出してから、1枚のプレゼンスライドにして”
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -3927,7 +3893,7 @@ A Japanese business prompt that first asks the model to think through key messag
 
 ---
 
-### No. 91: Infographic about a CEO struggling with hiring
+### No. 92: Infographic about a CEO struggling with hiring
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3960,7 +3926,7 @@ A Japanese prompt for creating an infographic visualizing the situation of a com
 
 ---
 
-### No. 92: Abstract illustration of the structure of this world
+### No. 93: Abstract illustration of the structure of this world
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3993,7 +3959,7 @@ A very short Japanese prompt asking for an illustration that succinctly represen
 
 ---
 
-### No. 93: Infographic comparing ChatGPT 5.1 and Gemini 3
+### No. 94: Infographic comparing ChatGPT 5.1 and Gemini 3
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4026,7 +3992,7 @@ ChatGPT 5.1とGemini 3の比較をインフォグラフィックにして
 
 ---
 
-### No. 94: Chinese whiteboard summary of long documents
+### No. 95: Chinese whiteboard summary of long documents
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4065,7 +4031,7 @@ Instructs Nano Banana Pro to convert a long Chinese text into a professor-style 
 
 ---
 
-### No. 95: Character transformed into superalloy robot style
+### No. 96: Character transformed into superalloy robot style
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4098,7 +4064,7 @@ A prompt for turning an attached character image into a superalloy-style robot v
 
 ---
 
-### No. 96: Image enhancement and upscaling prompt
+### No. 97: Image enhancement and upscaling prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4149,7 +4115,7 @@ Enhance and upscale the image while keeping composition and colors identical. El
 
 ---
 
-### No. 97: Cutaway infographic of a 5th generation stealth fighter jet
+### No. 98: Cutaway infographic of a 5th generation stealth fighter jet
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4185,7 +4151,7 @@ A high-detail prompt for generating a 3D cutaway technical infographic of a mode
 
 ---
 
-### No. 98: Moody 2x2 editorial collage of an androgynous woman
+### No. 99: Moody 2x2 editorial collage of an androgynous woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4289,7 +4255,7 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 
 ---
 
-### No. 99: Lotte World Tower landmark-focused geolocation image
+### No. 100: Lotte World Tower landmark-focused geolocation image
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4303,8 +4269,6 @@ A refined geolocation prompt instructing Nano Banana Pro to generate an image at
 ```
 Create an image of {argument name="coordinates" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4325,7 +4289,7 @@ Create an image of {argument name="coordinates" default="37° 30' 40.4424'' N an
 
 ---
 
-### No. 100: Dinosaur appearing in front of Tokyo Metropolitan Government Building
+### No. 101: Dinosaur appearing in front of Tokyo Metropolitan Government Building
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4376,7 +4340,7 @@ A short Japanese prompt to place a specific dinosaur into a real-world location 
 
 ---
 
-### No. 101: Virtual outfit try-on with Tokyo street option
+### No. 102: Virtual outfit try-on with Tokyo street option
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4394,8 +4358,6 @@ Pose the person in a cute and natural pose, looking towards the camera.
 Realistic photo style, natural lighting, high resolution.
 Background optional, neutral or {argument name="background_location" default="Tokyo street"} setting.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4428,7 +4390,7 @@ Background optional, neutral or {argument name="background_location" default="To
 
 ---
 
-### No. 102: Recursive artist painting a photo of himself painting
+### No. 103: Recursive artist painting a photo of himself painting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4442,8 +4404,6 @@ Creates an amateur 1998-style photograph of a middle-aged artist copying an imag
 ```
 Amateur photograph from {argument name="year" default="1998"} of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4464,7 +4424,7 @@ Amateur photograph from {argument name="year" default="1998"} of a middle-aged a
 
 ---
 
-### No. 103: LINE sticker set from an attached illustration
+### No. 104: LINE sticker set from an attached illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4478,8 +4438,6 @@ A prompt that turns an attached illustration into a character-based LINE sticker
 ```
 添付画像のイラストをキャラにして。LINEスタンプを作成。表情・ポーズ別・セリフ入で{argument name="スタンプ数" default="16"}種類。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4500,7 +4458,7 @@ A prompt that turns an attached illustration into a character-based LINE sticker
 
 ---
 
-### No. 104: Wireframe schematic restyle prompt
+### No. 105: Wireframe schematic restyle prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4533,7 +4491,7 @@ make this a blue glowing 3D wireframe over black background. Add red wireframe t
 
 ---
 
-### No. 105: Pros and cons of real estate investment infographic
+### No. 106: Pros and cons of real estate investment infographic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4566,7 +4524,7 @@ A prompt to create an image that visually explains the pros and cons of real est
 
 ---
 
-### No. 106: LINE sticker set from an attached character image
+### No. 107: LINE sticker set from an attached character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4580,8 +4538,6 @@ A prompt to create a 12-piece LINE sticker set using an attached character, with
 ```
 添付画像のキャラクターでLINEスタンプを作成してほしい。表情・ポーズ・セリフが異なる形で全{argument name="スタンプ数" default="12"}種類。{argument name="セリフ系統" default="〇〇系"}のセリフで使いやすいものでお願い。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4608,7 +4564,7 @@ A prompt to create a 12-piece LINE sticker set using an attached character, with
 
 ---
 
-### No. 107: Tang poetry learning cards
+### No. 108: Tang poetry learning cards
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,8 +4578,6 @@ A prompt for generating learning cards for famous Tang poems, combining full tex
 ```
 给我来{argument name="诗词数量" default="10"}首著名的唐诗学习卡片，图像包含唐诗全文，同时画面要和诗句的内容相吻合，意境契合，方便学生理解诗文的背景和意境，有简单的中文注释。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4644,7 +4598,7 @@ A prompt for generating learning cards for famous Tang poems, combining full tex
 
 ---
 
-### No. 108: Zoom-in detail on toes
+### No. 109: Zoom-in detail on toes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4683,7 +4637,7 @@ Zoom in on the toes
 
 ---
 
-### No. 109: Night view of skyscraper via coordinates
+### No. 110: Night view of skyscraper via coordinates
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4699,8 +4653,6 @@ Create an image of {argument name="coordinates_1" default="37°31'11.24"N 126°5
 
 Create an image of {argument name="coordinates_2" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4721,7 +4673,7 @@ Create an image of {argument name="coordinates_2" default="37° 30' 40.4424'' N 
 
 ---
 
-### No. 110: Image summarizing basic income
+### No. 111: Image summarizing basic income
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4754,7 +4706,7 @@ A simple Japanese prompt requesting an image that summarizes the concept of basi
 
 ---
 
-### No. 111: Cleaned-up two-panel interview comic
+### No. 112: Cleaned-up two-panel interview comic
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4768,8 +4720,6 @@ A prompt asking the model to clean up a comic by mirroring the second panel and 
 ```
 ２コマめを左右反転した形で、全体を清書して頂くことはできますか？その際、面接官のセリフを、「{argument name="面接官セリフ" default="我が社が求めていた人材です！"}」に修正して下さい。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4790,7 +4740,7 @@ A prompt asking the model to clean up a comic by mirroring the second panel and 
 
 ---
 
-### No. 112: Water Margin top 30 characters grid in gongbi style
+### No. 113: Water Margin top 30 characters grid in gongbi style
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4823,7 +4773,7 @@ A Chinese prompt that generates a grid of the top 30 Water Margin characters in 
 
 ---
 
-### No. 113: Age progression of a woman into an old lady
+### No. 114: Age progression of a woman into an old lady
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4856,7 +4806,7 @@ A Japanese prompt that transforms the adult woman from the first image into an e
 
 ---
 
-### No. 114: Zoom in on a bee
+### No. 115: Zoom in on a bee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4895,7 +4845,7 @@ Zoom in on the bee
 
 ---
 
-### No. 115: Thumbnail text overlay based on attachment
+### No. 116: Thumbnail text overlay based on attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4911,8 +4861,6 @@ Instructs Nano Banana Pro to add two centered lines of Japanese text about Googl
 ↓
 {argument name="テキスト" default="Googleが画像生成AIの最終兵器「Nano Banana Pro」を公開"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -4939,7 +4887,7 @@ Instructs Nano Banana Pro to add two centered lines of Japanese text about Googl
 
 ---
 
-### No. 116: Portfolio strategy overview diagram from attachment
+### No. 117: Portfolio strategy overview diagram from attachment
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4972,7 +4920,7 @@ Asks Nano Banana Pro to create a diagram summarizing the strategy behind a perso
 
 ---
 
-### No. 117: Single-slide about advantages of investing in Vietnam
+### No. 118: Single-slide about advantages of investing in Vietnam
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5011,7 +4959,7 @@ A short prompt that asks Nano Banana Pro to create a slide summarizing the advan
 
 ---
 
-### No. 118: Shear and moment diagram for a loaded beam
+### No. 119: Shear and moment diagram for a loaded beam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5025,8 +4973,6 @@ An English engineering prompt that generates a shear and moment diagram for a si
 ```
 a shear and moment diagram for a simply supported beam with a uniform load of {argument name="load" default="100 plf"}. the beam is {argument name="length" default="100 feet"} long
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5047,7 +4993,7 @@ a shear and moment diagram for a simply supported beam with a uniform load of {a
 
 ---
 
-### No. 119: Physicist relaxing in a hammock with SPA drink
+### No. 120: Physicist relaxing in a hammock with SPA drink
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5080,7 +5026,7 @@ Physicist on a hammock, with a glass and an S.P.A. Only legs, without shoes and 
 
 ---
 
-### No. 120: Origami-style step-by-step folding instructions
+### No. 121: Origami-style step-by-step folding instructions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5094,8 +5040,6 @@ Creates a 2x3 grid of step-by-step visual folding instructions from a flat sheet
 ```
 Create a {argument name="grid_layout" default="2x 3"} grid of step-by-step visual folding instructions, from flat sheet to the final model. Each step should include a person completing that step
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5122,7 +5066,7 @@ Create a {argument name="grid_layout" default="2x 3"} grid of step-by-step visua
 
 ---
 
-### No. 121: Chalkboard king rabbit illustration at sunset
+### No. 122: Chalkboard king rabbit illustration at sunset
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5155,7 +5099,7 @@ Creates a classroom chalkboard artwork of a rabbit king with Japanese text, in a
 
 ---
 
-### No. 122: Ben 10 meets TMNT full comic page
+### No. 123: Ben 10 meets TMNT full comic page
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5169,8 +5113,6 @@ An English prompt for creating a full comic page where Ben 10 crosses over into 
 ```
 A full comic page bringing {argument name="character_1" default="Ben 10"} into the {argument name="universe" default="TMNT"} universe, expressive panels, clean linework, and vibrant colours that feel straight out of an official crossover issue.
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5191,7 +5133,7 @@ A full comic page bringing {argument name="character_1" default="Ben 10"} into t
 
 ---
 
-### No. 123: Bookstore POP display with acrylic marker illustration
+### No. 124: Bookstore POP display with acrylic marker illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5205,8 +5147,6 @@ A prompt for generating a bookstore POP display photo featuring an acrylic marke
 ```
 イラストをアクリルマーカーで描く、各色のアクリルマーカーを使う事、POPなので正面から見えるように撮影、本屋さんの風景、POPは新刊の前に飾られており、他の本より目立っている、イラスト右下に「{argument name="署名" default="ねこのしっぽ"}」と書いてある
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5233,7 +5173,7 @@ A prompt for generating a bookstore POP display photo featuring an acrylic marke
 
 ---
 
-### No. 124: Goth makeover variant of existing photo
+### No. 125: Goth makeover variant of existing photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5272,7 +5212,7 @@ Redo this as though this person was into goth music at the time
 
 ---
 
-### No. 125: Funny anatomical diagram of a pet
+### No. 126: Funny anatomical diagram of a pet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5305,7 +5245,7 @@ make a funny anatomical diagram of this pet, have humorous annotations
 
 ---
 
-### No. 126: Swimsuit to bikini pose-edit prompt (reply)
+### No. 127: Swimsuit to bikini pose-edit prompt (reply)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5344,7 +5284,7 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 
 ---
 
-### No. 127: Government results infographic from web sources
+### No. 128: Government results infographic from web sources
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5377,7 +5317,7 @@ A Japanese prompt that tells the model to research sources like Teikoku Databank
 
 ---
 
-### No. 128: Four-panel anime manga with panda-girl character
+### No. 129: Four-panel anime manga with panda-girl character
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5396,8 +5336,6 @@ Generates a vertical four-panel manga in typical Japanese anime style featuring 
 * 種族：{argument name="種族" default="パンダ人間（人間の少女だが、頭に丸いパンダの耳がついている）"}
 * 髪：{argument name="髪型" default="白銀のツインテール"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5418,7 +5356,7 @@ Generates a vertical four-panel manga in typical Japanese anime style featuring 
 
 ---
 
-### No. 129: Visual explanation of Think-cell solving document issues
+### No. 130: Visual explanation of Think-cell solving document issues
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5451,7 +5389,7 @@ Instructs Nano Banana Pro to create an explanatory image about document creation
 
 ---
 
-### No. 130: HUD battle power overlay for any character image
+### No. 131: HUD battle power overlay for any character image
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5504,7 +5442,7 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 ---
 
-### No. 131: Diagram explaining how to walk beautifully
+### No. 132: Diagram explaining how to walk beautifully
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5537,7 +5475,7 @@ A very simple Japanese prompt that asks Nano Banana Pro to create a diagram show
 
 ---
 
-### No. 132: Anthropomorphized apple and banana couple
+### No. 133: Anthropomorphized apple and banana couple
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5570,7 +5508,7 @@ A very short Japanese prompt that asks for a couple made of anthropomorphized ap
 
 ---
 
-### No. 133: Clean infographic style constraints in Japanese
+### No. 134: Clean infographic style constraints in Japanese
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5603,7 +5541,7 @@ Provides styling instructions for Nano Banana Pro to create simplified, flat-des
 
 ---
 
-### No. 134: 4-panel Japanese gag manga about Nanami eating ramen
+### No. 135: 4-panel Japanese gag manga about Nanami eating ramen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5617,8 +5555,6 @@ A detailed prompt for creating a vertical 4-panel Japanese gag manga featuring a
 ```
 この若い日本人女性『{argument name="キャラクター名" default="七海"}』が{argument name="料理" default="二郎系ラーメン"}を食べるシーンで、日本語の4コマギャグ漫画を作って。構図を工夫して顔漫画にならないように。縦に4コマ配置。セリフは縦書きで、右から左に読めるように配置。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5639,7 +5575,7 @@ A detailed prompt for creating a vertical 4-panel Japanese gag manga featuring a
 
 ---
 
-### No. 135: Split-screen time-lapse of same location by coordinates
+### No. 136: Split-screen time-lapse of same location by coordinates
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5667,8 +5603,6 @@ A detailed prompt to generate a single 16:9 photorealistic image split into left
 それぞれの年代が自然に感じられ、1枚の16:9フレームの中で 左右に並ぶ時代比較画像 として成立すること。
 --ar 16:9 --stylize 800 --v 6
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5707,7 +5641,7 @@ A detailed prompt to generate a single 16:9 photorealistic image split into left
 
 ---
 
-### No. 136: POV from a light gray rabbit
+### No. 137: POV from a light gray rabbit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5746,7 +5680,7 @@ Light gray rabbit's point-of-view shot
 
 ---
 
-### No. 137: Four-panel manga about Bitcoin from cypherpunk view
+### No. 138: Four-panel manga about Bitcoin from cypherpunk view
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5779,7 +5713,7 @@ Generates a Japanese four-panel manga where a reference character explains the o
 
 ---
 
-### No. 138: Idol flyer stuck on a steamed bun vending machine
+### No. 139: Idol flyer stuck on a steamed bun vending machine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5812,7 +5746,7 @@ Take the image of the hand-drawn style idol character flyer and visually depict 
 
 ---
 
-### No. 139: Edit city photo into rainy scene with Vietnamese bikers
+### No. 140: Edit city photo into rainy scene with Vietnamese bikers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5859,7 +5793,7 @@ Two sequential edit prompts: first convert a city scene into rainy weather, then
 
 ---
 
-### No. 140: Textbook-style illustration for the poem “Linjiangxian”
+### No. 141: Textbook-style illustration for the poem “Linjiangxian”
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5873,8 +5807,6 @@ A prompt for creating a textbook teaching illustration for the classical Chinese
 ```
 给{argument name="诗名" default="杨慎的《临江仙·滚滚长江东逝水》"}生成一个课本教学图
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5895,7 +5827,7 @@ A prompt for creating a textbook teaching illustration for the classical Chinese
 
 ---
 
-### No. 141: Pop-style flyer image for a note article
+### No. 142: Pop-style flyer image for a note article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5909,8 +5841,6 @@ A prompt to generate a colorful, pop-style flyer image that promotes a specific 
 ```
 このnoteの記事を紹介するポップなチラシ画像を作って。アスペクト比は{argument name="アスペクト比" default="3:4"}で
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -5931,7 +5861,7 @@ A prompt to generate a colorful, pop-style flyer image that promotes a specific 
 
 ---
 
-### No. 142: Isometric living room layout based on a sofa photo
+### No. 143: Isometric living room layout based on a sofa photo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5982,7 +5912,7 @@ A prompt for producing an anime-style isometric living room layout that matches 
 
 ---
 
-### No. 143: Whiteboard-style slide explaining a research paper
+### No. 144: Whiteboard-style slide explaining a research paper
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6015,7 +5945,7 @@ A prompt to turn a research paper into a Chinese whiteboard-style teaching slide
 
 ---
 
-### No. 144: Einstein learning selfies from Elon Musk (Chinese)
+### No. 145: Einstein learning selfies from Elon Musk (Chinese)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6029,8 +5959,6 @@ A Chinese prompt describing Einstein trying to take a selfie with a smartphone w
 ```
 头发蓬乱的爱因斯坦困惑地盯着智能手机，试图自拍。埃隆·马斯克站在他旁边，耐心地指着屏幕教他。手机屏幕上的字：“{argument name="屏幕文案" default="怎么拍照？"}”。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6051,7 +5979,7 @@ A Chinese prompt describing Einstein trying to take a selfie with a smartphone w
 
 ---
 
-### No. 145: Eye-catching thumbnail about Nano Banana Pro release
+### No. 146: Eye-catching thumbnail about Nano Banana Pro release
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6084,7 +6012,7 @@ A very short Japanese prompt to create an eye-catching thumbnail announcing that
 
 ---
 
-### No. 146: Bruce Lee sparring with Yoda in a dojo
+### No. 147: Bruce Lee sparring with Yoda in a dojo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6117,7 +6045,7 @@ A Chinese prompt depicting Bruce Lee in his yellow jumpsuit playfully sparring w
 
 ---
 
-### No. 147: High-detail story-art layout with frames and speech bubbles
+### No. 148: High-detail story-art layout with frames and speech bubbles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6136,8 +6064,6 @@ A replacement for the word “manga” that describes a three-frame high-resolut
 全体は画集のような高級感のある“アートレイアウト”で構成されている。
 参考画像の画風を忠実に再現し、繊細な線画・高精細に仕上げてください。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6164,7 +6090,7 @@ A replacement for the word “manga” that describes a three-frame high-resolut
 
 ---
 
-### No. 148: Pixel game character climbing out of TV
+### No. 149: Pixel game character climbing out of TV
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6197,7 +6123,7 @@ An English/Chinese mixed prompt describing a pixelated game character trying to 
 
 ---
 
-### No. 149: Cute chibi cat-eared girl illustration
+### No. 150: Cute chibi cat-eared girl illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6211,8 +6137,6 @@ A straightforward prompt for generating a cute chibi-style cat-eared girl with f
 ```
 カワイイ猫耳少女のイラストを生成して。ちびきゃら風で、フリフリのお洋服を着せて、ロングヘアーの{argument name="髪色" default="ピンク色"}の髪にして。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6233,7 +6157,7 @@ A straightforward prompt for generating a cute chibi-style cat-eared girl with f
 
 ---
 
-### No. 150: Change clothing to match reference outfit
+### No. 151: Change clothing to match reference outfit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6278,7 +6202,7 @@ Take the clothing from the reference and change mine to match it
 
 ---
 
-### No. 151: Hyper-realistic environmental portrait of stylish woman prompt (partial)
+### No. 152: Hyper-realistic environmental portrait of stylish woman prompt (partial)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6312,7 +6236,7 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 
 ---
 
-### No. 152: Connected series of four-panel manga strips
+### No. 153: Connected series of four-panel manga strips
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6363,7 +6287,7 @@ A meta-structural prompt (not fully quoted) that instructs Nano Banana Pro to cr
 
 ---
 
-### No. 153: Scientific diagram of cytotoxic T cells killing cancer cells
+### No. 154: Scientific diagram of cytotoxic T cells killing cancer cells
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6396,7 +6320,7 @@ A prompt to create a polished scientific illustration of how cytotoxic T cells r
 
 ---
 
-### No. 154: Captain’s worn sailing log sketch
+### No. 155: Captain’s worn sailing log sketch
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6429,7 +6353,7 @@ A stylized prompt for a sketchy pirate-themed captain’s log page featuring Luf
 
 ---
 
-### No. 155: Magazine-style photo containing given article text
+### No. 156: Magazine-style photo containing given article text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6443,8 +6367,6 @@ A prompt to embed a given block of text into a stylish magazine-article photogra
 ```
 請將這段文字原封不動地複製到一張精美雜誌文章的照片中，照片需包含圖片、漂亮的排版設計、精選語錄和大膽的格式。原文如下：{argument name="原文" default="[未格式化的文章文本貼在這裡]"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6465,7 +6387,7 @@ A prompt to embed a given block of text into a stylish magazine-article photogra
 
 ---
 
-### No. 156: AIFocus Twitter banner with Google branding
+### No. 157: AIFocus Twitter banner with Google branding
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6498,7 +6420,7 @@ A Chinese prompt to create a Banana-themed Twitter banner for AIFocus that match
 
 ---
 
-### No. 157: 16-bit pixel art poster of black-and-white animals
+### No. 158: 16-bit pixel art poster of black-and-white animals
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6549,7 +6471,7 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 
 ---
 
-### No. 158: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
+### No. 159: Annotated landmark images of Eiffel Tower, Great Wall, Colosseum, Taj Mahal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6592,7 +6514,7 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 
 ---
 
-### No. 159: Four-panel manga of a fairy who thinks Earth is a cat planet
+### No. 160: Four-panel manga of a fairy who thinks Earth is a cat planet
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6625,7 +6547,7 @@ A prompt telling Nano Banana Pro to create a four-panel comic where a fairy desc
 
 ---
 
-### No. 160: Structured rooftop winter portrait (JSON)
+### No. 161: Structured rooftop winter portrait (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6669,8 +6591,6 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 }
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -6690,7 +6610,7 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 
 ---
 
-### No. 161: Salted fish trying to flip in a pan
+### No. 162: Salted fish trying to flip in a pan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6723,7 +6643,7 @@ A humorous Chinese prompt depicting a salted fish in a frying pan trying to flip
 
 ---
 
-### No. 162: Hand-drawn infographic card about long-term IP building
+### No. 163: Hand-drawn infographic card about long-term IP building
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6744,8 +6664,6 @@ A detailed prompt for creating a 9:16 hand-drawn infographic card with brush scr
 主题是：“{argument name="主题" default="做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。"}”
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -6765,7 +6683,7 @@ A detailed prompt for creating a 9:16 hand-drawn infographic card with brush scr
 
 ---
 
-### No. 163: Blackboard summary of pasted content
+### No. 164: Blackboard summary of pasted content
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6798,7 +6716,7 @@ A simple prompt that takes some given text and turns it into a single blackboard
 
 ---
 
-### No. 164: 4 types of 4‑panel manga about Nano Banana Pro
+### No. 165: 4 types of 4‑panel manga about Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6812,8 +6730,6 @@ A detailed prompt that generates four different Japanese four-panel manga using 
 ```
 参照画像にある男性キャラクターと女性キャラクターによる日本語の4コマ漫画を作ってください。コマ割りは参照画像を使うこと。テーマは新しく発表された{argument name="テーマ対象" default="nano banana pro"}のこととし、最後の4コマ目で面白いオチを付けてください。ただし、生成AIに疎いユーザーにも直感的に{argument name="テーマ対象_再" default="nano banana pro"}のことが理解できるような構成としてください。これらの条件で4種類の4コマ漫画を作ってください。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6834,7 +6750,7 @@ A detailed prompt that generates four different Japanese four-panel manga using 
 
 ---
 
-### No. 165: Python Fibonacci code on glass whiteboard
+### No. 166: Python Fibonacci code on glass whiteboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6848,8 +6764,6 @@ A prompt to create a photo-like image of Python Fibonacci code written with colo
 ```
 create a photo of {argument name="programming_language" default="python"} code to calculate the fibonacci numbers drawn on a glass whiteboard with coloring markers
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6870,7 +6784,7 @@ create a photo of {argument name="programming_language" default="python"} code t
 
 ---
 
-### No. 166: Chibi character LINE stickers set
+### No. 167: Chibi character LINE stickers set
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6884,8 +6798,6 @@ A prompt to convert an attached character into a chibi style and generate a 12�
 ```
 添付画像のキャラクターをちびキャラにして。LINEスタンプを作成。表情・ポーズ別・セリフ入で{argument name="スタンプ数" default="12"}種類。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6912,7 +6824,7 @@ A prompt to convert an attached character into a chibi style and generate a 12�
 
 ---
 
-### No. 167: Policy-style slide about national medical data strategy
+### No. 168: Policy-style slide about national medical data strategy
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -6945,7 +6857,7 @@ A Japanese prompt that asks Nano Banana Pro to research the future direction of 
 
 ---
 
-### No. 168: Doujinshi cover from two characters
+### No. 169: Doujinshi cover from two characters
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6959,8 +6871,6 @@ A quick prompt that turns two supplied character images into a fan-made doujinsh
 ```
 {argument name="キャラ数" default="この二人"}の同人誌の表紙
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -6981,7 +6891,7 @@ A quick prompt that turns two supplied character images into a fan-made doujinsh
 
 ---
 
-### No. 169: Product ad-style image for a raccoon figure
+### No. 170: Product ad-style image for a raccoon figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7020,7 +6930,7 @@ A prompt to turn a provided figure photo into a Japanese product advertisement f
 
 ---
 
-### No. 170: Paper summary as Chinese whiteboard photo
+### No. 171: Paper summary as Chinese whiteboard photo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7059,7 +6969,7 @@ A prompt that turns the contents of a paper into a summarized Chinese whiteboard
 
 ---
 
-### No. 171: Ad manga for a radio show with a gorilla and rabbit
+### No. 172: Ad manga for a radio show with a gorilla and rabbit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7110,7 +7020,7 @@ A prompt to turn attached gorilla and rabbit characters into a one-page color ad
 
 ---
 
-### No. 172: Four-panel manga about a hungry woman and pancakes
+### No. 173: Four-panel manga about a hungry woman and pancakes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7134,8 +7044,6 @@ A structured Japanese prompt for generating a four-panel manga featuring a brigh
 ４：女性がパンケーキを食べながら「{argument name="セリフ4" default="美味し〜い！　でも太っちゃう！"}」
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -7155,7 +7063,7 @@ A structured Japanese prompt for generating a four-panel manga featuring a brigh
 
 ---
 
-### No. 173: Watermelon swimming pool micro-world
+### No. 174: Watermelon swimming pool micro-world
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7188,7 +7096,7 @@ A whimsical prompt for a cross-section of a giant watermelon whose flesh is a sw
 
 ---
 
-### No. 174: Surreal translucent blue whale in the clouds
+### No. 175: Surreal translucent blue whale in the clouds
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7221,7 +7129,7 @@ A Chinese prompt describing a golden-hour scene of a giant translucent blue whal
 
 ---
 
-### No. 175: Yin-yang koi ink illustration
+### No. 176: Yin-yang koi ink illustration
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7254,7 +7162,7 @@ A Chinese prompt to generate a minimalist zen-style overhead view of two koi for
 
 ---
 
-### No. 176: Figure-style product page design for a heartbreak girl figure
+### No. 177: Figure-style product page design for a heartbreak girl figure
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7282,8 +7190,6 @@ A detailed prompt for turning an image into an ultra-detailed figure-style produ
 原型製作：{argument name="原型師名" default="てんねん"}
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -7309,7 +7215,7 @@ A detailed prompt for turning an image into an ultra-detailed figure-style produ
 
 ---
 
-### No. 177: Outfit transfer between two photos
+### No. 178: Outfit transfer between two photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7356,7 +7262,7 @@ take clothes from image1 and put on person in image2. make sri that the clothe i
 
 ---
 
-### No. 178: Monochrome cinematic portrait of young woman
+### No. 179: Monochrome cinematic portrait of young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7389,7 +7295,7 @@ A cinematic, ultra-realistic monochrome portrait of a young woman with expressiv
 
 ---
 
-### No. 179: Humorous LINE sticker sheet for Oracle-chan
+### No. 180: Humorous LINE sticker sheet for Oracle-chan
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7422,7 +7328,7 @@ A prompt for generating a 12-sticker LINE stamp sheet featuring a given characte
 
 ---
 
-### No. 180: Landing page for a beauty serum
+### No. 181: Landing page for a beauty serum
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7455,7 +7361,7 @@ A very short Japanese prompt asking Nano Banana Pro to create a landing page des
 
 ---
 
-### No. 181: Food thumbnails and product shots
+### No. 182: Food thumbnails and product shots
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7496,7 +7402,7 @@ Very short Japanese prompts to generate thumbnails for fried chicken and Napolit
 
 ---
 
-### No. 182: Messenger sticker set from attached person
+### No. 183: Messenger sticker set from attached person
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7511,8 +7417,6 @@ A Japanese prompt asking to create a 4x5 grid of 20 square messenger stickers fe
 {argument name="アスペクト比" default="4:3"}, {argument name="解像度" default="2K"}
 添付の人物を題材にしたメッセンジャーソフト用のスタンプのセット。それぞれ正方形で、横5列、縦4行でバラエティに富んだ20個をなるべく大きく作る。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7533,7 +7437,7 @@ A Japanese prompt asking to create a 4x5 grid of 20 square messenger stickers fe
 
 ---
 
-### No. 183: Apple keynote-style event scene from text
+### No. 184: Apple keynote-style event scene from text
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7578,7 +7482,7 @@ A prompt to turn any supplied text into a dramatic Apple-style keynote event pho
 
 ---
 
-### No. 184: Essay-style manga about a family trip to Universal Studios
+### No. 185: Essay-style manga about a family trip to Universal Studios
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7592,8 +7496,6 @@ A prompt that turns a personal anecdote into an essay-style manga where a family
 ```
 添付のキャラがユニバに行こうと思い立った。家族でいく手順を調べていたらなんと子供料金ではなく{argument name="年齢区分" default="１１歳以上と以下"}でわかれるので{argument name="子どもの学年" default="小６"}の子どもが大人料金になると知ってびっくりする。という漫画作って。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7614,7 +7516,7 @@ A prompt that turns a personal anecdote into an essay-style manga where a family
 
 ---
 
-### No. 185: YouTube thumbnail design brief for a masked interview video
+### No. 186: YouTube thumbnail design brief for a masked interview video
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7652,8 +7554,6 @@ A long, detailed prompt asking the AI to design a high-conversion YouTube thumbn
 会話無限に続く（横幅いっぱい）
 ```
 
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
 #### 🖼️ Generated Images
 
 ##### Image 1
@@ -7679,7 +7579,7 @@ A long, detailed prompt asking the AI to design a high-conversion YouTube thumbn
 
 ---
 
-### No. 186: 4-panel manga about Gemini generating Japanese text images
+### No. 187: 4-panel manga about Gemini generating Japanese text images
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7693,8 +7593,6 @@ A prompt to create a 4-panel manga using an attached character who learns via sm
 ```
 添付のキャラクターが登場する 4コマ漫画を作成して。キャラクターが Gemini が日本語のテキストを含む画像を生成できるようになったことをスマホを見て知り、早速 {argument name="リンク" default="https://t.co/o4obUZzxf0"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7715,7 +7613,7 @@ A prompt to create a 4-panel manga using an attached character who learns via sm
 
 ---
 
-### No. 187: Map of Morocco during the 1799–1800 plague
+### No. 188: Map of Morocco during the 1799–1800 plague
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7729,8 +7627,6 @@ A prompt for generating a somewhat dark map of Morocco around 1799–1800, showi
 ```
 يعطيني خريطة {argument name="المنطقة" default="المغرب"} في {argument name="الفترة" default="1799-1800"} كاتبين كيفية إنتشار الطاعون ديك الساعة والنتائج ديالو و تكون شوية سودوية。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7751,7 +7647,7 @@ A prompt for generating a somewhat dark map of Morocco around 1799–1800, showi
 
 ---
 
-### No. 188: Perfume promo with niche Le Labo-like feel
+### No. 189: Perfume promo with niche Le Labo-like feel
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7802,7 +7698,7 @@ Another refinement prompt specifying a niche, tasteful high-end aesthetic simila
 
 ---
 
-### No. 189: Lego-style self portrait
+### No. 190: Lego-style self portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7816,8 +7712,6 @@ A simple prompt to turn the user into a Lego-style character, useful for playful
 ```
 make me into a {argument name="subject" default="Lego"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7844,7 +7738,7 @@ make me into a {argument name="subject" default="Lego"}
 
 ---
 
-### No. 190: Tesla FSD explainer infographic
+### No. 191: Tesla FSD explainer infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7858,8 +7752,6 @@ A simple prompt to generate an explanatory infographic about how Tesla Full Self
 ```
 Make an infographic that explains how {argument name="system_name" default="Tesla FSD"} works
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -7880,7 +7772,7 @@ Make an infographic that explains how {argument name="system_name" default="Tesl
 
 ---
 
-### No. 191: Weird mundane photo (LeonardoAI)
+### No. 192: Weird mundane photo (LeonardoAI)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7913,7 +7805,7 @@ the most weird mundane photo you can imagine
 
 ---
 
-### No. 192: Cinematic poster with movie characters
+### No. 193: Cinematic poster with movie characters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7953,7 +7845,7 @@ movies, a cinematic poster.
 
 ---
 
-### No. 193: Sci-fi cinematic triptych and expansions
+### No. 194: Sci-fi cinematic triptych and expansions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8006,7 +7898,7 @@ Expand the three images one by one into three 4:5 scenes
 
 ---
 
-### No. 194: Replace clothing while keeping identity and pose
+### No. 195: Replace clothing while keeping identity and pose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8047,7 +7939,7 @@ Do not alter my hairstyle, makeup, body proportions, camera angle, or
 
 ---
 
-### No. 195: Four-keyword prompt: Japanese near-future beauty in the city
+### No. 196: Four-keyword prompt: Japanese near-future beauty in the city
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8064,8 +7956,6 @@ A minimal Japanese prompt made of four words to generate a near-future beautiful
 {argument name="被写体" default="美女"}
 {argument name="場所" default="都心"}
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -8086,7 +7976,7 @@ A minimal Japanese prompt made of four words to generate a near-future beautiful
 
 ---
 
-### No. 196: Podcast cover from two reference portraits
+### No. 197: Podcast cover from two reference portraits
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8100,8 +7990,6 @@ A flexible prompt idea for generating a podcast cover using two uploaded portrai
 ```
 先拿兩張人像作為參考圖，然後讓 Nano Banana 用這兩張圖生成播客封面，指定背景「黑色概念圖」，燈光「演播室」，{argument name="姿勢說明" default="可以指定參考的美劇封面，也可以不說，自由發揮"}。
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -8128,7 +8016,7 @@ A flexible prompt idea for generating a podcast cover using two uploaded portrai
 
 ---
 
-### No. 197: Keep art, translate manga speech to English in original balloons
+### No. 198: Keep art, translate manga speech to English in original balloons
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8173,7 +8061,7 @@ A prompt for image editing: keep the original manga artwork, translate only the 
 
 ---
 
-### No. 198: Old photo restoration prompt
+### No. 199: Old photo restoration prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8212,7 +8100,7 @@ Restore this old, heavily damaged photo by removing all visible scratches, dents
 
 ---
 
-### No. 199: Neon-girl manga page 1 setup
+### No. 200: Neon-girl manga page 1 setup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8234,8 +8122,6 @@ A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical
 
 1ページ目
 ```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
 
 #### 🖼️ Generated Images
 
@@ -8274,49 +8160,13 @@ A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical
 
 ---
 
-### No. 200: Stereogram of Amatitlán Lake from above
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A Spanish prompt to mimic an existing stereogram while depicting Lake Amatitlán from a satellite-like top view, surrounded by mountains for a strong depth effect.
-
-#### 📝 Prompt
-
-```
-Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {argument name="lugar" default="lago de Amatitlán"} visto desde arriba (vista satelital) y con la cordillera de montañas alrededor del lago que dé un efecto de profundidad.
-```
-
-> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: `{argument name="..." default="..."}`
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/G6QSnACW8AAB1Nd.jpg" width="600" alt="Stereogram of Amatitlán Lake from above - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [cr.txt](https://x.com/crstn_hrndz)
-- **Source:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
-- **Published:** November 21, 2025
-- **Language:** en
-
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imita%20el%20siguiente%20estereograma%20usando%20la%20t%C3%A9cnica%20estereoscop%C3%ADa%2C%20pero%20con%20el%20%7Bargument%20name%3D%22lugar%22%20default%3D%22lago%20de%20Amatitl%C3%A1n%22%7D%20visto%20desde%20arriba%20(vista%20satelital)%20y%20con%20la%20cordillera%20de%20monta%C3%B1as%20alrededor%20del%20lago%20que%20d%C3%A9%20un%20efecto%20de%20profundidad.)**
-
----
-
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 291 more prompts not shown here
+### 🎯 292 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8379,6 +8229,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T12:21:39.545Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T13:21:54.953Z</sub>
 
 </div>
