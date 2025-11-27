@@ -1,8 +1,105 @@
-import fetch from 'node-fetch';
-import { stringify } from 'qs-esm';
+import fetch from "node-fetch";
+import { stringify } from "qs-esm";
 
 const CMS_HOST = process.env.CMS_HOST;
 const CMS_API_KEY = process.env.CMS_API_KEY;
+
+export interface Media {
+  id: number;
+  alt?: string | null;
+  caption?: {
+    root: {
+      type: string;
+      children: {
+        type: any;
+        version: number;
+        [k: string]: unknown;
+      }[];
+      direction: ("ltr" | "rtl") | null;
+      format: "left" | "start" | "center" | "right" | "end" | "justify" | "";
+      indent: number;
+      version: number;
+    };
+    [k: string]: unknown;
+  } | null;
+  updatedAt: string;
+  createdAt: string;
+  url?: string | null;
+  thumbnailURL?: string | null;
+  filename?: string | null;
+  mimeType?: string | null;
+  filesize?: number | null;
+  width?: number | null;
+  height?: number | null;
+  focalX?: number | null;
+  focalY?: number | null;
+  sizes?: {
+    tiny?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    thumbnail?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    square?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    small?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    medium?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    large?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    xlarge?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+    og?: {
+      url?: string | null;
+      width?: number | null;
+      height?: number | null;
+      mimeType?: string | null;
+      filesize?: number | null;
+      filename?: string | null;
+    };
+  };
+}
 
 export interface Prompt {
   id: number;
@@ -13,6 +110,11 @@ export interface Prompt {
   sourceLink: string;
   sourcePublishedAt: string;
   sourceMedia: string[];
+  video?: {
+    url: string;
+    thumbnail?: string;
+  };
+  media?: Media[];
   author: {
     name: string;
     link?: string;
@@ -32,15 +134,17 @@ interface CMSResponse {
  * 获取所有 prompts（英文版本）
  * @param locale 语言版本，默认 en-US
  */
-export async function fetchAllPrompts(locale: string = 'en-US'): Promise<Prompt[]> {
+export async function fetchAllPrompts(
+  locale: string = "en-US"
+): Promise<Prompt[]> {
   const query = {
     limit: 9999,
-    sort: '-sourcePublishedAt',
+    sort: "-sourcePublishedAt",
     depth: 2,
     locale,
     where: {
       model: {
-        equals: 'nano-banana-pro',
+        equals: "nano-banana-pro",
       },
     },
   };
@@ -50,8 +154,8 @@ export async function fetchAllPrompts(locale: string = 'en-US'): Promise<Prompt[
 
   const response = await fetch(url, {
     headers: {
-      'Authorization': `users API-Key ${CMS_API_KEY}`,
-      'Content-Type': 'application/json',
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
     },
   });
 
@@ -59,10 +163,26 @@ export async function fetchAllPrompts(locale: string = 'en-US'): Promise<Prompt[
     throw new Error(`CMS API error: ${response.statusText}`);
   }
 
-  const data = await response.json() as CMSResponse;
+  const data = (await response.json()) as CMSResponse;
 
   // 过滤：只要有图片的（不需要检查 _status，因为默认都是发布状态）
-  return data.docs.filter(p => p.sourceMedia?.length > 0);
+  return data.docs
+    .map((item) => {
+      let images: string[] = [];
+      if (item.media) {
+        images = item.media.map((m) => m.url || "").filter(Boolean) as string[];
+      } else {
+        if (item.sourceMedia) {
+          images = item.sourceMedia;
+        }
+        if (item.video?.thumbnail) {
+          images.push(item.video.thumbnail);
+        }
+      }
+
+      return { ...item, sourceMedia: images };
+    })
+    .filter((p) => p.sourceMedia?.length > 0);
 }
 
 /**
@@ -81,11 +201,14 @@ export function sortPrompts(prompts: Prompt[]) {
     } else if (a.sort !== undefined) return -1;
     else if (b.sort !== undefined) return 1;
 
-    return new Date(b.sourcePublishedAt).getTime() - new Date(a.sourcePublishedAt).getTime();
+    return (
+      new Date(b.sourcePublishedAt).getTime() -
+      new Date(a.sourcePublishedAt).getTime()
+    );
   });
 
-  const featured = sorted.filter(p => p.featured);
-  const regular = sorted.filter(p => !p.featured);
+  const featured = sorted.filter((p) => p.featured);
+  const regular = sorted.filter((p) => !p.featured);
 
   return {
     all: sorted,
@@ -101,21 +224,25 @@ export function sortPrompts(prompts: Prompt[]) {
 /**
  * 创建新 prompt（直接发布，无草稿）
  */
-export async function createPrompt(data: Partial<Prompt>): Promise<Prompt | null> {
+export async function createPrompt(
+  data: Partial<Prompt>
+): Promise<Prompt | null> {
   const url = `${CMS_HOST}/api/prompts`;
 
   const response = await fetch(url, {
-    method: 'POST',
+    method: "POST",
     headers: {
-      'Authorization': `users API-Key ${CMS_API_KEY}`,
-      'Content-Type': 'application/json',
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
     },
     body: JSON.stringify(data),
   });
 
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(`Failed to create prompt: ${response.statusText} - ${errorText}`);
+    throw new Error(
+      `Failed to create prompt: ${response.statusText} - ${errorText}`
+    );
   }
 
   return response.json() as Promise<Prompt | null>;
