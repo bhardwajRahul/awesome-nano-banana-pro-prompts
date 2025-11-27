@@ -55,6 +55,42 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 200;
 
+/**
+ * 清理提示词内容中的代码块标记
+ * 移除 ``` 或 ```json 等格式的代码块标记
+ * 
+ * 处理的情况：
+ * - ``` 提示词 ```
+ * - ```json 提示词 ```
+ * - ```python 提示词 ``` 等任意语言标识符
+ * - 多行内容中的代码块标记
+ */
+function cleanPromptContent(content: string): string {
+  if (!content) return content;
+  
+  let cleaned = content;
+  
+  // 匹配代码块标记：``` 或 ```language（如 ```json, ```python 等）
+  // 语言标识符可能包含字母、数字、连字符等（如 json, python, typescript）
+  
+  // 1. 移除开头的代码块标记
+  // 匹配：``` + 可选语言标识符 + 可选空白字符 + 可选换行
+  cleaned = cleaned.replace(/^```[\w-]*\s*\n?/im, '');
+  
+  // 2. 移除结尾的代码块标记
+  // 匹配：可选换行 + ``` + 可选空白字符
+  cleaned = cleaned.replace(/\n?```\s*$/im, '');
+  
+  // 3. 移除中间可能存在的代码块标记（处理嵌套或错误格式的情况）
+  // 匹配：换行 + ``` + 可选语言标识符 + 可选空白 + 换行
+  cleaned = cleaned.replace(/\n```[\w-]*\s*\n/g, '\n');
+  
+  // 4. 清理首尾空白字符（包括换行）
+  cleaned = cleaned.trim();
+  
+  return cleaned;
+}
+
 export function generateMarkdown(data: SortedPrompts, locale: string = 'en'): string {
   const { featured, regular, stats } = data;
 
@@ -150,7 +186,9 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
   });
 
   // Use translatedContent if available, otherwise fallback to content
-  const promptContent = prompt.translatedContent || prompt.content;
+  // Clean code block markers (``` or ```json etc.) from the content
+  const rawContent = prompt.translatedContent || prompt.content;
+  const promptContent = cleanPromptContent(rawContent);
   const hasArguments = promptContent.includes('{argument');
 
   let md = `### No. ${index + 1}: ${prompt.title}\n\n`;
