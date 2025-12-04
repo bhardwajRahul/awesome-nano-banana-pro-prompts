@@ -90,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **550** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **4 Aralık 2025 Perşembe 16:15:38 UTC** |
+| 🔄 Son Güncelleme | **4 Aralık 2025 Perşembe 20:13:55 UTC** |
 
 </div>
 
@@ -788,19 +788,21 @@ Minimalist modern bir yatağın kenarında bir kadın oturuyor. Uzun koyu dalgal
 
 ---
 
-### No. 10: Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu
+### No. 10: Nano Banana Pro için keçe oyuncak karakter istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Sevimli, yumuşak, çizgi film tarzı render'lar için ideal olan, özelleştirilebilir konu, özellikler, ifadeler ve ortamlarla tam vücut keçe oyuncak karakterleri oluşturmaya yönelik kısa bir Nano Banana Pro istem şablonu.
+Farklı yerlerde, ışıklandırmalarda ve ruh hallerinde tam vücut keçe oyuncak karakterler oluşturmak için esnek bir şablon istemi; sevimli, yumuşak görünümlü illüstrasyonlar için idealdir.
 
 #### 📝 İstem
 
 ```
-Tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="attributes and accessories" default="[nitelikler/aksesuarlar]"}, {argument name="expression" default="[ifade]"}, keçeden yapılmış, {argument name="place" default="[yer]"} içinde, {argument name="lighting" default="[aydınlatma]"}, arkadaş canlısı ve çizgi filmimsi görünüm, zengin ve yumuşak dokular
+Keçe oyuncaklar
+
+Keçeden yapılmış, tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="attributes and accessories" default="[nitelikler/aksesuarlar]"} ile, {argument name="expression" default="[ifade]"}, {argument name="place" default="[yer]"} içinde, {argument name="lighting" default="[aydınlatma]"} ile, arkadaş canlısı, çizgi film benzeri bir görünüme ve zengin, yumuşak dokulara sahip.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -808,25 +810,25 @@ Tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Nano Banana Pro için keçe oyuncak karakter istemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Nano Banana Pro için keçe oyuncak karakter istemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Nano Banana Pro için keçe oyuncak karakter istemi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Keçe oyuncaklar tam gövde Nano Banana Pro istem şablonu - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Nano Banana Pro için keçe oyuncak karakter istemi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -836,7 +838,7 @@ Tam vücut {argument name="subject" default="[Konu]"} oyuncak, {argument name="a
 - **Yayınlandı:** 30 Kasım 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Tam%20v%C3%BCcut%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BKonu%5D%22%7D%20oyuncak%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Bnitelikler%2Faksesuarlar%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bifade%5D%22%7D%2C%20ke%C3%A7eden%20yap%C4%B1lm%C4%B1%C5%9F%2C%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Byer%5D%22%7D%20i%C3%A7inde%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Bayd%C4%B1nlatma%5D%22%7D%2C%20arkada%C5%9F%20canl%C4%B1s%C4%B1%20ve%20%C3%A7izgi%20filmimsi%20g%C3%B6r%C3%BCn%C3%BCm%2C%20zengin%20ve%20yumu%C5%9Fak%20dokular)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ke%C3%A7e%20oyuncaklar%0A%0AKe%C3%A7eden%20yap%C4%B1lm%C4%B1%C5%9F%2C%20tam%20v%C3%BCcut%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BKonu%5D%22%7D%20oyuncak%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Bnitelikler%2Faksesuarlar%5D%22%7D%20ile%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bifade%5D%22%7D%2C%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Byer%5D%22%7D%20i%C3%A7inde%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Bayd%C4%B1nlatma%5D%22%7D%20ile%2C%20arkada%C5%9F%20canl%C4%B1s%C4%B1%2C%20%C3%A7izgi%20film%20benzeri%20bir%20g%C3%B6r%C3%BCn%C3%BCme%20ve%20zengin%2C%20yumu%C5%9Fak%20dokulara%20sahip.)**
 
 ---
 
@@ -964,41 +966,40 @@ Sinematik, hareket bulanıklığına sahip, yoğun yağmur altındaki kasvetli b
 
 ---
 
-### No. 14: Nano Banana Pro kontak sayfası çoklu çekim kamera istemi
+### No. 14: Referans görüntüden 3x3 sinematik kontak paftası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Bir girdi görüntüsünü analiz eden ve aynı konunun dokuz farklı çekim türüyle 3x3 sinematik bir kontak baskısı oluşturan güçlü bir talimat tarzı istem.
+Yüklenen bir referans görselden 3x3 sinematik storyboard ızgarası oluşturmak için ayrıntılı bir Nano Banana Pro talimat istemi; aynı konuyu korurken çekim türlerini ve açılarını çeşitlendirir.
 
 #### 📝 İstem
 
 ```
-Giriş görüntüsünün tüm kompozisyonunu analiz edin. Mekansal ilişkileri ve etkileşimleriyle birlikte mevcut tüm ana konuları (ister {argument name="type of subject" default="tek bir kişi, bir grup/çift, bir araç veya belirli bir nesne"} olsun) belirleyin.
-Bu konuların aynı ortamda 9 farklı çekimini gösteren tutarlı bir 3x3 "kontak tabaka" ızgarası oluşturun.
-İçeriğe uyacak şekilde standart sinematik çekim türlerini uyarlamalısınız (örneğin, bir grupsa grubu bir arada tutun; bir nesneyse nesnenin tamamını dahil edin):
-1. Satır (Ortamı Belirleme):
-Aşırı Uzun Çekim (ELS): Konu, geniş bir ortamda küçük görünür.
-Uzun Çekim (LS): Konu veya grup baştan aşağı (baştan ayağa / tekerleklerden çatıya) tamamen görünür.
-Orta Uzun Çekim (Amerikan çekimi / üç çeyrek): İnsanlar için dizlerin üzerinden, nesneler için 3/4 görünümden çerçevelenmiştir.
-2. Satır (Temel Kapsam):
-4. Orta Çekim (MS): Belden yukarı (veya bir nesnenin merkezi çekirdeği) çerçevelenmiş, etkileşime/eyleme odaklanılmıştır.
-5. Orta Yakın Çekim (MCU): Göğüsten yukarı çerçevelenmiş. Ana konunun samimi bir çerçevelemesi.
-6. Yakın Çekim (CU): Yüze veya nesnenin "önüne" sıkı çerçeveleme.
-3. Satır (Detaylar ve Açılar):
-7. Aşırı Yakın Çekim (ECU): Ana özelliklerin mikro detaylarına güçlü odaklanma (gözler, eller, logolar, dokular).
-8. Alçak Açı Çekim (solucan gözü görünümü): Konuya yerden yukarı bakma (dramatik/kahramanca his).
-9. Yüksek Açı Çekim (kuş bakışı görünümü): Konuya yukarıdan aşağı bakma.
-Kesin tutarlılık sağlayın: 9 panelin tamamında aynı kişi/nesne, aynı kıyafet ve aynı aydınlatma. Alan derinliği gerçekçi bir şekilde değişmelidir (yakın çekimlerde arka plan bulanıklığı ile).
+Giriş görüntüsünün tüm kompozisyonunu analiz edin. Mevcut tüm ana konuları (tek bir kişi, grup/çift, araç veya belirli bir nesne olsun) ve bunların uzamsal ilişkilerini/etkileşimlerini belirleyin.
+Tam olarak aynı konuların, aynı ortamda 9 farklı çekimini gösteren tutarlı bir 3x3 kontakt baskı ızgarası oluşturun.
+İçeriğe uyacak şekilde standart sinematik çekim türlerini uyarlamanız gerekir (örneğin, bir grupsa grubu bir arada tutun; bir nesneyse nesnenin tamamını çerçeveleyin):
+1. Satır (ortamı belirleme):
+Aşırı uzun çekim (ELS): konu, geniş bir ortamda küçük görünür.
+Uzun çekim (LS): konunun veya grubun tamamı baştan aşağı (baştan ayağa / tekerleklerden çatıya) görünür.
+Orta uzun çekim (Amerikan çekimi / üç çeyrek): dizlerin üzerinden (insanlar için) veya 3/4 perspektiften (nesneler için) çerçevelenir.
+2. Satır (temel kapsam):
+4. Orta çekim (MS): belden yukarı (veya nesnenin merkezi çekirdeği) çerçevelenir, etkileşime/eyleme odaklanır.
+5. Orta yakın çekim (MCU): göğüsten yukarı çerçevelenir, ana konunun samimi bir çerçevesidir.
+6. Yakın çekim (CU): yüze veya nesnenin "önüne" sıkı bir çerçeveleme.
+3. Satır (detaylar ve açılar):
+7. Aşırı yakın çekim (ECU): makro düzeyde detaylarla ana özelliklere (gözler, eller, logolar, dokular) yoğun odaklanma.
+8. Alçak açılı çekim (solucan gözü görüşü): konuya yerden yukarı bakma (destansı/kahramanca bir his).
+9. Yüksek açılı çekim (kuş bakışı görüşü): konuya yukarıdan aşağı bakma.
+Kesin tutarlılığı sağlayın: aynı kişi/nesne, aynı kıyafet ve aynı aydınlatma 9 panelin hepsinde görünmelidir. Alan derinliği gerçekçi bir şekilde değişmelidir (yakın çekimlerde arka plan bulanıklığı).
 
 9 panelli profesyonel bir 3x3 sinematik storyboard ızgarası.
-Izgara, giriş görüntüsündeki belirli konuyu/sahneyi tam bir odak uzaklığı aralığında sunar.
-Üst sıra: geniş çevresel çekim, tam görünüm, 3/4 kırpma (dizlerin üzeri).
+Izgara, giriş görüntüsündeki belirli konuyu/sahneyi kapsamlı bir odak uzaklığı yelpazesinde sunar.
+Üst sıra: geniş çevresel çekim, tam görünüm, 3/4 kırpma (diz çekimi).
 Orta sıra: belden yukarı görünüm, göğüsten yukarı görünüm, yüz/ön yakın çekim.
-Alt sıra: makro detaylar, alçak açı, yüksek açı.
-Tüm kareler fotogerçekçi dokulara, tutarlı sinematik renk derecelendirmesine ve analiz edilen konuların veya nesnelerin sayısı ve türü için doğru kompozisyona sahip olmalıdır.
+Alt sıra: makro detay, alçak açı, yüksek açı.
+Tüm kareler fotogerçekçi dokulara, tutarlı sinematik renk derecelendirmesine ve analiz edilen belirli sayıda konu veya nesne için doğru çerçevelemeye sahiptir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1006,31 +1007,31 @@ Tüm kareler fotogerçekçi dokulara, tutarlı sinematik renk derecelendirmesine
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Referans görüntüden 3x3 sinematik kontak paftası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Referans görüntüden 3x3 sinematik kontak paftası - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Referans görüntüden 3x3 sinematik kontak paftası - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Referans görüntüden 3x3 sinematik kontak paftası - Image 4">
 </div>
 
 ##### Image 5
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Nano Banana Pro kontak sayfası çoklu çekim kamera istemi - Image 5">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Referans görüntüden 3x3 sinematik kontak paftası - Image 5">
 </div>
 
 #### 📌 Detaylar
@@ -1040,7 +1041,7 @@ Tüm kareler fotogerçekçi dokulara, tutarlı sinematik renk derecelendirmesine
 - **Yayınlandı:** 29 Kasım 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BCn%20t%C3%BCm%20kompozisyonunu%20analiz%20edin.%20Mekansal%20ili%C5%9Fkileri%20ve%20etkile%C5%9Fimleriyle%20birlikte%20mevcut%20t%C3%BCm%20ana%20konular%C4%B1%20(ister%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22tek%20bir%20ki%C5%9Fi%2C%20bir%20grup%2F%C3%A7ift%2C%20bir%20ara%C3%A7%20veya%20belirli%20bir%20nesne%22%7D%20olsun)%20belirleyin.%0ABu%20konular%C4%B1n%20ayn%C4%B1%20ortamda%209%20farkl%C4%B1%20%C3%A7ekimini%20g%C3%B6steren%20tutarl%C4%B1%20bir%203x3%20%22kontak%20tabaka%22%20%C4%B1zgaras%C4%B1%20olu%C5%9Fturun.%0A%C4%B0%C3%A7eri%C4%9Fe%20uyacak%20%C5%9Fekilde%20standart%20sinematik%20%C3%A7ekim%20t%C3%BCrlerini%20uyarlamal%C4%B1s%C4%B1n%C4%B1z%20(%C3%B6rne%C4%9Fin%2C%20bir%20grupsa%20grubu%20bir%20arada%20tutun%3B%20bir%20nesneyse%20nesnenin%20tamam%C4%B1n%C4%B1%20dahil%20edin)%3A%0A1.%20Sat%C4%B1r%20(Ortam%C4%B1%20Belirleme)%3A%0AA%C5%9F%C4%B1r%C4%B1%20Uzun%20%C3%87ekim%20(ELS)%3A%20Konu%2C%20geni%C5%9F%20bir%20ortamda%20k%C3%BC%C3%A7%C3%BCk%20g%C3%B6r%C3%BCn%C3%BCr.%0AUzun%20%C3%87ekim%20(LS)%3A%20Konu%20veya%20grup%20ba%C5%9Ftan%20a%C5%9Fa%C4%9F%C4%B1%20(ba%C5%9Ftan%20aya%C4%9Fa%20%2F%20tekerleklerden%20%C3%A7at%C4%B1ya)%20tamamen%20g%C3%B6r%C3%BCn%C3%BCr.%0AOrta%20Uzun%20%C3%87ekim%20(Amerikan%20%C3%A7ekimi%20%2F%20%C3%BC%C3%A7%20%C3%A7eyrek)%3A%20%C4%B0nsanlar%20i%C3%A7in%20dizlerin%20%C3%BCzerinden%2C%20nesneler%20i%C3%A7in%203%2F4%20g%C3%B6r%C3%BCn%C3%BCmden%20%C3%A7er%C3%A7evelenmi%C5%9Ftir.%0A2.%20Sat%C4%B1r%20(Temel%20Kapsam)%3A%0A4.%20Orta%20%C3%87ekim%20(MS)%3A%20Belden%20yukar%C4%B1%20(veya%20bir%20nesnenin%20merkezi%20%C3%A7ekirde%C4%9Fi)%20%C3%A7er%C3%A7evelenmi%C5%9F%2C%20etkile%C5%9Fime%2Feyleme%20odaklan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A5.%20Orta%20Yak%C4%B1n%20%C3%87ekim%20(MCU)%3A%20G%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20%C3%A7er%C3%A7evelenmi%C5%9F.%20Ana%20konunun%20samimi%20bir%20%C3%A7er%C3%A7evelemesi.%0A6.%20Yak%C4%B1n%20%C3%87ekim%20(CU)%3A%20Y%C3%BCze%20veya%20nesnenin%20%22%C3%B6n%C3%BCne%22%20s%C4%B1k%C4%B1%20%C3%A7er%C3%A7eveleme.%0A3.%20Sat%C4%B1r%20(Detaylar%20ve%20A%C3%A7%C4%B1lar)%3A%0A7.%20A%C5%9F%C4%B1r%C4%B1%20Yak%C4%B1n%20%C3%87ekim%20(ECU)%3A%20Ana%20%C3%B6zelliklerin%20mikro%20detaylar%C4%B1na%20g%C3%BC%C3%A7l%C3%BC%20odaklanma%20(g%C3%B6zler%2C%20eller%2C%20logolar%2C%20dokular).%0A8.%20Al%C3%A7ak%20A%C3%A7%C4%B1%20%C3%87ekim%20(solucan%20g%C3%B6z%C3%BC%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC)%3A%20Konuya%20yerden%20yukar%C4%B1%20bakma%20(dramatik%2Fkahramanca%20his).%0A9.%20Y%C3%BCksek%20A%C3%A7%C4%B1%20%C3%87ekim%20(ku%C5%9F%20bak%C4%B1%C5%9F%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC)%3A%20Konuya%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1%20bakma.%0AKesin%20tutarl%C4%B1l%C4%B1k%20sa%C4%9Flay%C4%B1n%3A%209%20panelin%20tamam%C4%B1nda%20ayn%C4%B1%20ki%C5%9Fi%2Fnesne%2C%20ayn%C4%B1%20k%C4%B1yafet%20ve%20ayn%C4%B1%20ayd%C4%B1nlatma.%20Alan%20derinli%C4%9Fi%20ger%C3%A7ek%C3%A7i%20bir%20%C5%9Fekilde%20de%C4%9Fi%C5%9Fmelidir%20(yak%C4%B1n%20%C3%A7ekimlerde%20arka%20plan%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20ile).%0A%0A9%20panelli%20profesyonel%20bir%203x3%20sinematik%20storyboard%20%C4%B1zgaras%C4%B1.%0AIzgara%2C%20giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20belirli%20konuyu%2Fsahneyi%20tam%20bir%20odak%20uzakl%C4%B1%C4%9F%C4%B1%20aral%C4%B1%C4%9F%C4%B1nda%20sunar.%0A%C3%9Cst%20s%C4%B1ra%3A%20geni%C5%9F%20%C3%A7evresel%20%C3%A7ekim%2C%20tam%20g%C3%B6r%C3%BCn%C3%BCm%2C%203%2F4%20k%C4%B1rpma%20(dizlerin%20%C3%BCzeri).%0AOrta%20s%C4%B1ra%3A%20belden%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20g%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20y%C3%BCz%2F%C3%B6n%20yak%C4%B1n%20%C3%A7ekim.%0AAlt%20s%C4%B1ra%3A%20makro%20detaylar%2C%20al%C3%A7ak%20a%C3%A7%C4%B1%2C%20y%C3%BCksek%20a%C3%A7%C4%B1.%0AT%C3%BCm%20kareler%20fotoger%C3%A7ek%C3%A7i%20dokulara%2C%20tutarl%C4%B1%20sinematik%20renk%20derecelendirmesine%20ve%20analiz%20edilen%20konular%C4%B1n%20veya%20nesnelerin%20say%C4%B1s%C4%B1%20ve%20t%C3%BCr%C3%BC%20i%C3%A7in%20do%C4%9Fru%20kompozisyona%20sahip%20olmal%C4%B1d%C4%B1r.)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BCn%20t%C3%BCm%20kompozisyonunu%20analiz%20edin.%20Mevcut%20t%C3%BCm%20ana%20konular%C4%B1%20(tek%20bir%20ki%C5%9Fi%2C%20grup%2F%C3%A7ift%2C%20ara%C3%A7%20veya%20belirli%20bir%20nesne%20olsun)%20ve%20bunlar%C4%B1n%20uzamsal%20ili%C5%9Fkilerini%2Fetkile%C5%9Fimlerini%20belirleyin.%0ATam%20olarak%20ayn%C4%B1%20konular%C4%B1n%2C%20ayn%C4%B1%20ortamda%209%20farkl%C4%B1%20%C3%A7ekimini%20g%C3%B6steren%20tutarl%C4%B1%20bir%203x3%20kontakt%20bask%C4%B1%20%C4%B1zgaras%C4%B1%20olu%C5%9Fturun.%0A%C4%B0%C3%A7eri%C4%9Fe%20uyacak%20%C5%9Fekilde%20standart%20sinematik%20%C3%A7ekim%20t%C3%BCrlerini%20uyarlaman%C4%B1z%20gerekir%20(%C3%B6rne%C4%9Fin%2C%20bir%20grupsa%20grubu%20bir%20arada%20tutun%3B%20bir%20nesneyse%20nesnenin%20tamam%C4%B1n%C4%B1%20%C3%A7er%C3%A7eveleyin)%3A%0A1.%20Sat%C4%B1r%20(ortam%C4%B1%20belirleme)%3A%0AA%C5%9F%C4%B1r%C4%B1%20uzun%20%C3%A7ekim%20(ELS)%3A%20konu%2C%20geni%C5%9F%20bir%20ortamda%20k%C3%BC%C3%A7%C3%BCk%20g%C3%B6r%C3%BCn%C3%BCr.%0AUzun%20%C3%A7ekim%20(LS)%3A%20konunun%20veya%20grubun%20tamam%C4%B1%20ba%C5%9Ftan%20a%C5%9Fa%C4%9F%C4%B1%20(ba%C5%9Ftan%20aya%C4%9Fa%20%2F%20tekerleklerden%20%C3%A7at%C4%B1ya)%20g%C3%B6r%C3%BCn%C3%BCr.%0AOrta%20uzun%20%C3%A7ekim%20(Amerikan%20%C3%A7ekimi%20%2F%20%C3%BC%C3%A7%20%C3%A7eyrek)%3A%20dizlerin%20%C3%BCzerinden%20(insanlar%20i%C3%A7in)%20veya%203%2F4%20perspektiften%20(nesneler%20i%C3%A7in)%20%C3%A7er%C3%A7evelenir.%0A2.%20Sat%C4%B1r%20(temel%20kapsam)%3A%0A4.%20Orta%20%C3%A7ekim%20(MS)%3A%20belden%20yukar%C4%B1%20(veya%20nesnenin%20merkezi%20%C3%A7ekirde%C4%9Fi)%20%C3%A7er%C3%A7evelenir%2C%20etkile%C5%9Fime%2Feyleme%20odaklan%C4%B1r.%0A5.%20Orta%20yak%C4%B1n%20%C3%A7ekim%20(MCU)%3A%20g%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20%C3%A7er%C3%A7evelenir%2C%20ana%20konunun%20samimi%20bir%20%C3%A7er%C3%A7evesidir.%0A6.%20Yak%C4%B1n%20%C3%A7ekim%20(CU)%3A%20y%C3%BCze%20veya%20nesnenin%20%22%C3%B6n%C3%BCne%22%20s%C4%B1k%C4%B1%20bir%20%C3%A7er%C3%A7eveleme.%0A3.%20Sat%C4%B1r%20(detaylar%20ve%20a%C3%A7%C4%B1lar)%3A%0A7.%20A%C5%9F%C4%B1r%C4%B1%20yak%C4%B1n%20%C3%A7ekim%20(ECU)%3A%20makro%20d%C3%BCzeyde%20detaylarla%20ana%20%C3%B6zelliklere%20(g%C3%B6zler%2C%20eller%2C%20logolar%2C%20dokular)%20yo%C4%9Fun%20odaklanma.%0A8.%20Al%C3%A7ak%20a%C3%A7%C4%B1l%C4%B1%20%C3%A7ekim%20(solucan%20g%C3%B6z%C3%BC%20g%C3%B6r%C3%BC%C5%9F%C3%BC)%3A%20konuya%20yerden%20yukar%C4%B1%20bakma%20(destans%C4%B1%2Fkahramanca%20bir%20his).%0A9.%20Y%C3%BCksek%20a%C3%A7%C4%B1l%C4%B1%20%C3%A7ekim%20(ku%C5%9F%20bak%C4%B1%C5%9F%C4%B1%20g%C3%B6r%C3%BC%C5%9F%C3%BC)%3A%20konuya%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1%20bakma.%0AKesin%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20sa%C4%9Flay%C4%B1n%3A%20ayn%C4%B1%20ki%C5%9Fi%2Fnesne%2C%20ayn%C4%B1%20k%C4%B1yafet%20ve%20ayn%C4%B1%20ayd%C4%B1nlatma%209%20panelin%20hepsinde%20g%C3%B6r%C3%BCnmelidir.%20Alan%20derinli%C4%9Fi%20ger%C3%A7ek%C3%A7i%20bir%20%C5%9Fekilde%20de%C4%9Fi%C5%9Fmelidir%20(yak%C4%B1n%20%C3%A7ekimlerde%20arka%20plan%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1).%0A%0A9%20panelli%20profesyonel%20bir%203x3%20sinematik%20storyboard%20%C4%B1zgaras%C4%B1.%0AIzgara%2C%20giri%C5%9F%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BCndeki%20belirli%20konuyu%2Fsahneyi%20kapsaml%C4%B1%20bir%20odak%20uzakl%C4%B1%C4%9F%C4%B1%20yelpazesinde%20sunar.%0A%C3%9Cst%20s%C4%B1ra%3A%20geni%C5%9F%20%C3%A7evresel%20%C3%A7ekim%2C%20tam%20g%C3%B6r%C3%BCn%C3%BCm%2C%203%2F4%20k%C4%B1rpma%20(diz%20%C3%A7ekimi).%0AOrta%20s%C4%B1ra%3A%20belden%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20g%C3%B6%C4%9F%C3%BCsten%20yukar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%2C%20y%C3%BCz%2F%C3%B6n%20yak%C4%B1n%20%C3%A7ekim.%0AAlt%20s%C4%B1ra%3A%20makro%20detay%2C%20al%C3%A7ak%20a%C3%A7%C4%B1%2C%20y%C3%BCksek%20a%C3%A7%C4%B1.%0AT%C3%BCm%20kareler%20fotoger%C3%A7ek%C3%A7i%20dokulara%2C%20tutarl%C4%B1%20sinematik%20renk%20derecelendirmesine%20ve%20analiz%20edilen%20belirli%20say%C4%B1da%20konu%20veya%20nesne%20i%C3%A7in%20do%C4%9Fru%20%C3%A7er%C3%A7evelemeye%20sahiptir.)**
 
 ---
 
@@ -1118,24 +1119,85 @@ Bir kadını referans görseldekiyle tamamen aynı şekilde yeniden yaratmaya od
 
 ---
 
-### No. 17: Referans görüntülü ultra gerçekçi portre JSON istemi
+### No. 17: Nano Banana Pro için ultra gerçekçi deniz kenarı oteli portre istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Yüksek referans doğruluğu kullanarak bir referans fotoğrafın yüzüne ve kıyafetine kesinlikle uyan ultra gerçekçi portreler için bir Nano Banana Pro JSON istem yapılandırması.
+Lüks bir sahil oteli masasında oturan bir kadının ultra gerçekçi yakın çekim portresini, referans görüntüyle birebir eşleşecek şekilde, detaylı moda, mücevher, sahne donanımı ve aydınlatma seçenekleriyle oluşturmak için kapsamlı bir JSON tarzı istem.
 
 #### 📝 İstem
 
 ```
 {
-  "project": "{argument name=\"project name\" default=\"Ultra-Realistic Portrait\"}",
+  "project": "Ultra Gerçekçi Portre",
   "reference_settings": {
     "use_reference_image": true,
-    "fidelity_strength": "{argument name=\"fidelity strength\" default=\"100%\"}",
-    "instruction": "Yüz ve kıyafet, referans fotoğrafla %100 eşleşmeli ve kesinlikle hiçbir değişiklik yapılmamalıdır."
+    "fidelity_strength": "100%",
+    "instruction": "Yüz ve kıyafet, referans fotoğrafla kesinlikle hiçbir değişiklik olmadan %100 eşleşmelidir."
+  },
+  "subject": {
+    "demographics": "{argument name=\"subject\" default=\"Kadın\"}",
+    "focus_features": ["Gözler", "Burun", "Dudaklar"],
+    "expression": "{argument name=\"expression\" default=\"Gülümseyen, sevimli, taze, rüya gibi, hafif şehvetli\"}",
+    "pose": "{argument name=\"pose\" default=\"Beyaz bir masada oturmuş, çenesini iki eliyle dinlendirmiş, hafifçe dönmüş\"}",
+    "hair": {
+      "style": "{argument name=\"hair style\" default=\"Düz, büyük topuz\"}",
+      "accessory": "{argument name=\"hair accessory\" default=\"Kıyafetle uyumlu fiyonk\"}",
+      "texture": "Yumuşak katmanlı, gevşek tutamlar doğal olarak yüzüne dökülüyor",
+      "movement": "Hafifçe rüzgarda savrulmuş"
+    },
+    "makeup": {
+      "cheeks": "Yanaklarda ve burunda doğal allık",
+      "lips": "Dolgun dudaklar, yumuşak pembe-şeftali tonu"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "Referans görselle birebir uyumlu",
+    "shoes": "Yüksek topuklu ayakkabılar (referansla uyumlu)",
+    "bag": "Referans fotoğraftaki çanta ile aynı",
+    "jewelry": {
+      "necklace": "Değişen tılsımlarla ince altın kolye (kalp, hilal, Gucci kolye ucu)",
+      "bracelet": "Tılsımlı narin Gucci bileklik",
+      "rings": "Altın yüzükler",
+      "watch": "Çelik kayışlı Patek Philippe",
+      "earrings": "Küçük altın Gucci küpeler"
+    }
+  },
+  "environment": {
+    "location": "{argument name=\"location\" default=\"Lüks otel terası / Deniz kenarı\"}",
+    "time_of_day_options": [
+      "Seçenek A: {argument name=\"evening option\" default=\"Koyu mavi akşam gökyüzü, yıldızlar, kayan yıldız, ay ışığı\"}",
+      "Seçenek B: {argument name=\"sunrise option\" default=\"Erken gün doğumu, turuncu-sarı gökyüzü tonları\"}"
+    ],
+    "background_elements": [
+      "Lüks otelden gelen sıcak yansımalar",
+      "Sakin deniz manzarası"
+    ]
+  },
+  "props": {
+    "table_setting": "Beyaz masa",
+    "items": [
+      "Tek beyaz güllü cam",
+      "Şarap kadehi",
+      "Şarap şişesi",
+      "Bıçak ve çatallı tabak takımı",
+      "Ortada büyük T-bone biftek",
+      "Mum camı (sıcak bir vurgu ekliyor)"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "2000'ler dijital kamera flaş stili",
+    "lighting": "Gerçekçi flaş parlaklığı, sıcak ton, ciltte hafif parlaklık",
+    "mood": "Rahatlatıcı, sıcak, nostaljik, şık, zarif, hafif seksi",
+    "shot_type": "Yakın çekim portre"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "detail_level": "8k",
+    "style_tags": ["fotoğraf", "gerçekçi", "flaş fotoğrafçılığı"]
   }
 }
 ```
@@ -1145,7 +1207,7 @@ Yüksek referans doğruluğu kullanarak bir referans fotoğrafın yüzüne ve k�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Referans görüntülü ultra gerçekçi portre JSON istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Nano Banana Pro için ultra gerçekçi deniz kenarı oteli portre istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1155,22 +1217,22 @@ Yüksek referans doğruluğu kullanarak bir referans fotoğrafın yüzüne ve k�
 - **Yayınlandı:** 29 Kasım 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%7Bargument%20name%3D%5C%22project%20name%5C%22%20default%3D%5C%22Ultra-Realistic%20Portrait%5C%22%7D%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22fidelity%20strength%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Y%C3%BCz%20ve%20k%C4%B1yafet%2C%20referans%20foto%C4%9Frafla%20%25100%20e%C5%9Fle%C5%9Fmeli%20ve%20kesinlikle%20hi%C3%A7bir%20de%C4%9Fi%C5%9Fiklik%20yap%C4%B1lmamal%C4%B1d%C4%B1r.%22%0A%20%20%7D%0A%7D)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22Ultra%20Ger%C3%A7ek%C3%A7i%20Portre%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22100%25%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Y%C3%BCz%20ve%20k%C4%B1yafet%2C%20referans%20foto%C4%9Frafla%20kesinlikle%20hi%C3%A7bir%20de%C4%9Fi%C5%9Fiklik%20olmadan%20%25100%20e%C5%9Fle%C5%9Fmelidir.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%5C%22%20default%3D%5C%22Kad%C4%B1n%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22G%C3%B6zler%22%2C%20%22Burun%22%2C%20%22Dudaklar%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22G%C3%BCl%C3%BCmseyen%2C%20sevimli%2C%20taze%2C%20r%C3%BCya%20gibi%2C%20hafif%20%C5%9Fehvetli%5C%22%7D%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%7Bargument%20name%3D%5C%22pose%5C%22%20default%3D%5C%22Beyaz%20bir%20masada%20oturmu%C5%9F%2C%20%C3%A7enesini%20iki%20eliyle%20dinlendirmi%C5%9F%2C%20hafif%C3%A7e%20d%C3%B6nm%C3%BC%C5%9F%5C%22%7D%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22D%C3%BCz%2C%20b%C3%BCy%C3%BCk%20topuz%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20accessory%5C%22%20default%3D%5C%22K%C4%B1yafetle%20uyumlu%20fiyonk%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22Yumu%C5%9Fak%20katmanl%C4%B1%2C%20gev%C5%9Fek%20tutamlar%20do%C4%9Fal%20olarak%20y%C3%BCz%C3%BCne%20d%C3%B6k%C3%BCl%C3%BCyor%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22Hafif%C3%A7e%20r%C3%BCzgarda%20savrulmu%C5%9F%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22Yanaklarda%20ve%20burunda%20do%C4%9Fal%20all%C4%B1k%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Dolgun%20dudaklar%2C%20yumu%C5%9Fak%20pembe-%C5%9Feftali%20tonu%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Referans%20g%C3%B6rselle%20birebir%20uyumlu%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22Y%C3%BCksek%20topuklu%20ayakkab%C4%B1lar%20(referansla%20uyumlu)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22Referans%20foto%C4%9Fraftaki%20%C3%A7anta%20ile%20ayn%C4%B1%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22De%C4%9Fi%C5%9Fen%20t%C4%B1ls%C4%B1mlarla%20ince%20alt%C4%B1n%20kolye%20(kalp%2C%20hilal%2C%20Gucci%20kolye%20ucu)%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22T%C4%B1ls%C4%B1ml%C4%B1%20narin%20Gucci%20bileklik%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22Alt%C4%B1n%20y%C3%BCz%C3%BCkler%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22%C3%87elik%20kay%C4%B1%C5%9Fl%C4%B1%20Patek%20Philippe%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22K%C3%BC%C3%A7%C3%BCk%20alt%C4%B1n%20Gucci%20k%C3%BCpeler%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22L%C3%BCks%20otel%20teras%C4%B1%20%2F%20Deniz%20kenar%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22Se%C3%A7enek%20A%3A%20%7Bargument%20name%3D%5C%22evening%20option%5C%22%20default%3D%5C%22Koyu%20mavi%20ak%C5%9Fam%20g%C3%B6ky%C3%BCz%C3%BC%2C%20y%C4%B1ld%C4%B1zlar%2C%20kayan%20y%C4%B1ld%C4%B1z%2C%20ay%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22Se%C3%A7enek%20B%3A%20%7Bargument%20name%3D%5C%22sunrise%20option%5C%22%20default%3D%5C%22Erken%20g%C3%BCn%20do%C4%9Fumu%2C%20turuncu-sar%C4%B1%20g%C3%B6ky%C3%BCz%C3%BC%20tonlar%C4%B1%5C%22%7D%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22L%C3%BCks%20otelden%20gelen%20s%C4%B1cak%20yans%C4%B1malar%22%2C%0A%20%20%20%20%20%20%22Sakin%20deniz%20manzaras%C4%B1%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22Beyaz%20masa%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22Tek%20beyaz%20g%C3%BCll%C3%BC%20cam%22%2C%0A%20%20%20%20%20%20%22%C5%9Earap%20kadehi%22%2C%0A%20%20%20%20%20%20%22%C5%9Earap%20%C5%9Fi%C5%9Fesi%22%2C%0A%20%20%20%20%20%20%22B%C4%B1%C3%A7ak%20ve%20%C3%A7atall%C4%B1%20tabak%20tak%C4%B1m%C4%B1%22%2C%0A%20%20%20%20%20%20%22Ortada%20b%C3%BCy%C3%BCk%20T-bone%20biftek%22%2C%0A%20%20%20%20%20%20%22Mum%20cam%C4%B1%20(s%C4%B1cak%20bir%20vurgu%20ekliyor)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%222000'ler%20dijital%20kamera%20fla%C5%9F%20stili%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22Ger%C3%A7ek%C3%A7i%20fla%C5%9F%20parlakl%C4%B1%C4%9F%C4%B1%2C%20s%C4%B1cak%20ton%2C%20ciltte%20hafif%20parlakl%C4%B1k%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Rahatlat%C4%B1c%C4%B1%2C%20s%C4%B1cak%2C%20nostaljik%2C%20%C5%9F%C4%B1k%2C%20zarif%2C%20hafif%20seksi%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22Yak%C4%B1n%20%C3%A7ekim%20portre%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%228k%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22foto%C4%9Fraf%22%2C%20%22ger%C3%A7ek%C3%A7i%22%2C%20%22fla%C5%9F%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%22%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 18: Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi
+### No. 18: Eski fotoğraf restorasyonundan modern portre istemine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Eski bir fotoğrafı, orijinal poz ve ifadeyi koruyarak modern, yüksek kaliteli bir dijital portreye dönüştürmek için Nano Banana Pro kullanımına yönelik ayrıntılı bir İngilizce-Çince istem çifti. Güncel renkler ve stilin yanı sıra orijinal görüntüye yüksek benzerlik istediğiniz fotoğraf restorasyon iş akışları için harika.
+Eski bir fotoğrafı, poz ve ifadeyi koruyarak modern, yüksek kaliteli bir dijital portreye dönüştürmek için iki dilli bir istem; Nano Banana Pro fotoğraf restorasyonu için uygundur.
 
 #### 📝 İstem
 
 ```
-Görseli canlı, güncellenmiş renklere, pürüzsüz ve gerçekçi cilt dokularına ve doğal ışıklandırmaya sahip modern, yüksek kaliteli bir dijital portreye dönüştürün. Orijinal pozun ve ifadenin özgünlüğünü koruyarak kıyafeti ve arka planı temiz, modern bir estetiğe yükseltin.
+Canlı, güncel renkler, pürüzsüz gerçekçi cilt dokuları ve doğal aydınlatma ile modern, yüksek kaliteli bir dijital portreye dönüşün. Kıyafet ve arka plan, orijinal pozun ve ifadenin özgünlüğünü korurken temiz, modern bir estetiğe yükseltilmelidir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1178,25 +1240,25 @@ Görseli canlı, güncellenmiş renklere, pürüzsüz ve gerçekçi cilt dokular
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Eski fotoğraf restorasyonundan modern portre istemine - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Eski fotoğraf restorasyonundan modern portre istemine - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Eski fotoğraf restorasyonundan modern portre istemine - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Eski fotoğrafları modern portrelere dönüştürmek için Nano Banana Pro istemi - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Eski fotoğraf restorasyonundan modern portre istemine - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1206,7 +1268,7 @@ Görseli canlı, güncellenmiş renklere, pürüzsüz ve gerçekçi cilt dokular
 - **Yayınlandı:** 29 Kasım 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=G%C3%B6rseli%20canl%C4%B1%2C%20g%C3%BCncellenmi%C5%9F%20renklere%2C%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20ger%C3%A7ek%C3%A7i%20cilt%20dokular%C4%B1na%20ve%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1kland%C4%B1rmaya%20sahip%20modern%2C%20y%C3%BCksek%20kaliteli%20bir%20dijital%20portreye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Orijinal%20pozun%20ve%20ifadenin%20%C3%B6zg%C3%BCnl%C3%BC%C4%9F%C3%BCn%C3%BC%20koruyarak%20k%C4%B1yafeti%20ve%20arka%20plan%C4%B1%20temiz%2C%20modern%20bir%20esteti%C4%9Fe%20y%C3%BCkseltin.)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Canl%C4%B1%2C%20g%C3%BCncel%20renkler%2C%20p%C3%BCr%C3%BCzs%C3%BCz%20ger%C3%A7ek%C3%A7i%20cilt%20dokular%C4%B1%20ve%20do%C4%9Fal%20ayd%C4%B1nlatma%20ile%20modern%2C%20y%C3%BCksek%20kaliteli%20bir%20dijital%20portreye%20d%C3%B6n%C3%BC%C5%9F%C3%BCn.%20K%C4%B1yafet%20ve%20arka%20plan%2C%20orijinal%20pozun%20ve%20ifadenin%20%C3%B6zg%C3%BCnl%C3%BC%C4%9F%C3%BCn%C3%BC%20korurken%20temiz%2C%20modern%20bir%20esteti%C4%9Fe%20y%C3%BCkseltilmelidir.)**
 
 ---
 
@@ -1303,33 +1365,32 @@ Lütfen ekteki görseldeki kişiyi kullanın. Adı {argument name="name" default
 
 ---
 
-### No. 21: Nano Banana Pro için fütüristik cam morfoz PPT tasarım istemi
+### No. 21: Nano Banana Pro için fütüristik cam morfolojisi PPT tasarım istemi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Sizi uzman bir UI/UX slayt tasarımcısına dönüştüren, Apple Keynote ve modern SaaS tasarımından ilham alan, yüksek kaliteli, fütüristik cam morfüzme tarzında 16:9 sunumlar oluşturan ayrıntılı bir PPT oluşturma istemi.
+Yüksek kaliteli, fütüristik 16:9 sunum slaytları oluşturmak için uzun biçimli bir Nano Banana Pro istemi; glassmorphism SaaS/Keynote tarzında, PPT oluşturma özelliklerine uygun.
 
 #### 📝 İstem
 
 ```
-Uzman seviyesinde bir UI/UX sunum tasarımcısısınız. Yüksek kaliteli, fütüristik 16:9 sunum slaytları oluşturun. Görsel denge ve estetik ilkelerine dayanarak, bir kapak, ızgara düzeni veya veri görselleştirmesi arasından en mükemmel kompozisyonu otomatik olarak seçin.
+Uzman düzeyde bir UI/UX sunum tasarımcısısınız. Yüksek kaliteli, fütüristik 16:9 sunum slaytları oluşturun. Görsel denge ve estetiğe dayanarak, bir kapak düzeni, ızgara düzeni veya veri görselleştirme arasından en mükemmel kompozisyonu otomatik olarak seçin.
 
-Küresel görsel dil için stil, Apple Keynote minimalizmini, modern SaaS ürün tasarımını ve glassmorphism'i sorunsuz bir şekilde harmanlamalıdır. Genel ruh hali üst düzey, sürükleyici, temiz ve ferahlatıcı olmalıdır. Sinematik hacimsel aydınlatma, yumuşak ışın izlemeli yansımalar ve ortam tıkanıklığı kullanın. Renk şeması, temel olarak {argument name="base color" default="derin boşluk siyahı veya saf seramik beyazı"} kullanmalı, arka plan ve UI vurguları için {argument name="gradient accent colors" default="neon moru, elektrik mavisi, yumuşak mercan turuncusu, camgöbeği"} gibi akıcı aurora gradyanlarıyla vurgulanmalıdır.
+Genel görsel dil için, stil, Apple Keynote'un minimalizmini, modern SaaS ürün tasarımını ve cam efekti (glassmorphism) sorunsuz bir şekilde harmanlamalıdır. Genel ruh hali üst düzey, sürükleyici, temiz ve ferahlatıcı olmalıdır. Sinematik hacimsel aydınlatma, yumuşak ışın izlemeli yansımalar ve ortam karartma kullanın. Renk şeması için, temel olarak derin boşluk siyahı veya saf seramik beyazı seçin ve arka plan ve UI vurguları olarak akan aurora gradyanları – neon moru, elektrik mavisi, yumuşak mercan turuncusu ve camgöbeği – ile vurgulayın.
 
-Görsellerdeki içerik modülleri için aşağıdaki öğeleri akıllıca entegre edin:
+Her slayttaki içerik modülleri için aşağıdaki öğeleri akıllıca entegre edin:
 
-1. İçeriği modüler yuvarlak köşeli dikdörtgen kapsayıcılara düzenleyen bir bento kutusu ızgara sistemi kullanın. Kapsayıcılar, bulanıklık, narin beyaz kenarlıklar ve yumuşak gölgeler içeren buzlu cam malzemeye sahip olmalı ve kalabalığı önlemek için geniş iç boşlukları korumalıdır.
+1. İçeriği modüler yuvarlak köşeli dikdörtgen kaplara düzenleyen bir Bento kutusu ızgara sistemi kullanın. Kaplar, bulanıklık, narin beyaz kenarlar ve yumuşak gölgeler içeren buzlu cam malzemeden olmalı ve dağınıklığı önlemek için cömert iç beyaz boşluk bırakılmalıdır.
 
-2. Lüks hediye benzeri bir dokuya sahip 3D nesneler ekleyin, görsel çapa olarak benzersiz üst düzey soyut 3D parçalar oluşturun. Görünümleri, {argument name="3D object materials" default="cilalı metal, yanardöner akrilik, şeffaf cam veya yumuşak silikon"} gibi malzemelerle ve {argument name="3D object shapes" default="yüzen kapsüller, küreler, kalkanlar, Möbius şeritleri veya akışkan dalgalar"} gibi şekillerle pahalı fiziksel hediyeleri veya koleksiyonluk eşyaları andırmalıdır.
+2. Görsel çapa olarak benzersiz, üst düzey soyut 3D parçalar oluşturarak hediye benzeri 3D nesneler ekleyin. Cilalı metal, yanardöner akrilik, şeffaf cam veya yumuşak silikon gibi malzemelerle ve yüzen kapsüller, küreler, kalkanlar, Möbius şeritleri veya akışkan dalgalar gibi şekillerle somut, pahalı hediyeler veya koleksiyon parçaları gibi görünmelidirler.
 
-3. Tipografi ve veriler için yüksek kontrastlı temiz sans-serif yazı tipleri kullanın. Grafikler varsa, parlayan 3D donut grafikler, kapsül şeklinde ilerleme çubukları veya yüzen rakamlar kullanın ve grafikleri parlayan neon oyuncaklar gibi gösterin.
+3. Tipografi ve veriler için, güçlü kontrastlı temiz sans-serif yazı tipleri kullanın. Grafikler varsa, parlak 3D donut grafikler, kapsül şekilli ilerleme çubukları veya yüzen sayılar kullanın; grafikler parlak neon oyuncaklar gibi görünmelidir.
 
-Kompozisyon mantığı referansı: Bir kapak slaytı oluşturuluyorsa, ortaya büyük, karmaşık bir 3D cam nesne yerleştirin, üzerine kalın büyük metinler ekleyin ve arka planda aurora dalgalarını uzatın. Bir içerik slaytı oluşturuluyorsa, bento ızgara düzeni kullanın, küçük kartlara 3D simgeler ve büyük kartlara metin yerleştirin. Bir veri slaytı oluşturuluyorsa, bölünmüş ekran düzeni kullanın: metin solda düzenlenmiş, sağda ise büyük yüzen parlayan bir 3D veri görselleştirme grafiği.
+Kompozisyon mantığı referansı: Bir kapak sayfası oluşturuluyorsa, ortasına büyük, karmaşık bir 3D cam nesne yerleştirin, üzerine kalın büyük metin ekleyin ve arka planda genişletilmiş aurora dalgaları kullanın. Bir içerik sayfası oluşturuluyorsa, küçük kartlarda 3D simgeler ve büyük kartlarda metin içeren bir Bento ızgara düzeni kullanın. Bir veri sayfası oluşturuluyorsa, solda metin ve sağda büyük, parlak bir 3D veri görselleştirme grafiği yüzen bölünmüş ekran tasarımı kullanın.
 
-Render gereksinimleri: Unreal Engine 5 render, 8K çözünürlük, ultra detaylı dokular, güçlü UI tasarım anlayışı, UX arayüz kalitesi, Dribbble'da trend olan, ödüllü tasarım çalışması.
+Render kalitesi gereksinimleri: Unreal Engine 5 render, 8K çözünürlük, ultra detaylı dokular, güçlü UI tasarım anlayışı, UX arayüz kalitesi, Dribbble trend stili, ödüllü tasarım çalışması.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1337,7 +1398,7 @@ Render gereksinimleri: Unreal Engine 5 render, 8K çözünürlük, ultra detayl�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Nano Banana Pro için fütüristik cam morfoz PPT tasarım istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Nano Banana Pro için fütüristik cam morfolojisi PPT tasarım istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1347,7 +1408,7 @@ Render gereksinimleri: Unreal Engine 5 render, 8K çözünürlük, ultra detayl�
 - **Yayınlandı:** 29 Kasım 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Uzman%20seviyesinde%20bir%20UI%2FUX%20sunum%20tasar%C4%B1mc%C4%B1s%C4%B1s%C4%B1n%C4%B1z.%20Y%C3%BCksek%20kaliteli%2C%20f%C3%BCt%C3%BCristik%2016%3A9%20sunum%20slaytlar%C4%B1%20olu%C5%9Fturun.%20G%C3%B6rsel%20denge%20ve%20estetik%20ilkelerine%20dayanarak%2C%20bir%20kapak%2C%20%C4%B1zgara%20d%C3%BCzeni%20veya%20veri%20g%C3%B6rselle%C5%9Ftirmesi%20aras%C4%B1ndan%20en%20m%C3%BCkemmel%20kompozisyonu%20otomatik%20olarak%20se%C3%A7in.%0A%0AK%C3%BCresel%20g%C3%B6rsel%20dil%20i%C3%A7in%20stil%2C%20Apple%20Keynote%20minimalizmini%2C%20modern%20SaaS%20%C3%BCr%C3%BCn%20tasar%C4%B1m%C4%B1n%C4%B1%20ve%20glassmorphism'i%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlamal%C4%B1d%C4%B1r.%20Genel%20ruh%20hali%20%C3%BCst%20d%C3%BCzey%2C%20s%C3%BCr%C3%BCkleyici%2C%20temiz%20ve%20ferahlat%C4%B1c%C4%B1%20olmal%C4%B1d%C4%B1r.%20Sinematik%20hacimsel%20ayd%C4%B1nlatma%2C%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1n%20izlemeli%20yans%C4%B1malar%20ve%20ortam%20t%C4%B1kan%C4%B1kl%C4%B1%C4%9F%C4%B1%20kullan%C4%B1n.%20Renk%20%C5%9Femas%C4%B1%2C%20temel%20olarak%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22derin%20bo%C5%9Fluk%20siyah%C4%B1%20veya%20saf%20seramik%20beyaz%C4%B1%22%7D%20kullanmal%C4%B1%2C%20arka%20plan%20ve%20UI%20vurgular%C4%B1%20i%C3%A7in%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22neon%20moru%2C%20elektrik%20mavisi%2C%20yumu%C5%9Fak%20mercan%20turuncusu%2C%20camg%C3%B6be%C4%9Fi%22%7D%20gibi%20ak%C4%B1c%C4%B1%20aurora%20gradyanlar%C4%B1yla%20vurgulanmal%C4%B1d%C4%B1r.%0A%0AG%C3%B6rsellerdeki%20i%C3%A7erik%20mod%C3%BClleri%20i%C3%A7in%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6%C4%9Feleri%20ak%C4%B1ll%C4%B1ca%20entegre%20edin%3A%0A%0A1.%20%C4%B0%C3%A7eri%C4%9Fi%20mod%C3%BCler%20yuvarlak%20k%C3%B6%C5%9Feli%20dikd%C3%B6rtgen%20kapsay%C4%B1c%C4%B1lara%20d%C3%BCzenleyen%20bir%20bento%20kutusu%20%C4%B1zgara%20sistemi%20kullan%C4%B1n.%20Kapsay%C4%B1c%C4%B1lar%2C%20bulan%C4%B1kl%C4%B1k%2C%20narin%20beyaz%20kenarl%C4%B1klar%20ve%20yumu%C5%9Fak%20g%C3%B6lgeler%20i%C3%A7eren%20buzlu%20cam%20malzemeye%20sahip%20olmal%C4%B1%20ve%20kalabal%C4%B1%C4%9F%C4%B1%20%C3%B6nlemek%20i%C3%A7in%20geni%C5%9F%20i%C3%A7%20bo%C5%9Fluklar%C4%B1%20korumal%C4%B1d%C4%B1r.%0A%0A2.%20L%C3%BCks%20hediye%20benzeri%20bir%20dokuya%20sahip%203D%20nesneler%20ekleyin%2C%20g%C3%B6rsel%20%C3%A7apa%20olarak%20benzersiz%20%C3%BCst%20d%C3%BCzey%20soyut%203D%20par%C3%A7alar%20olu%C5%9Fturun.%20G%C3%B6r%C3%BCn%C3%BCmleri%2C%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22cilal%C4%B1%20metal%2C%20yanard%C3%B6ner%20akrilik%2C%20%C5%9Feffaf%20cam%20veya%20yumu%C5%9Fak%20silikon%22%7D%20gibi%20malzemelerle%20ve%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22y%C3%BCzen%20kaps%C3%BCller%2C%20k%C3%BCreler%2C%20kalkanlar%2C%20M%C3%B6bius%20%C5%9Feritleri%20veya%20ak%C4%B1%C5%9Fkan%20dalgalar%22%7D%20gibi%20%C5%9Fekillerle%20pahal%C4%B1%20fiziksel%20hediyeleri%20veya%20koleksiyonluk%20e%C5%9Fyalar%C4%B1%20and%C4%B1rmal%C4%B1d%C4%B1r.%0A%0A3.%20Tipografi%20ve%20veriler%20i%C3%A7in%20y%C3%BCksek%20kontrastl%C4%B1%20temiz%20sans-serif%20yaz%C4%B1%20tipleri%20kullan%C4%B1n.%20Grafikler%20varsa%2C%20parlayan%203D%20donut%20grafikler%2C%20kaps%C3%BCl%20%C5%9Feklinde%20ilerleme%20%C3%A7ubuklar%C4%B1%20veya%20y%C3%BCzen%20rakamlar%20kullan%C4%B1n%20ve%20grafikleri%20parlayan%20neon%20oyuncaklar%20gibi%20g%C3%B6sterin.%0A%0AKompozisyon%20mant%C4%B1%C4%9F%C4%B1%20referans%C4%B1%3A%20Bir%20kapak%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20ortaya%20b%C3%BCy%C3%BCk%2C%20karma%C5%9F%C4%B1k%20bir%203D%20cam%20nesne%20yerle%C5%9Ftirin%2C%20%C3%BCzerine%20kal%C4%B1n%20b%C3%BCy%C3%BCk%20metinler%20ekleyin%20ve%20arka%20planda%20aurora%20dalgalar%C4%B1n%C4%B1%20uzat%C4%B1n.%20Bir%20i%C3%A7erik%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20bento%20%C4%B1zgara%20d%C3%BCzeni%20kullan%C4%B1n%2C%20k%C3%BC%C3%A7%C3%BCk%20kartlara%203D%20simgeler%20ve%20b%C3%BCy%C3%BCk%20kartlara%20metin%20yerle%C5%9Ftirin.%20Bir%20veri%20slayt%C4%B1%20olu%C5%9Fturuluyorsa%2C%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20ekran%20d%C3%BCzeni%20kullan%C4%B1n%3A%20metin%20solda%20d%C3%BCzenlenmi%C5%9F%2C%20sa%C4%9Fda%20ise%20b%C3%BCy%C3%BCk%20y%C3%BCzen%20parlayan%20bir%203D%20veri%20g%C3%B6rselle%C5%9Ftirme%20grafi%C4%9Fi.%0A%0ARender%20gereksinimleri%3A%20Unreal%20Engine%205%20render%2C%208K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%2C%20ultra%20detayl%C4%B1%20dokular%2C%20g%C3%BC%C3%A7l%C3%BC%20UI%20tasar%C4%B1m%20anlay%C4%B1%C5%9F%C4%B1%2C%20UX%20aray%C3%BCz%20kalitesi%2C%20Dribbble'da%20trend%20olan%2C%20%C3%B6d%C3%BCll%C3%BC%20tasar%C4%B1m%20%C3%A7al%C4%B1%C5%9Fmas%C4%B1.)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Uzman%20d%C3%BCzeyde%20bir%20UI%2FUX%20sunum%20tasar%C4%B1mc%C4%B1s%C4%B1s%C4%B1n%C4%B1z.%20Y%C3%BCksek%20kaliteli%2C%20f%C3%BCt%C3%BCristik%2016%3A9%20sunum%20slaytlar%C4%B1%20olu%C5%9Fturun.%20G%C3%B6rsel%20denge%20ve%20esteti%C4%9Fe%20dayanarak%2C%20bir%20kapak%20d%C3%BCzeni%2C%20%C4%B1zgara%20d%C3%BCzeni%20veya%20veri%20g%C3%B6rselle%C5%9Ftirme%20aras%C4%B1ndan%20en%20m%C3%BCkemmel%20kompozisyonu%20otomatik%20olarak%20se%C3%A7in.%0A%0AGenel%20g%C3%B6rsel%20dil%20i%C3%A7in%2C%20stil%2C%20Apple%20Keynote'un%20minimalizmini%2C%20modern%20SaaS%20%C3%BCr%C3%BCn%20tasar%C4%B1m%C4%B1n%C4%B1%20ve%20cam%20efekti%20(glassmorphism)%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlamal%C4%B1d%C4%B1r.%20Genel%20ruh%20hali%20%C3%BCst%20d%C3%BCzey%2C%20s%C3%BCr%C3%BCkleyici%2C%20temiz%20ve%20ferahlat%C4%B1c%C4%B1%20olmal%C4%B1d%C4%B1r.%20Sinematik%20hacimsel%20ayd%C4%B1nlatma%2C%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1n%20izlemeli%20yans%C4%B1malar%20ve%20ortam%20karartma%20kullan%C4%B1n.%20Renk%20%C5%9Femas%C4%B1%20i%C3%A7in%2C%20temel%20olarak%20derin%20bo%C5%9Fluk%20siyah%C4%B1%20veya%20saf%20seramik%20beyaz%C4%B1%20se%C3%A7in%20ve%20arka%20plan%20ve%20UI%20vurgular%C4%B1%20olarak%20akan%20aurora%20gradyanlar%C4%B1%20%E2%80%93%20neon%20moru%2C%20elektrik%20mavisi%2C%20yumu%C5%9Fak%20mercan%20turuncusu%20ve%20camg%C3%B6be%C4%9Fi%20%E2%80%93%20ile%20vurgulay%C4%B1n.%0A%0AHer%20slayttaki%20i%C3%A7erik%20mod%C3%BClleri%20i%C3%A7in%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6%C4%9Feleri%20ak%C4%B1ll%C4%B1ca%20entegre%20edin%3A%0A%0A1.%20%C4%B0%C3%A7eri%C4%9Fi%20mod%C3%BCler%20yuvarlak%20k%C3%B6%C5%9Feli%20dikd%C3%B6rtgen%20kaplara%20d%C3%BCzenleyen%20bir%20Bento%20kutusu%20%C4%B1zgara%20sistemi%20kullan%C4%B1n.%20Kaplar%2C%20bulan%C4%B1kl%C4%B1k%2C%20narin%20beyaz%20kenarlar%20ve%20yumu%C5%9Fak%20g%C3%B6lgeler%20i%C3%A7eren%20buzlu%20cam%20malzemeden%20olmal%C4%B1%20ve%20da%C4%9F%C4%B1n%C4%B1kl%C4%B1%C4%9F%C4%B1%20%C3%B6nlemek%20i%C3%A7in%20c%C3%B6mert%20i%C3%A7%20beyaz%20bo%C5%9Fluk%20b%C4%B1rak%C4%B1lmal%C4%B1d%C4%B1r.%0A%0A2.%20G%C3%B6rsel%20%C3%A7apa%20olarak%20benzersiz%2C%20%C3%BCst%20d%C3%BCzey%20soyut%203D%20par%C3%A7alar%20olu%C5%9Fturarak%20hediye%20benzeri%203D%20nesneler%20ekleyin.%20Cilal%C4%B1%20metal%2C%20yanard%C3%B6ner%20akrilik%2C%20%C5%9Feffaf%20cam%20veya%20yumu%C5%9Fak%20silikon%20gibi%20malzemelerle%20ve%20y%C3%BCzen%20kaps%C3%BCller%2C%20k%C3%BCreler%2C%20kalkanlar%2C%20M%C3%B6bius%20%C5%9Feritleri%20veya%20ak%C4%B1%C5%9Fkan%20dalgalar%20gibi%20%C5%9Fekillerle%20somut%2C%20pahal%C4%B1%20hediyeler%20veya%20koleksiyon%20par%C3%A7alar%C4%B1%20gibi%20g%C3%B6r%C3%BCnmelidirler.%0A%0A3.%20Tipografi%20ve%20veriler%20i%C3%A7in%2C%20g%C3%BC%C3%A7l%C3%BC%20kontrastl%C4%B1%20temiz%20sans-serif%20yaz%C4%B1%20tipleri%20kullan%C4%B1n.%20Grafikler%20varsa%2C%20parlak%203D%20donut%20grafikler%2C%20kaps%C3%BCl%20%C5%9Fekilli%20ilerleme%20%C3%A7ubuklar%C4%B1%20veya%20y%C3%BCzen%20say%C4%B1lar%20kullan%C4%B1n%3B%20grafikler%20parlak%20neon%20oyuncaklar%20gibi%20g%C3%B6r%C3%BCnmelidir.%0A%0AKompozisyon%20mant%C4%B1%C4%9F%C4%B1%20referans%C4%B1%3A%20Bir%20kapak%20sayfas%C4%B1%20olu%C5%9Fturuluyorsa%2C%20ortas%C4%B1na%20b%C3%BCy%C3%BCk%2C%20karma%C5%9F%C4%B1k%20bir%203D%20cam%20nesne%20yerle%C5%9Ftirin%2C%20%C3%BCzerine%20kal%C4%B1n%20b%C3%BCy%C3%BCk%20metin%20ekleyin%20ve%20arka%20planda%20geni%C5%9Fletilmi%C5%9F%20aurora%20dalgalar%C4%B1%20kullan%C4%B1n.%20Bir%20i%C3%A7erik%20sayfas%C4%B1%20olu%C5%9Fturuluyorsa%2C%20k%C3%BC%C3%A7%C3%BCk%20kartlarda%203D%20simgeler%20ve%20b%C3%BCy%C3%BCk%20kartlarda%20metin%20i%C3%A7eren%20bir%20Bento%20%C4%B1zgara%20d%C3%BCzeni%20kullan%C4%B1n.%20Bir%20veri%20sayfas%C4%B1%20olu%C5%9Fturuluyorsa%2C%20solda%20metin%20ve%20sa%C4%9Fda%20b%C3%BCy%C3%BCk%2C%20parlak%20bir%203D%20veri%20g%C3%B6rselle%C5%9Ftirme%20grafi%C4%9Fi%20y%C3%BCzen%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20ekran%20tasar%C4%B1m%C4%B1%20kullan%C4%B1n.%0A%0ARender%20kalitesi%20gereksinimleri%3A%20Unreal%20Engine%205%20render%2C%208K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCk%2C%20ultra%20detayl%C4%B1%20dokular%2C%20g%C3%BC%C3%A7l%C3%BC%20UI%20tasar%C4%B1m%20anlay%C4%B1%C5%9F%C4%B1%2C%20UX%20aray%C3%BCz%20kalitesi%2C%20Dribbble%20trend%20stili%2C%20%C3%B6d%C3%BCll%C3%BC%20tasar%C4%B1m%20%C3%A7al%C4%B1%C5%9Fmas%C4%B1.)**
 
 ---
 
@@ -1831,24 +1892,85 @@ Bir sergi standının kaba taslağından perspektif çizimi oluşturun.
 
 ---
 
-### No. 31: Spor salonu yoga matı portre Nano Banana istemi
+### No. 31: Nano Banana Pro için spor salonu selfie tarzı yoga matı portre istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Yoga matında antrenman sonrası genç bir kadını tasvir eden bir Nano Banana istemi; fotogerçekçi spor salonu fotoğrafçılığı tarzında oluşturulmuş ve muhtemelen benzer fitness çekimleri için şablon olarak kullanılmıştır.
+Yoga matında genç bir kadının modern bir spor salonu selfiesini oluşturmak için yapılandırılmış bir JSON istemi; ayrıntılı kıyafet, aksesuarlar, arka plan ve aydınlatma ile.
 
 #### 📝 İstem
 
 ```
 {
   "subject": {
-    "description": "{argument name=\"subject description\" default=\"Yoga matında oturan, havluyla terini silen, su şişesi tutan genç bir kadın\"}",
-    "mirror_rules": "{argument name=\"mirror rules\" default=\"N/A - doğrudan spor salonu fotoğrafı\"}",
-    "age": "{argument name=\"age\" default=\"20'li yaşların sonları\"}",
-    "expression": "{argument name=\"expression\" default=\"başarılı, hafif nefes nefese, kendinden emin\"}"
+    "description": "Yoga matında oturan, havluyla terini silen, su şişesi tutan genç bir kadın",
+    "mirror_rules": "Yok - doğrudan spor salonu fotoğrafı",
+    "age": "20'li yaşların sonu",
+    "expression": "başarmış, hafifçe nefes nefese, kendinden emin gülümseme",
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"balyajlı sarı\"}",
+      "style": "{argument name=\"hair style\" default=\"yüksek at kuyruğu, egzersizden dolayı hafif dağınık ve uçuşan saçlar\"}"
+    },
+    "clothing": {
+      "top": {
+        "type": "spor sütyeni",
+        "color": "{argument name=\"top color\" default=\"toz pembe\"}",
+        "details": "orta destekli, sırtı çapraz askılı detaylı, terden dolayı nemli"
+      },
+      "bottom": {
+        "type": "yüksek belli tayt",
+        "color": "siyah, file panelli",
+        "details": "bilek boyu, baldırda file kesikler, sıkılaştırıcı kesim"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "minimal, egzersizden dolayı nemli, doğal kızarmış yanaklar, göz makyajı yok"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "yok",
+      "details": "saçlar scrunchie ile toplanmış"
+    },
+    "jewelry": {
+      "earrings": "küçük pırlanta küpeler",
+      "necklace": "yok",
+      "wrist": "rose gold fitness takip cihazı, bilekte siyah saç tokaları",
+      "rings": "yok"
+    },
+    "device": {
+      "type": "akıllı telefon",
+      "details": "bir dambıla yaslanmış, egzersiz selfie'si çekiyor"
+    },
+    "prop": {
+      "type": "yalıtımlı su şişesi",
+      "details": "mat siyah 32 oz'luk şişe, motivasyonel bir alıntı etiketiyle, üzerinde yoğuşma görülebilir"
+    }
+  },
+  "photography": {
+    "camera_style": "spor salonu selfie estetiği, akıllı telefon ön kamerası",
+    "angle": "göz seviyesinin hafif üzerinde, oturma pozisyonu",
+    "shot_type": "tam üst vücut ve çapraz bacaklar, ortalanmış kompozisyon",
+    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"9:16 dikey\"}",
+    "texture": "keskin detay, parlak spor salonu aydınlatması, enerjik his"
+  },
+  "background": {
+    "setting": "modern spor salonu stüdyosu",
+    "wall_color": "motivasyonel duvar resimli açık gri",
+    "elements": [
+      "serilmiş mor yoga matı",
+      "yakınlarda dağınık dambıl seti",
+      "omzuna asılı beyaz havlu",
+      "arka planda bulanık spor salonu ekipmanları",
+      "arka duvarı yansıtan büyük ayna",
+      "yerde sarılı direnç bantları"
+    ],
+    "atmosphere": "enerjik, başarmış, sağlık odaklı",
+    "lighting": "parlak tavan LED spor salonu aydınlatması, eşit kapsama"
   }
 }
 ```
@@ -1858,7 +1980,7 @@ Yoga matında antrenman sonrası genç bir kadını tasvir eden bir Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Spor salonu yoga matı portre Nano Banana istemi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Nano Banana Pro için spor salonu selfie tarzı yoga matı portre istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1868,7 +1990,7 @@ Yoga matında antrenman sonrası genç bir kadını tasvir eden bir Nano Banana 
 - **Yayınlandı:** 28 Kasım 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20description%5C%22%20default%3D%5C%22Yoga%20mat%C4%B1nda%20oturan%2C%20havluyla%20terini%20silen%2C%20su%20%C5%9Fi%C5%9Fesi%20tutan%20gen%C3%A7%20bir%20kad%C4%B1n%5C%22%7D%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%7Bargument%20name%3D%5C%22mirror%20rules%5C%22%20default%3D%5C%22N%2FA%20-%20do%C4%9Frudan%20spor%20salonu%20foto%C4%9Fraf%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22age%22%3A%20%22%7Bargument%20name%3D%5C%22age%5C%22%20default%3D%5C%2220'li%20ya%C5%9Flar%C4%B1n%20sonlar%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22ba%C5%9Far%C4%B1l%C4%B1%2C%20hafif%20nefes%20nefese%2C%20kendinden%20emin%5C%22%7D%22%0A%20%20%7D%0A%7D)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Yoga%20mat%C4%B1nda%20oturan%2C%20havluyla%20terini%20silen%2C%20su%20%C5%9Fi%C5%9Fesi%20tutan%20gen%C3%A7%20bir%20kad%C4%B1n%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22Yok%20-%20do%C4%9Frudan%20spor%20salonu%20foto%C4%9Fraf%C4%B1%22%2C%0A%20%20%20%20%22age%22%3A%20%2220'li%20ya%C5%9Flar%C4%B1n%20sonu%22%2C%0A%20%20%20%20%22expression%22%3A%20%22ba%C5%9Farm%C4%B1%C5%9F%2C%20hafif%C3%A7e%20nefes%20nefese%2C%20kendinden%20emin%20g%C3%BCl%C3%BCmseme%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22balyajl%C4%B1%20sar%C4%B1%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22y%C3%BCksek%20at%20kuyru%C4%9Fu%2C%20egzersizden%20dolay%C4%B1%20hafif%20da%C4%9F%C4%B1n%C4%B1k%20ve%20u%C3%A7u%C5%9Fan%20sa%C3%A7lar%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22spor%20s%C3%BCtyeni%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22top%20color%5C%22%20default%3D%5C%22toz%20pembe%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22orta%20destekli%2C%20s%C4%B1rt%C4%B1%20%C3%A7apraz%20ask%C4%B1l%C4%B1%20detayl%C4%B1%2C%20terden%20dolay%C4%B1%20nemli%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22y%C3%BCksek%20belli%20tayt%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22siyah%2C%20file%20panelli%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22bilek%20boyu%2C%20bald%C4%B1rda%20file%20kesikler%2C%20s%C4%B1k%C4%B1la%C5%9Ft%C4%B1r%C4%B1c%C4%B1%20kesim%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22minimal%2C%20egzersizden%20dolay%C4%B1%20nemli%2C%20do%C4%9Fal%20k%C4%B1zarm%C4%B1%C5%9F%20yanaklar%2C%20g%C3%B6z%20makyaj%C4%B1%20yok%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22yok%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22sa%C3%A7lar%20scrunchie%20ile%20toplanm%C4%B1%C5%9F%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22k%C3%BC%C3%A7%C3%BCk%20p%C4%B1rlanta%20k%C3%BCpeler%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22yok%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22rose%20gold%20fitness%20takip%20cihaz%C4%B1%2C%20bilekte%20siyah%20sa%C3%A7%20tokalar%C4%B1%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22yok%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22ak%C4%B1ll%C4%B1%20telefon%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22bir%20damb%C4%B1la%20yaslanm%C4%B1%C5%9F%2C%20egzersiz%20selfie'si%20%C3%A7ekiyor%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22yal%C4%B1t%C4%B1ml%C4%B1%20su%20%C5%9Fi%C5%9Fesi%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22mat%20siyah%2032%20oz'luk%20%C5%9Fi%C5%9Fe%2C%20motivasyonel%20bir%20al%C4%B1nt%C4%B1%20etiketiyle%2C%20%C3%BCzerinde%20yo%C4%9Fu%C5%9Fma%20g%C3%B6r%C3%BClebilir%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22spor%20salonu%20selfie%20esteti%C4%9Fi%2C%20ak%C4%B1ll%C4%B1%20telefon%20%C3%B6n%20kameras%C4%B1%22%2C%0A%20%20%20%20%22angle%22%3A%20%22g%C3%B6z%20seviyesinin%20hafif%20%C3%BCzerinde%2C%20oturma%20pozisyonu%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22tam%20%C3%BCst%20v%C3%BCcut%20ve%20%C3%A7apraz%20bacaklar%2C%20ortalanm%C4%B1%C5%9F%20kompozisyon%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%229%3A16%20dikey%5C%22%7D%22%2C%0A%20%20%20%20%22texture%22%3A%20%22keskin%20detay%2C%20parlak%20spor%20salonu%20ayd%C4%B1nlatmas%C4%B1%2C%20enerjik%20his%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22modern%20spor%20salonu%20st%C3%BCdyosu%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22motivasyonel%20duvar%20resimli%20a%C3%A7%C4%B1k%20gri%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22serilmi%C5%9F%20mor%20yoga%20mat%C4%B1%22%2C%0A%20%20%20%20%20%20%22yak%C4%B1nlarda%20da%C4%9F%C4%B1n%C4%B1k%20damb%C4%B1l%20seti%22%2C%0A%20%20%20%20%20%20%22omzuna%20as%C4%B1l%C4%B1%20beyaz%20havlu%22%2C%0A%20%20%20%20%20%20%22arka%20planda%20bulan%C4%B1k%20spor%20salonu%20ekipmanlar%C4%B1%22%2C%0A%20%20%20%20%20%20%22arka%20duvar%C4%B1%20yans%C4%B1tan%20b%C3%BCy%C3%BCk%20ayna%22%2C%0A%20%20%20%20%20%20%22yerde%20sar%C4%B1l%C4%B1%20diren%C3%A7%20bantlar%C4%B1%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22enerjik%2C%20ba%C5%9Farm%C4%B1%C5%9F%2C%20sa%C4%9Fl%C4%B1k%20odakl%C4%B1%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22parlak%20tavan%20LED%20spor%20salonu%20ayd%C4%B1nlatmas%C4%B1%2C%20e%C5%9Fit%20kapsama%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -6375,19 +6497,23 @@ Yeni bir butik fırın için video reklamı oluşturun.
 
 ---
 
-### No. 146: Tang şiiri öğrenme kartları
+### No. 146: Eğitim amaçlı bilgi kartı ve öğrenme kartı istemleri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Ünlü Tang şiirleri için öğrenme kartları oluşturmaya yönelik bir komut istemi; şiirin ruh halini ve arka planını öğrencilerin anlamasına yardımcı olmak için tam metin, eşleşen görseller ve basit açıklamaları bir araya getiriyor.
+Fizik yasaları infografikleri, İngilizce durumsal diyalog kartları ve öğrenciler için Çince şiir öğrenme kartları oluşturmaya yönelik üç adet Nano Banana Pro istemi.
 
 #### 📝 İstem
 
 ```
-Ünlü Tang şiirleri için {argument name="poem_count_en" default="10"} öğrenme kartı oluştur. Her görsel şiirin tam metnini içermeli ve görseller dizelerin içeriğiyle ve genel ruh haliyle eşleşmeli, böylece öğrencilerin şiirin arka planını ve atmosferini anlamalarını kolaylaştırmalıdır. Basit Çince açıklamalar ekle.
+Fizik yasası istemi: Ortaokul ders kitabındaki {argument name="physics law scope" default="tüm fizik yasaları"} için, her yasa için bir görsel olacak şekilde bilgi kartları oluşturun. İçerik, ortaokul öğrencilerinin kolayca okuyup kavrayabileceği şekilde anlaşılması kolay ve erişilebilir olmalıdır.
+
+İngilizce kart istemi: Bana, {argument name="English scenario examples" default="yemek sipariş etme, seyahat ederken yol sorma, oteller, havaalanı check-in ve diğer yaygın durumlar"} gibi günlük yaşam senaryoları aracılığıyla sunulan, her kart için bir görsel içeren İngilizce öğrenme kartları oluşturmama yardım edin. Her kart, insanlar arasında bir diyalog sahnesi ve ana yaygın olarak kullanılan cümleleri içermeli, ayrıca anahtar kelimeleri (fonetik transkripsiyon ve anlamları vb. ile birlikte) listelemelidir. İncelemem için {argument name="number of English scenarios" default="12"} senaryo ile başlayın.
+
+Şiir kartı istemi: {argument name="number of poems" default="10"} ünlü Tang şiiri için öğrenme kartları oluşturun. Her görsel, şiirin tam metnini içermeli ve görseller, dizelerin içeriğiyle eşleşmeli ve şiirin ruh hali ve imgeleriyle uyumlu olmalı, öğrencilerin arka planı ve atmosferi anlamalarına yardımcı olmalıdır. Basit Çince açıklamalar ekleyin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -6395,7 +6521,7 @@ Yeni bir butik fırın için video reklamı oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang şiiri öğrenme kartları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Eğitim amaçlı bilgi kartı ve öğrenme kartı istemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6405,7 +6531,7 @@ Yeni bir butik fırın için video reklamı oluşturun.
 - **Yayınlandı:** 22 Kasım 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%C3%9Cnl%C3%BC%20Tang%20%C5%9Fiirleri%20i%C3%A7in%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20%C3%B6%C4%9Frenme%20kart%C4%B1%20olu%C5%9Ftur.%20Her%20g%C3%B6rsel%20%C5%9Fiirin%20tam%20metnini%20i%C3%A7ermeli%20ve%20g%C3%B6rseller%20dizelerin%20i%C3%A7eri%C4%9Fiyle%20ve%20genel%20ruh%20haliyle%20e%C5%9Fle%C5%9Fmeli%2C%20b%C3%B6ylece%20%C3%B6%C4%9Frencilerin%20%C5%9Fiirin%20arka%20plan%C4%B1n%C4%B1%20ve%20atmosferini%20anlamalar%C4%B1n%C4%B1%20kolayla%C5%9Ft%C4%B1rmal%C4%B1d%C4%B1r.%20Basit%20%C3%87ince%20a%C3%A7%C4%B1klamalar%20ekle.)**
+**[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Fizik%20yasas%C4%B1%20istemi%3A%20Ortaokul%20ders%20kitab%C4%B1ndaki%20%7Bargument%20name%3D%22physics%20law%20scope%22%20default%3D%22t%C3%BCm%20fizik%20yasalar%C4%B1%22%7D%20i%C3%A7in%2C%20her%20yasa%20i%C3%A7in%20bir%20g%C3%B6rsel%20olacak%20%C5%9Fekilde%20bilgi%20kartlar%C4%B1%20olu%C5%9Fturun.%20%C4%B0%C3%A7erik%2C%20ortaokul%20%C3%B6%C4%9Frencilerinin%20kolayca%20okuyup%20kavrayabilece%C4%9Fi%20%C5%9Fekilde%20anla%C5%9F%C4%B1lmas%C4%B1%20kolay%20ve%20eri%C5%9Filebilir%20olmal%C4%B1d%C4%B1r.%0A%0A%C4%B0ngilizce%20kart%20istemi%3A%20Bana%2C%20%7Bargument%20name%3D%22English%20scenario%20examples%22%20default%3D%22yemek%20sipari%C5%9F%20etme%2C%20seyahat%20ederken%20yol%20sorma%2C%20oteller%2C%20havaalan%C4%B1%20check-in%20ve%20di%C4%9Fer%20yayg%C4%B1n%20durumlar%22%7D%20gibi%20g%C3%BCnl%C3%BCk%20ya%C5%9Fam%20senaryolar%C4%B1%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20sunulan%2C%20her%20kart%20i%C3%A7in%20bir%20g%C3%B6rsel%20i%C3%A7eren%20%C4%B0ngilizce%20%C3%B6%C4%9Frenme%20kartlar%C4%B1%20olu%C5%9Fturmama%20yard%C4%B1m%20edin.%20Her%20kart%2C%20insanlar%20aras%C4%B1nda%20bir%20diyalog%20sahnesi%20ve%20ana%20yayg%C4%B1n%20olarak%20kullan%C4%B1lan%20c%C3%BCmleleri%20i%C3%A7ermeli%2C%20ayr%C4%B1ca%20anahtar%20kelimeleri%20(fonetik%20transkripsiyon%20ve%20anlamlar%C4%B1%20vb.%20ile%20birlikte)%20listelemelidir.%20%C4%B0ncelemem%20i%C3%A7in%20%7Bargument%20name%3D%22number%20of%20English%20scenarios%22%20default%3D%2212%22%7D%20senaryo%20ile%20ba%C5%9Flay%C4%B1n.%0A%0A%C5%9Eiir%20kart%C4%B1%20istemi%3A%20%7Bargument%20name%3D%22number%20of%20poems%22%20default%3D%2210%22%7D%20%C3%BCnl%C3%BC%20Tang%20%C5%9Fiiri%20i%C3%A7in%20%C3%B6%C4%9Frenme%20kartlar%C4%B1%20olu%C5%9Fturun.%20Her%20g%C3%B6rsel%2C%20%C5%9Fiirin%20tam%20metnini%20i%C3%A7ermeli%20ve%20g%C3%B6rseller%2C%20dizelerin%20i%C3%A7eri%C4%9Fiyle%20e%C5%9Fle%C5%9Fmeli%20ve%20%C5%9Fiirin%20ruh%20hali%20ve%20imgeleriyle%20uyumlu%20olmal%C4%B1%2C%20%C3%B6%C4%9Frencilerin%20arka%20plan%C4%B1%20ve%20atmosferi%20anlamalar%C4%B1na%20yard%C4%B1mc%C4%B1%20olmal%C4%B1d%C4%B1r.%20Basit%20%C3%87ince%20a%C3%A7%C4%B1klamalar%20ekleyin.)**
 
 ---
 
@@ -8546,6 +8672,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-04T16:15:38.945Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-04T20:13:55.195Z</sub>
 
 </div>

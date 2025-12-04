@@ -90,7 +90,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **550** |
 | ⭐ Ausgewählt | **5** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 4. Dezember 2025 um 16:15:30 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 4. Dezember 2025 um 20:13:28 UTC** |
 
 </div>
 
@@ -788,19 +788,21 @@ Eine Frau sitzt auf der Kante eines minimalistischen, modernen Bettes. Sie hat l
 
 ---
 
-### No. 10: Filzspielzeug Ganzkörper Nano Banana Pro Prompt-Vorlage
+### No. 10: Filzspielzeug-Charakter-Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Eine prägnante Nano Banana Pro Prompt-Vorlage zur Generierung von Ganzkörper-Filzspielzeug-Charakteren mit anpassbaren Motiven, Attributen, Ausdrücken und Umgebungen, ideal für niedliche, weiche, cartoonartige Renderings.
+Eine flexible Template-Eingabeaufforderung zum Generieren von Ganzkörper-Filzspielzeugfiguren an verschiedenen Orten, mit unterschiedlicher Beleuchtung und Stimmung, ideal für niedliche, weich aussehende Illustrationen.
 
 #### 📝 Prompt
 
 ```
-Ganzkörper-Spielzeug {argument name="subject" default="[Subject]"}, {argument name="attributes and accessories" default="[attributes/accessories]"}, {argument name="expression" default="[expression]"}, aus Filz, an einem/einer {argument name="place" default="[place]"}, {argument name="lighting" default="[lighting]"}, freundliches und cartoonartiges Aussehen, satte und weiche Texturen
+Filzspielzeug
+
+Ganzkörper-Spielzeug {argument name="subject" default="[Subject]"}, {argument name="attributes and accessories" default="[attributes/accessories]"}, {argument name="expression" default="[expression]"}, aus Filz, an einem {argument name="place" default="[place]"}, {argument name="lighting" default="[lighting]"}, mit freundlichem, cartoonartigem Aussehen und satten, weichen Texturen.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -808,25 +810,25 @@ Ganzkörper-Spielzeug {argument name="subject" default="[Subject]"}, {argument n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Filzspielzeug Ganzkörper Nano Banana Pro Prompt-Vorlage - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Filzspielzeug-Charakter-Prompt für Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Filzspielzeug Ganzkörper Nano Banana Pro Prompt-Vorlage - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Filzspielzeug-Charakter-Prompt für Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Filzspielzeug Ganzkörper Nano Banana Pro Prompt-Vorlage - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Filzspielzeug-Charakter-Prompt für Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Filzspielzeug Ganzkörper Nano Banana Pro Prompt-Vorlage - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Filzspielzeug-Charakter-Prompt für Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Details
@@ -836,7 +838,7 @@ Ganzkörper-Spielzeug {argument name="subject" default="[Subject]"}, {argument n
 - **Veröffentlicht:** 30. November 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Ganzk%C3%B6rper-Spielzeug%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSubject%5D%22%7D%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Battributes%2Faccessories%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bexpression%5D%22%7D%2C%20aus%20Filz%2C%20an%20einem%2Feiner%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Bplace%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Blighting%5D%22%7D%2C%20freundliches%20und%20cartoonartiges%20Aussehen%2C%20satte%20und%20weiche%20Texturen)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Filzspielzeug%0A%0AGanzk%C3%B6rper-Spielzeug%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSubject%5D%22%7D%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Battributes%2Faccessories%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bexpression%5D%22%7D%2C%20aus%20Filz%2C%20an%20einem%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Bplace%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Blighting%5D%22%7D%2C%20mit%20freundlichem%2C%20cartoonartigem%20Aussehen%20und%20satten%2C%20weichen%20Texturen.)**
 
 ---
 
@@ -964,41 +966,40 @@ Ein Nano Banana Pro JSON-Prompt, der ein filmisches, bewegungsunscharfes Filmsti
 
 ---
 
-### No. 14: Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt
+### No. 14: 3x3-Kinokontaktbogen aus einem Referenzbild
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein leistungsstarker Prompt im Anweisungsstil, der ein Eingabebild analysiert und ein kinematisches 3x3-Kontaktblatt mit neun verschiedenen Aufnahmetypen desselben Motivs generiert.
+Ein detaillierter Nano Banana Pro Anweisungs-Prompt zur Erstellung eines 3x3-Kinostoryboard-Rasters aus einem hochgeladenen Referenzbild, wobei das gleiche Motiv beibehalten und gleichzeitig die Aufnahmetypen und -winkel variiert werden.
 
 #### 📝 Prompt
 
 ```
-Analysieren Sie die gesamte Komposition des Eingabebildes. Identifizieren Sie alle wichtigen vorhandenen Motive (ob {argument name="type of subject" default="eine einzelne Person, eine Gruppe/ein Paar, ein Fahrzeug oder ein bestimmtes Objekt"}) zusammen mit ihren räumlichen Beziehungen und Interaktionen.
-Erstellen Sie ein kohärentes 3x3-„Kontaktbogen“-Raster, das 9 verschiedene Aufnahmen dieser Motive in derselben Umgebung zeigt.
-Sie müssen standardmäßige filmische Aufnahmetypen an den Inhalt anpassen (z. B. die Gruppe zusammenhalten, wenn es sich um eine Gruppe handelt; das gesamte Objekt einbeziehen, wenn es sich um ein Objekt handelt):
-Reihe 1 (Umgebung etablieren):
-Extreme Long Shot (ELS): Das Motiv erscheint klein in einer weiten Umgebung.
-Long Shot (LS): Das Motiv oder die Gruppe ist von oben bis unten (Kopf bis Fuß / Räder bis Dach) vollständig sichtbar.
-Medium Long Shot (American Shot / Dreiviertel): Bei Personen ab den Knien, bei Objekten eine 3/4-Ansicht.
+Analysieren Sie die gesamte Komposition des Eingabebildes. Identifizieren Sie alle vorhandenen Schlüsselsubjekte (ob eine einzelne Person, eine Gruppe/ein Paar, ein Fahrzeug oder ein bestimmtes Objekt) und deren räumliche Beziehungen/Interaktionen.
+Erstellen Sie ein kohärentes 3x3-Kontaktbogenraster, das 9 verschiedene Aufnahmen genau derselben Subjekte in derselben Umgebung zeigt.
+Sie müssen die standardmäßigen filmischen Aufnahmetypen an den Inhalt anpassen (wenn es sich beispielsweise um eine Gruppe handelt, halten Sie die Gruppe zusammen; wenn es sich um ein Objekt handelt, rahmen Sie das gesamte Objekt ein):
+Reihe 1 (Etablierung der Umgebung):
+1. Extreme Long Shot (ELS): Das Subjekt erscheint klein in einer weiten Umgebung.
+2. Long Shot (LS): Das gesamte Subjekt oder die Gruppe ist von oben bis unten sichtbar (Kopf bis Fuß / Räder bis Dach).
+3. Medium Long Shot (American Shot / Three-Quarters): Von oberhalb der Knie (für Personen) oder in einer 3/4-Perspektive (für Objekte) gerahmt.
 Reihe 2 (Kernabdeckung):
-4. Medium Shot (MS): Von der Taille aufwärts (oder dem zentralen Kern eines Objekts) gerahmt, mit Fokus auf Interaktion/Aktion.
-5. Medium Close-Up (MCU): Von der Brust aufwärts gerahmt. Eine intime Rahmung des Hauptmotivs.
-6. Close-Up (CU): Enge Rahmung auf das Gesicht oder die „Vorderseite“ des Objekts.
+4. Medium Shot (MS): Von der Taille aufwärts gerahmt (oder der zentrale Kern des Objekts), wobei der Fokus auf Interaktion/Aktion liegt.
+5. Medium Close-Up (MCU): Von der Brust aufwärts gerahmt, eine intime Rahmung des Hauptsubjekts.
+6. Close-Up (CU): Eine enge Rahmung des Gesichts oder der „Vorderseite“ des Objekts.
 Reihe 3 (Details und Winkel):
-7. Extreme Close-Up (ECU): Starker Fokus auf Mikrokonturen wichtiger Merkmale (Augen, Hände, Logos, Texturen).
-8. Low Angle Shot (Froschperspektive): Von unten auf das Motiv blickend (dramatisches/heroisches Gefühl).
-9. High Angle Shot (Vogelperspektive): Von oben auf das Motiv blickend.
-Sorgen Sie für strikte Konsistenz: über alle 9 Panels hinweg dieselbe Person/dasselbe Objekt, dieselbe Kleidung und dieselbe Beleuchtung. Die Schärfentiefe sollte realistisch variieren (mit Hintergrundunschärfe bei Nahaufnahmen).
+7. Extreme Close-Up (ECU): Intensive Fokussierung auf Schlüsselmerkmale (Augen, Hände, Logos, Texturen) mit Makro-Detail.
+8. Low-Angle Shot (Wurmperspektive): Blick von Bodenniveau auf das Subjekt (episches/heroisches Gefühl).
+9. High-Angle Shot (Vogelperspektive): Blick von oben auf das Subjekt.
+Stellen Sie eine strikte Konsistenz sicher: Dieselbe Person/dasselbe Objekt, dieselbe Kleidung und dieselbe Beleuchtung müssen in allen 9 Panels erscheinen. Die Tiefenschärfe sollte realistisch variieren (Hintergrundunschärfe bei Nahaufnahmen).
 
 Ein professionelles 3x3-Film-Storyboard-Raster mit 9 Panels.
-Das Raster präsentiert das spezifische Motiv/die Szene aus dem Eingabebild über einen vollen Bereich von Brennweiten.
-Obere Reihe: weite Umgebungsaufnahme, Gesamtansicht, 3/4-Ausschnitt (oberhalb der Knie).
-Mittlere Reihe: Ansicht von der Taille aufwärts, Ansicht von der Brust aufwärts, Gesichts-/Frontnahaufnahme.
-Untere Reihe: Makrodetails, niedriger Winkel, hoher Winkel.
-Alle Frames müssen fotorealistische Texturen, konsistentes filmisches Color Grading und eine korrekte Komposition für die Anzahl und Art der analysierten Motive oder Objekte aufweisen.
+Das Raster präsentiert das spezifische Subjekt/die Szene aus dem Eingabebild über einen umfassenden Bereich von Brennweiten.
+Obere Reihe: weite Umgebungsaufnahme, Gesamtansicht, 3/4-Ausschnitt (Knieaufnahme).
+Mittlere Reihe: Ansicht von der Taille aufwärts, Ansicht von der Brust aufwärts, Nahaufnahme von Gesicht/Vorderseite.
+Untere Reihe: Makrodetail, niedriger Winkel, hoher Winkel.
+Alle Frames weisen fotorealistische Texturen, konsistentes filmisches Color Grading und eine korrekte Rahmung für die jeweilige Anzahl der analysierten Subjekte oder Objekte auf.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1006,31 +1007,31 @@ Alle Frames müssen fotorealistische Texturen, konsistentes filmisches Color Gra
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="3x3-Kinokontaktbogen aus einem Referenzbild - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="3x3-Kinokontaktbogen aus einem Referenzbild - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="3x3-Kinokontaktbogen aus einem Referenzbild - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="3x3-Kinokontaktbogen aus einem Referenzbild - Image 4">
 </div>
 
 ##### Image 5
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Nano Banana Pro Kontaktabzug Mehrfachaufnahme-Kamera-Prompt - Image 5">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="3x3-Kinokontaktbogen aus einem Referenzbild - Image 5">
 </div>
 
 #### 📌 Details
@@ -1040,7 +1041,7 @@ Alle Frames müssen fotorealistische Texturen, konsistentes filmisches Color Gra
 - **Veröffentlicht:** 29. November 2025
 - **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Analysieren%20Sie%20die%20gesamte%20Komposition%20des%20Eingabebildes.%20Identifizieren%20Sie%20alle%20wichtigen%20vorhandenen%20Motive%20(ob%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22eine%20einzelne%20Person%2C%20eine%20Gruppe%2Fein%20Paar%2C%20ein%20Fahrzeug%20oder%20ein%20bestimmtes%20Objekt%22%7D)%20zusammen%20mit%20ihren%20r%C3%A4umlichen%20Beziehungen%20und%20Interaktionen.%0AErstellen%20Sie%20ein%20koh%C3%A4rentes%203x3-%E2%80%9EKontaktbogen%E2%80%9C-Raster%2C%20das%209%20verschiedene%20Aufnahmen%20dieser%20Motive%20in%20derselben%20Umgebung%20zeigt.%0ASie%20m%C3%BCssen%20standardm%C3%A4%C3%9Fige%20filmische%20Aufnahmetypen%20an%20den%20Inhalt%20anpassen%20(z.%20B.%20die%20Gruppe%20zusammenhalten%2C%20wenn%20es%20sich%20um%20eine%20Gruppe%20handelt%3B%20das%20gesamte%20Objekt%20einbeziehen%2C%20wenn%20es%20sich%20um%20ein%20Objekt%20handelt)%3A%0AReihe%201%20(Umgebung%20etablieren)%3A%0AExtreme%20Long%20Shot%20(ELS)%3A%20Das%20Motiv%20erscheint%20klein%20in%20einer%20weiten%20Umgebung.%0ALong%20Shot%20(LS)%3A%20Das%20Motiv%20oder%20die%20Gruppe%20ist%20von%20oben%20bis%20unten%20(Kopf%20bis%20Fu%C3%9F%20%2F%20R%C3%A4der%20bis%20Dach)%20vollst%C3%A4ndig%20sichtbar.%0AMedium%20Long%20Shot%20(American%20Shot%20%2F%20Dreiviertel)%3A%20Bei%20Personen%20ab%20den%20Knien%2C%20bei%20Objekten%20eine%203%2F4-Ansicht.%0AReihe%202%20(Kernabdeckung)%3A%0A4.%20Medium%20Shot%20(MS)%3A%20Von%20der%20Taille%20aufw%C3%A4rts%20(oder%20dem%20zentralen%20Kern%20eines%20Objekts)%20gerahmt%2C%20mit%20Fokus%20auf%20Interaktion%2FAktion.%0A5.%20Medium%20Close-Up%20(MCU)%3A%20Von%20der%20Brust%20aufw%C3%A4rts%20gerahmt.%20Eine%20intime%20Rahmung%20des%20Hauptmotivs.%0A6.%20Close-Up%20(CU)%3A%20Enge%20Rahmung%20auf%20das%20Gesicht%20oder%20die%20%E2%80%9EVorderseite%E2%80%9C%20des%20Objekts.%0AReihe%203%20(Details%20und%20Winkel)%3A%0A7.%20Extreme%20Close-Up%20(ECU)%3A%20Starker%20Fokus%20auf%20Mikrokonturen%20wichtiger%20Merkmale%20(Augen%2C%20H%C3%A4nde%2C%20Logos%2C%20Texturen).%0A8.%20Low%20Angle%20Shot%20(Froschperspektive)%3A%20Von%20unten%20auf%20das%20Motiv%20blickend%20(dramatisches%2Fheroisches%20Gef%C3%BChl).%0A9.%20High%20Angle%20Shot%20(Vogelperspektive)%3A%20Von%20oben%20auf%20das%20Motiv%20blickend.%0ASorgen%20Sie%20f%C3%BCr%20strikte%20Konsistenz%3A%20%C3%BCber%20alle%209%20Panels%20hinweg%20dieselbe%20Person%2Fdasselbe%20Objekt%2C%20dieselbe%20Kleidung%20und%20dieselbe%20Beleuchtung.%20Die%20Sch%C3%A4rfentiefe%20sollte%20realistisch%20variieren%20(mit%20Hintergrundunsch%C3%A4rfe%20bei%20Nahaufnahmen).%0A%0AEin%20professionelles%203x3-Film-Storyboard-Raster%20mit%209%20Panels.%0ADas%20Raster%20pr%C3%A4sentiert%20das%20spezifische%20Motiv%2Fdie%20Szene%20aus%20dem%20Eingabebild%20%C3%BCber%20einen%20vollen%20Bereich%20von%20Brennweiten.%0AObere%20Reihe%3A%20weite%20Umgebungsaufnahme%2C%20Gesamtansicht%2C%203%2F4-Ausschnitt%20(oberhalb%20der%20Knie).%0AMittlere%20Reihe%3A%20Ansicht%20von%20der%20Taille%20aufw%C3%A4rts%2C%20Ansicht%20von%20der%20Brust%20aufw%C3%A4rts%2C%20Gesichts-%2FFrontnahaufnahme.%0AUntere%20Reihe%3A%20Makrodetails%2C%20niedriger%20Winkel%2C%20hoher%20Winkel.%0AAlle%20Frames%20m%C3%BCssen%20fotorealistische%20Texturen%2C%20konsistentes%20filmisches%20Color%20Grading%20und%20eine%20korrekte%20Komposition%20f%C3%BCr%20die%20Anzahl%20und%20Art%20der%20analysierten%20Motive%20oder%20Objekte%20aufweisen.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Analysieren%20Sie%20die%20gesamte%20Komposition%20des%20Eingabebildes.%20Identifizieren%20Sie%20alle%20vorhandenen%20Schl%C3%BCsselsubjekte%20(ob%20eine%20einzelne%20Person%2C%20eine%20Gruppe%2Fein%20Paar%2C%20ein%20Fahrzeug%20oder%20ein%20bestimmtes%20Objekt)%20und%20deren%20r%C3%A4umliche%20Beziehungen%2FInteraktionen.%0AErstellen%20Sie%20ein%20koh%C3%A4rentes%203x3-Kontaktbogenraster%2C%20das%209%20verschiedene%20Aufnahmen%20genau%20derselben%20Subjekte%20in%20derselben%20Umgebung%20zeigt.%0ASie%20m%C3%BCssen%20die%20standardm%C3%A4%C3%9Figen%20filmischen%20Aufnahmetypen%20an%20den%20Inhalt%20anpassen%20(wenn%20es%20sich%20beispielsweise%20um%20eine%20Gruppe%20handelt%2C%20halten%20Sie%20die%20Gruppe%20zusammen%3B%20wenn%20es%20sich%20um%20ein%20Objekt%20handelt%2C%20rahmen%20Sie%20das%20gesamte%20Objekt%20ein)%3A%0AReihe%201%20(Etablierung%20der%20Umgebung)%3A%0A1.%20Extreme%20Long%20Shot%20(ELS)%3A%20Das%20Subjekt%20erscheint%20klein%20in%20einer%20weiten%20Umgebung.%0A2.%20Long%20Shot%20(LS)%3A%20Das%20gesamte%20Subjekt%20oder%20die%20Gruppe%20ist%20von%20oben%20bis%20unten%20sichtbar%20(Kopf%20bis%20Fu%C3%9F%20%2F%20R%C3%A4der%20bis%20Dach).%0A3.%20Medium%20Long%20Shot%20(American%20Shot%20%2F%20Three-Quarters)%3A%20Von%20oberhalb%20der%20Knie%20(f%C3%BCr%20Personen)%20oder%20in%20einer%203%2F4-Perspektive%20(f%C3%BCr%20Objekte)%20gerahmt.%0AReihe%202%20(Kernabdeckung)%3A%0A4.%20Medium%20Shot%20(MS)%3A%20Von%20der%20Taille%20aufw%C3%A4rts%20gerahmt%20(oder%20der%20zentrale%20Kern%20des%20Objekts)%2C%20wobei%20der%20Fokus%20auf%20Interaktion%2FAktion%20liegt.%0A5.%20Medium%20Close-Up%20(MCU)%3A%20Von%20der%20Brust%20aufw%C3%A4rts%20gerahmt%2C%20eine%20intime%20Rahmung%20des%20Hauptsubjekts.%0A6.%20Close-Up%20(CU)%3A%20Eine%20enge%20Rahmung%20des%20Gesichts%20oder%20der%20%E2%80%9EVorderseite%E2%80%9C%20des%20Objekts.%0AReihe%203%20(Details%20und%20Winkel)%3A%0A7.%20Extreme%20Close-Up%20(ECU)%3A%20Intensive%20Fokussierung%20auf%20Schl%C3%BCsselmerkmale%20(Augen%2C%20H%C3%A4nde%2C%20Logos%2C%20Texturen)%20mit%20Makro-Detail.%0A8.%20Low-Angle%20Shot%20(Wurmperspektive)%3A%20Blick%20von%20Bodenniveau%20auf%20das%20Subjekt%20(episches%2Fheroisches%20Gef%C3%BChl).%0A9.%20High-Angle%20Shot%20(Vogelperspektive)%3A%20Blick%20von%20oben%20auf%20das%20Subjekt.%0AStellen%20Sie%20eine%20strikte%20Konsistenz%20sicher%3A%20Dieselbe%20Person%2Fdasselbe%20Objekt%2C%20dieselbe%20Kleidung%20und%20dieselbe%20Beleuchtung%20m%C3%BCssen%20in%20allen%209%20Panels%20erscheinen.%20Die%20Tiefensch%C3%A4rfe%20sollte%20realistisch%20variieren%20(Hintergrundunsch%C3%A4rfe%20bei%20Nahaufnahmen).%0A%0AEin%20professionelles%203x3-Film-Storyboard-Raster%20mit%209%20Panels.%0ADas%20Raster%20pr%C3%A4sentiert%20das%20spezifische%20Subjekt%2Fdie%20Szene%20aus%20dem%20Eingabebild%20%C3%BCber%20einen%20umfassenden%20Bereich%20von%20Brennweiten.%0AObere%20Reihe%3A%20weite%20Umgebungsaufnahme%2C%20Gesamtansicht%2C%203%2F4-Ausschnitt%20(Knieaufnahme).%0AMittlere%20Reihe%3A%20Ansicht%20von%20der%20Taille%20aufw%C3%A4rts%2C%20Ansicht%20von%20der%20Brust%20aufw%C3%A4rts%2C%20Nahaufnahme%20von%20Gesicht%2FVorderseite.%0AUntere%20Reihe%3A%20Makrodetail%2C%20niedriger%20Winkel%2C%20hoher%20Winkel.%0AAlle%20Frames%20weisen%20fotorealistische%20Texturen%2C%20konsistentes%20filmisches%20Color%20Grading%20und%20eine%20korrekte%20Rahmung%20f%C3%BCr%20die%20jeweilige%20Anzahl%20der%20analysierten%20Subjekte%20oder%20Objekte%20auf.)**
 
 ---
 
@@ -1118,24 +1119,85 @@ Ein Nano Banana Pro Prompt im JSON-Stil, der darauf abzielt, eine Frau exakt wie
 
 ---
 
-### No. 17: Ultrarealistisches Porträt-JSON-Prompt mit Referenzbild
+### No. 17: Ultra-realistisches Porträt eines Hotels am Meer für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Eine Nano Banana Pro JSON-Prompt-Konfiguration für ultrarealistische Porträts, die das Gesicht und Outfit eines Referenzfotos unter Verwendung einer hohen Referenztreue exakt wiedergeben.
+Ein umfassender Prompt im JSON-Stil zur Erstellung eines ultrarealistischen Nahaufnahme-Porträts einer Frau an einem Tisch in einem luxuriösen Strandhotel, das einem Referenzbild exakt entspricht, mit detaillierten Optionen für Mode, Schmuck, Requisiten und Beleuchtung.
 
 #### 📝 Prompt
 
 ```
 {
-  "project": "{argument name=\"project name\" default=\"Ultra-Realistisches Porträt\"}",
+  "project": "Ultra-Realistisches Porträt",
   "reference_settings": {
     "use_reference_image": true,
-    "fidelity_strength": "{argument name=\"fidelity strength\" default=\"100%\"}",
-    "instruction": "Gesicht und Outfit müssen zu 100 % mit dem Referenzfoto übereinstimmen, ohne jegliche Änderungen."
+    "fidelity_strength": "100%",
+    "instruction": "Gesicht und Outfit müssen zu 100 % dem Referenzfoto entsprechen, ohne jegliche Änderungen."
+  },
+  "subject": {
+    "demographics": "{argument name=\"subject\" default=\"Frau\"}",
+    "focus_features": ["Augen", "Nase", "Lippen"],
+    "expression": "{argument name=\"expression\" default=\"Lächelnd, süß, frisch, verträumt, leicht sinnlich\"}",
+    "pose": "{argument name=\"pose\" default=\"Sitzt an einem weißen Tisch, stützt das Kinn mit beiden Händen ab, leicht gedreht\"}",
+    "hair": {
+      "style": "{argument name=\"hair style\" default=\"Glatt, großer Dutt oben\"}",
+      "accessory": "{argument name=\"hair accessory\" default=\"Schleife passend zum Outfit\"}",
+      "texture": "Weich geschichtet, lose Strähnen fallen natürlich ins Gesicht",
+      "movement": "Leicht vom Wind verweht"
+    },
+    "makeup": {
+      "cheeks": "Natürliches Rouge auf Wangen und Nase",
+      "lips": "Volle Lippen, sanfter rosa-pfirsichfarbener Ton"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "Exakte Übereinstimmung mit dem Referenzbild",
+    "shoes": "High-Heel-Schuhe (passend zur Referenz)",
+    "bag": "Gleiche Tasche wie auf dem Referenzfoto",
+    "jewelry": {
+      "necklace": "Dünne Goldkette mit abwechselnden Anhängern (Herz, Halbmond, Gucci-Anhänger)",
+      "bracelet": "Zartes Gucci-Armband mit Anhängern",
+      "rings": "Goldringe",
+      "watch": "Patek Philippe mit Stahlarmband",
+      "earrings": "Kleine goldene Gucci-Ohrringe"
+    }
+  },
+  "environment": {
+    "location": "{argument name=\"location\" default=\"Terrasse eines Luxushotels / Meeresküste\"}",
+    "time_of_day_options": [
+      "Option A: {argument name=\"evening option\" default=\"Tiefblauer Abendhimmel, Sterne, Sternschnuppe, Mondlicht\"}",
+      "Option B: {argument name=\"sunrise option\" default=\"Früher Sonnenaufgang, orange-gelbe Himmelstöne\"}"
+    ],
+    "background_elements": [
+      "Warme Reflexionen vom Luxushotel",
+      "Ruhige Meereslandschaft"
+    ]
+  },
+  "props": {
+    "table_setting": "Weißer Tisch",
+    "items": [
+      "Glas mit einer einzelnen weißen Rose",
+      "Weinglas",
+      "Weinflasche",
+      "Gedeck mit Messer und Gabel",
+      "Großes T-Bone-Steak in der Mitte",
+      "Kerzenglas (fügt warmes Highlight hinzu)"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "Digitalkamera-Blitz-Stil der 2000er Jahre",
+    "lighting": "Realistische Blitzhelligkeit, warmer Ton, leichter Glanz auf der Haut",
+    "mood": "Entspannend, warm, nostalgisch, stilvoll, elegant, leicht sexy",
+    "shot_type": "Nahaufnahme-Porträt"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "detail_level": "8k",
+    "style_tags": ["Foto", "realistisch", "Blitzfotografie"]
   }
 }
 ```
@@ -1145,7 +1207,7 @@ Eine Nano Banana Pro JSON-Prompt-Konfiguration für ultrarealistische Porträts,
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Ultrarealistisches Porträt-JSON-Prompt mit Referenzbild - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Ultra-realistisches Porträt eines Hotels am Meer für Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -1155,22 +1217,22 @@ Eine Nano Banana Pro JSON-Prompt-Konfiguration für ultrarealistische Porträts,
 - **Veröffentlicht:** 29. November 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%7Bargument%20name%3D%5C%22project%20name%5C%22%20default%3D%5C%22Ultra-Realistisches%20Portr%C3%A4t%5C%22%7D%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22fidelity%20strength%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Gesicht%20und%20Outfit%20m%C3%BCssen%20zu%20100%20%25%20mit%20dem%20Referenzfoto%20%C3%BCbereinstimmen%2C%20ohne%20jegliche%20%C3%84nderungen.%22%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22Ultra-Realistisches%20Portr%C3%A4t%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22100%25%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Gesicht%20und%20Outfit%20m%C3%BCssen%20zu%20100%20%25%20dem%20Referenzfoto%20entsprechen%2C%20ohne%20jegliche%20%C3%84nderungen.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%5C%22%20default%3D%5C%22Frau%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22Augen%22%2C%20%22Nase%22%2C%20%22Lippen%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22L%C3%A4chelnd%2C%20s%C3%BC%C3%9F%2C%20frisch%2C%20vertr%C3%A4umt%2C%20leicht%20sinnlich%5C%22%7D%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%7Bargument%20name%3D%5C%22pose%5C%22%20default%3D%5C%22Sitzt%20an%20einem%20wei%C3%9Fen%20Tisch%2C%20st%C3%BCtzt%20das%20Kinn%20mit%20beiden%20H%C3%A4nden%20ab%2C%20leicht%20gedreht%5C%22%7D%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22Glatt%2C%20gro%C3%9Fer%20Dutt%20oben%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20accessory%5C%22%20default%3D%5C%22Schleife%20passend%20zum%20Outfit%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22Weich%20geschichtet%2C%20lose%20Str%C3%A4hnen%20fallen%20nat%C3%BCrlich%20ins%20Gesicht%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22Leicht%20vom%20Wind%20verweht%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22Nat%C3%BCrliches%20Rouge%20auf%20Wangen%20und%20Nase%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Volle%20Lippen%2C%20sanfter%20rosa-pfirsichfarbener%20Ton%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Exakte%20%C3%9Cbereinstimmung%20mit%20dem%20Referenzbild%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22High-Heel-Schuhe%20(passend%20zur%20Referenz)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22Gleiche%20Tasche%20wie%20auf%20dem%20Referenzfoto%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22D%C3%BCnne%20Goldkette%20mit%20abwechselnden%20Anh%C3%A4ngern%20(Herz%2C%20Halbmond%2C%20Gucci-Anh%C3%A4nger)%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22Zartes%20Gucci-Armband%20mit%20Anh%C3%A4ngern%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22Goldringe%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22Patek%20Philippe%20mit%20Stahlarmband%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22Kleine%20goldene%20Gucci-Ohrringe%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22Terrasse%20eines%20Luxushotels%20%2F%20Meeresk%C3%BCste%5C%22%7D%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22Option%20A%3A%20%7Bargument%20name%3D%5C%22evening%20option%5C%22%20default%3D%5C%22Tiefblauer%20Abendhimmel%2C%20Sterne%2C%20Sternschnuppe%2C%20Mondlicht%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22Option%20B%3A%20%7Bargument%20name%3D%5C%22sunrise%20option%5C%22%20default%3D%5C%22Fr%C3%BCher%20Sonnenaufgang%2C%20orange-gelbe%20Himmelst%C3%B6ne%5C%22%7D%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22Warme%20Reflexionen%20vom%20Luxushotel%22%2C%0A%20%20%20%20%20%20%22Ruhige%20Meereslandschaft%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22Wei%C3%9Fer%20Tisch%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22Glas%20mit%20einer%20einzelnen%20wei%C3%9Fen%20Rose%22%2C%0A%20%20%20%20%20%20%22Weinglas%22%2C%0A%20%20%20%20%20%20%22Weinflasche%22%2C%0A%20%20%20%20%20%20%22Gedeck%20mit%20Messer%20und%20Gabel%22%2C%0A%20%20%20%20%20%20%22Gro%C3%9Fes%20T-Bone-Steak%20in%20der%20Mitte%22%2C%0A%20%20%20%20%20%20%22Kerzenglas%20(f%C3%BCgt%20warmes%20Highlight%20hinzu)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%22Digitalkamera-Blitz-Stil%20der%202000er%20Jahre%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22Realistische%20Blitzhelligkeit%2C%20warmer%20Ton%2C%20leichter%20Glanz%20auf%20der%20Haut%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Entspannend%2C%20warm%2C%20nostalgisch%2C%20stilvoll%2C%20elegant%2C%20leicht%20sexy%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22Nahaufnahme-Portr%C3%A4t%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%228k%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22Foto%22%2C%20%22realistisch%22%2C%20%22Blitzfotografie%22%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 18: Nano Banana Pro Prompt zur Wiederherstellung alter Fotos in moderne Porträts
+### No. 18: Alte Fotorestaurierung zu modernem Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein detailliertes Englisch-Chinesisch-Prompt-Paar für die Verwendung von Nano Banana Pro, um ein altes Foto in ein modernes, hochwertiges digitales Porträt zu verwandeln, wobei die ursprüngliche Pose und der Ausdruck erhalten bleiben. Ideal für Arbeitsabläufe bei der Fotorestaurierung, bei denen Sie aktualisierte Farben und Styling wünschen, aber eine hohe Ähnlichkeit mit dem Originalbild beibehalten möchten.
+Ein zweisprachiger Prompt, um ein altes Foto in ein modernes, hochwertiges digitales Porträt zu verwandeln, wobei Pose und Ausdruck beibehalten werden, geeignet für die Fotorestaurierung mit Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-Verwandeln Sie das Bild in ein modernes, hochwertiges digitales Porträt mit lebendigen, aktualisierten Farben, glatten und realistischen Hauttexturen und natürlicher Beleuchtung. Werten Sie das Outfit und den Hintergrund zu einer klaren, modernen Ästhetik auf, während die Authentizität der ursprünglichen Pose und des Ausdrucks erhalten bleibt.
+Verwandeln Sie sich in ein modernes, hochwertiges digitales Porträt mit lebendigen, aktualisierten Farben, glatten, realistischen Hauttexturen und natürlicher Beleuchtung. Outfit und Hintergrund sollten zu einer klaren, modernen Ästhetik aufgewertet werden, während die Authentizität der ursprünglichen Pose und des Ausdrucks erhalten bleibt.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1178,25 +1240,25 @@ Verwandeln Sie das Bild in ein modernes, hochwertiges digitales Porträt mit leb
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Nano Banana Pro Prompt zur Wiederherstellung alter Fotos in moderne Porträts - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Alte Fotorestaurierung zu modernem Porträt-Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Nano Banana Pro Prompt zur Wiederherstellung alter Fotos in moderne Porträts - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Alte Fotorestaurierung zu modernem Porträt-Prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Nano Banana Pro Prompt zur Wiederherstellung alter Fotos in moderne Porträts - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Alte Fotorestaurierung zu modernem Porträt-Prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Nano Banana Pro Prompt zur Wiederherstellung alter Fotos in moderne Porträts - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Alte Fotorestaurierung zu modernem Porträt-Prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -1206,7 +1268,7 @@ Verwandeln Sie das Bild in ein modernes, hochwertiges digitales Porträt mit leb
 - **Veröffentlicht:** 29. November 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Verwandeln%20Sie%20das%20Bild%20in%20ein%20modernes%2C%20hochwertiges%20digitales%20Portr%C3%A4t%20mit%20lebendigen%2C%20aktualisierten%20Farben%2C%20glatten%20und%20realistischen%20Hauttexturen%20und%20nat%C3%BCrlicher%20Beleuchtung.%20Werten%20Sie%20das%20Outfit%20und%20den%20Hintergrund%20zu%20einer%20klaren%2C%20modernen%20%C3%84sthetik%20auf%2C%20w%C3%A4hrend%20die%20Authentizit%C3%A4t%20der%20urspr%C3%BCnglichen%20Pose%20und%20des%20Ausdrucks%20erhalten%20bleibt.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Verwandeln%20Sie%20sich%20in%20ein%20modernes%2C%20hochwertiges%20digitales%20Portr%C3%A4t%20mit%20lebendigen%2C%20aktualisierten%20Farben%2C%20glatten%2C%20realistischen%20Hauttexturen%20und%20nat%C3%BCrlicher%20Beleuchtung.%20Outfit%20und%20Hintergrund%20sollten%20zu%20einer%20klaren%2C%20modernen%20%C3%84sthetik%20aufgewertet%20werden%2C%20w%C3%A4hrend%20die%20Authentizit%C3%A4t%20der%20urspr%C3%BCnglichen%20Pose%20und%20des%20Ausdrucks%20erhalten%20bleibt.)**
 
 ---
 
@@ -1303,33 +1365,32 @@ Bitte verwenden Sie die Person aus dem beigefügten Bild. Ihr Name ist {argument
 
 ---
 
-### No. 21: Futuristisches Glassmorphism PPT-Design-Prompt für Nano Banana Pro
+### No. 21: Futuristisches Glassmorphism-PPT-Design-Prompt für Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein detaillierter PPT-Generierungs-Prompt, der Sie in einen erfahrenen UI/UX-Folien-Designer verwandelt und hochauflösende, futuristische Präsentationen im Glassmorphism-Stil im 16:9-Format erstellt, inspiriert von Apple Keynote und modernem SaaS-Design.
+Ein ausführlicher Nano Banana Pro Prompt zur Generierung von hochauflösenden, futuristischen 16:9 Präsentationsfolien im Glassmorphism SaaS/Keynote-Stil, geeignet für PPT-Generierungsfunktionen.
 
 #### 📝 Prompt
 
 ```
-Sie sind ein Experte für UI/UX-Präsentationsdesign. Erstellen Sie hochauflösende, futuristische 16:9-Präsentationsfolien. Basierend auf den Prinzipien des visuellen Gleichgewichts und der Ästhetik wählen Sie automatisch die perfekte Komposition aus einem Cover, einem Rasterlayout oder einer Datenvisualisierung aus.
+Sie sind ein UI/UX-Präsentationsdesigner auf Expertenniveau. Erstellen Sie hochauflösende, futuristische 16:9-Präsentationsfolien. Wählen Sie basierend auf visuellem Gleichgewicht und Ästhetik automatisch die perfekte Komposition aus einem Cover-Layout, einem Raster-Layout oder einer Datenvisualisierung.
 
-Für die globale visuelle Sprache sollte der Stil nahtlos den Minimalismus von Apple Keynote, modernes SaaS-Produktdesign und Glassmorphismus miteinander verbinden. Die Gesamtstimmung sollte hochwertig, immersiv, sauber und luftig wirken. Verwenden Sie filmische volumetrische Beleuchtung, weiche Raytracing-Reflexionen und Umgebungsokklusion. Das Farbschema sollte {argument name="base color" default="tiefes Leerschwarz oder reines Keramikweiß"} als Grundlage verwenden, akzentuiert mit fließenden Aurora-Verläufen wie {argument name="gradient accent colors" default="Neonlila, elektrisches Blau, sanftes Korallenorange, Cyan"} für den Hintergrund und UI-Highlights.
+Für die gesamte visuelle Sprache sollte der Stil die minimalistische Ästhetik von Apple Keynote, modernes SaaS-Produktdesign und Glassmorphismus nahtlos miteinander verbinden. Die Gesamtstimmung sollte hochwertig, immersiv, klar und luftig wirken. Verwenden Sie filmische volumetrische Beleuchtung, weiche Raytracing-Reflexionen und Umgebungsverdeckung. Für das Farbschema wählen Sie entweder tiefes Void-Schwarz oder reines Keramikweiß als Basis, akzentuiert mit fließenden Aurora-Verläufen – Neon-Lila, elektrisches Blau, sanftes Korallenorange und Cyan – als Hintergrund und UI-Highlights.
 
-Für die Inhaltsmodule in den Visuals integrieren Sie intelligent die folgenden Elemente:
+Für die Inhaltsmodule auf jeder Folie integrieren Sie intelligent die folgenden Elemente:
 
-1. Verwenden Sie ein Bento-Box-Rastersystem als Layout-Engine, das Inhalte in modularen abgerundeten Rechteck-Containern organisiert. Die Container müssen ein Milchglasmaterial mit Unschärfe, zarten weißen Rändern und weichen Schatten aufweisen und einen großen internen Leerraum bewahren, um Überfüllung zu vermeiden.
+1. Verwenden Sie ein Bento-Box-Rastersystem als Layout-Engine, das Inhalte in modulare, abgerundete Rechteck-Container organisiert. Die Container müssen ein mattiertes Glasmaterial mit Unschärfe, zarten weißen Kanten und weichen Schatten aufweisen, während großzügiger interner Weißraum eingehalten wird, um Unordnung zu vermeiden.
 
-2. Fügen Sie 3D-Objekte mit einer luxuriösen, geschenkähnlichen Textur ein, die einzigartige, hochwertige abstrakte 3D-Stücke als visuelle Anker rendern. Ihr Aussehen sollte teuren physischen Geschenken oder Sammlerstücken ähneln, mit Materialien wie {argument name="3D object materials" default="poliertem Metall, irisierendem Acryl, transparentem Glas oder weichem Silikon"} und Formen wie {argument name="3D object shapes" default="schwebenden Kapseln, Kugeln, Schildern, Möbiusbändern oder flüssigen Wellen"}.
+2. Fügen Sie geschenkähnliche 3D-Objekte ein, die einzigartige, hochwertige abstrakte 3D-Stücke als visuelle Anker rendern. Sie sollten wie greifbare, teure Geschenke oder Sammlerstücke aussehen, mit Materialien wie poliertem Metall, irisierendem Acryl, transparentem Glas oder weichem Silikon und Formen wie schwebenden Kapseln, Kugeln, Schilden, Möbius-Bändern oder flüssigen Wellen.
 
-3. Für Typografie und Daten verwenden Sie klare serifenlose Schriftarten mit hohem Kontrast. Wenn Diagramme vorhanden sind, verwenden Sie leuchtende 3D-Donut-Diagramme, kapselartige Fortschrittsbalken oder schwebende Ziffern, und lassen Sie die Diagramme wie leuchtendes Neonsspielzeug aussehen.
+3. Für Typografie und Daten verwenden Sie klare serifenlose Schriftarten mit starkem Kontrast. Wenn Diagramme vorhanden sind, verwenden Sie leuchtende 3D-Donut-Diagramme, kapselförmige Fortschrittsbalken oder schwebende Zahlen; die Diagramme sollten wie leuchtende Neons pielzeuge aussehen.
 
-Referenz zur Kompositionslogik: Wenn eine Titelfolie generiert wird, platzieren Sie ein riesiges, komplexes 3D-Glasobjekt in der Mitte, überlagern Sie fettgedruckten Großtext und erweitern Sie Aurora-Wellen im Hintergrund. Wenn eine Inhaltsfolie generiert wird, verwenden Sie ein Bento-Rasterlayout, platzieren Sie 3D-Symbole in kleinen Karten und Text in großen Karten. Wenn eine Datenfolie generiert wird, verwenden Sie ein geteiltes Bildschirm-Layout: Text links angeordnet und ein riesiges schwebendes leuchtendes 3D-Datenvisualisierungsdiagramm rechts.
+Referenz zur Kompositionslogik: Wenn Sie eine Titelseite generieren, platzieren Sie ein großes, komplexes 3D-Glasobjekt in der Mitte mit fettem, großem Text darüber und ausgedehnten Aurora-Wellen im Hintergrund. Wenn Sie eine Inhaltsseite generieren, verwenden Sie ein Bento-Raster-Layout mit 3D-Symbolen auf kleinen Karten und Text auf großen Karten. Wenn Sie eine Datenseite generieren, verwenden Sie ein geteiltes Bildschirmdesign mit Text auf der linken Seite und einem großen, leuchtenden 3D-Datenvisualisierungsdiagramm, das auf der rechten Seite schwebt.
 
-Rendering-Anforderungen: Unreal Engine 5 Rendering, 8K-Auflösung, ultra-detaillierte Texturen, starkes UI-Design-Gefühl, UX-Interface-Qualität, im Trend auf Dribbble, preisgekröntes Design.
+Anforderungen an die Rendering-Qualität: Unreal Engine 5 Rendering, 8K-Auflösung, ultra-detaillierte Texturen, starkes UI-Design-Gefühl, UX-Interface-Qualität, Dribbble-Trendstil, preisgekrönte Designarbeit.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -1337,7 +1398,7 @@ Rendering-Anforderungen: Unreal Engine 5 Rendering, 8K-Auflösung, ultra-detaill
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Futuristisches Glassmorphism PPT-Design-Prompt für Nano Banana Pro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Futuristisches Glassmorphism-PPT-Design-Prompt für Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -1347,7 +1408,7 @@ Rendering-Anforderungen: Unreal Engine 5 Rendering, 8K-Auflösung, ultra-detaill
 - **Veröffentlicht:** 29. November 2025
 - **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Sie%20sind%20ein%20Experte%20f%C3%BCr%20UI%2FUX-Pr%C3%A4sentationsdesign.%20Erstellen%20Sie%20hochaufl%C3%B6sende%2C%20futuristische%2016%3A9-Pr%C3%A4sentationsfolien.%20Basierend%20auf%20den%20Prinzipien%20des%20visuellen%20Gleichgewichts%20und%20der%20%C3%84sthetik%20w%C3%A4hlen%20Sie%20automatisch%20die%20perfekte%20Komposition%20aus%20einem%20Cover%2C%20einem%20Rasterlayout%20oder%20einer%20Datenvisualisierung%20aus.%0A%0AF%C3%BCr%20die%20globale%20visuelle%20Sprache%20sollte%20der%20Stil%20nahtlos%20den%20Minimalismus%20von%20Apple%20Keynote%2C%20modernes%20SaaS-Produktdesign%20und%20Glassmorphismus%20miteinander%20verbinden.%20Die%20Gesamtstimmung%20sollte%20hochwertig%2C%20immersiv%2C%20sauber%20und%20luftig%20wirken.%20Verwenden%20Sie%20filmische%20volumetrische%20Beleuchtung%2C%20weiche%20Raytracing-Reflexionen%20und%20Umgebungsokklusion.%20Das%20Farbschema%20sollte%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22tiefes%20Leerschwarz%20oder%20reines%20Keramikwei%C3%9F%22%7D%20als%20Grundlage%20verwenden%2C%20akzentuiert%20mit%20flie%C3%9Fenden%20Aurora-Verl%C3%A4ufen%20wie%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22Neonlila%2C%20elektrisches%20Blau%2C%20sanftes%20Korallenorange%2C%20Cyan%22%7D%20f%C3%BCr%20den%20Hintergrund%20und%20UI-Highlights.%0A%0AF%C3%BCr%20die%20Inhaltsmodule%20in%20den%20Visuals%20integrieren%20Sie%20intelligent%20die%20folgenden%20Elemente%3A%0A%0A1.%20Verwenden%20Sie%20ein%20Bento-Box-Rastersystem%20als%20Layout-Engine%2C%20das%20Inhalte%20in%20modularen%20abgerundeten%20Rechteck-Containern%20organisiert.%20Die%20Container%20m%C3%BCssen%20ein%20Milchglasmaterial%20mit%20Unsch%C3%A4rfe%2C%20zarten%20wei%C3%9Fen%20R%C3%A4ndern%20und%20weichen%20Schatten%20aufweisen%20und%20einen%20gro%C3%9Fen%20internen%20Leerraum%20bewahren%2C%20um%20%C3%9Cberf%C3%BCllung%20zu%20vermeiden.%0A%0A2.%20F%C3%BCgen%20Sie%203D-Objekte%20mit%20einer%20luxuri%C3%B6sen%2C%20geschenk%C3%A4hnlichen%20Textur%20ein%2C%20die%20einzigartige%2C%20hochwertige%20abstrakte%203D-St%C3%BCcke%20als%20visuelle%20Anker%20rendern.%20Ihr%20Aussehen%20sollte%20teuren%20physischen%20Geschenken%20oder%20Sammlerst%C3%BCcken%20%C3%A4hneln%2C%20mit%20Materialien%20wie%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22poliertem%20Metall%2C%20irisierendem%20Acryl%2C%20transparentem%20Glas%20oder%20weichem%20Silikon%22%7D%20und%20Formen%20wie%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22schwebenden%20Kapseln%2C%20Kugeln%2C%20Schildern%2C%20M%C3%B6biusb%C3%A4ndern%20oder%20fl%C3%BCssigen%20Wellen%22%7D.%0A%0A3.%20F%C3%BCr%20Typografie%20und%20Daten%20verwenden%20Sie%20klare%20serifenlose%20Schriftarten%20mit%20hohem%20Kontrast.%20Wenn%20Diagramme%20vorhanden%20sind%2C%20verwenden%20Sie%20leuchtende%203D-Donut-Diagramme%2C%20kapselartige%20Fortschrittsbalken%20oder%20schwebende%20Ziffern%2C%20und%20lassen%20Sie%20die%20Diagramme%20wie%20leuchtendes%20Neonsspielzeug%20aussehen.%0A%0AReferenz%20zur%20Kompositionslogik%3A%20Wenn%20eine%20Titelfolie%20generiert%20wird%2C%20platzieren%20Sie%20ein%20riesiges%2C%20komplexes%203D-Glasobjekt%20in%20der%20Mitte%2C%20%C3%BCberlagern%20Sie%20fettgedruckten%20Gro%C3%9Ftext%20und%20erweitern%20Sie%20Aurora-Wellen%20im%20Hintergrund.%20Wenn%20eine%20Inhaltsfolie%20generiert%20wird%2C%20verwenden%20Sie%20ein%20Bento-Rasterlayout%2C%20platzieren%20Sie%203D-Symbole%20in%20kleinen%20Karten%20und%20Text%20in%20gro%C3%9Fen%20Karten.%20Wenn%20eine%20Datenfolie%20generiert%20wird%2C%20verwenden%20Sie%20ein%20geteiltes%20Bildschirm-Layout%3A%20Text%20links%20angeordnet%20und%20ein%20riesiges%20schwebendes%20leuchtendes%203D-Datenvisualisierungsdiagramm%20rechts.%0A%0ARendering-Anforderungen%3A%20Unreal%20Engine%205%20Rendering%2C%208K-Aufl%C3%B6sung%2C%20ultra-detaillierte%20Texturen%2C%20starkes%20UI-Design-Gef%C3%BChl%2C%20UX-Interface-Qualit%C3%A4t%2C%20im%20Trend%20auf%20Dribbble%2C%20preisgekr%C3%B6ntes%20Design.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Sie%20sind%20ein%20UI%2FUX-Pr%C3%A4sentationsdesigner%20auf%20Expertenniveau.%20Erstellen%20Sie%20hochaufl%C3%B6sende%2C%20futuristische%2016%3A9-Pr%C3%A4sentationsfolien.%20W%C3%A4hlen%20Sie%20basierend%20auf%20visuellem%20Gleichgewicht%20und%20%C3%84sthetik%20automatisch%20die%20perfekte%20Komposition%20aus%20einem%20Cover-Layout%2C%20einem%20Raster-Layout%20oder%20einer%20Datenvisualisierung.%0A%0AF%C3%BCr%20die%20gesamte%20visuelle%20Sprache%20sollte%20der%20Stil%20die%20minimalistische%20%C3%84sthetik%20von%20Apple%20Keynote%2C%20modernes%20SaaS-Produktdesign%20und%20Glassmorphismus%20nahtlos%20miteinander%20verbinden.%20Die%20Gesamtstimmung%20sollte%20hochwertig%2C%20immersiv%2C%20klar%20und%20luftig%20wirken.%20Verwenden%20Sie%20filmische%20volumetrische%20Beleuchtung%2C%20weiche%20Raytracing-Reflexionen%20und%20Umgebungsverdeckung.%20F%C3%BCr%20das%20Farbschema%20w%C3%A4hlen%20Sie%20entweder%20tiefes%20Void-Schwarz%20oder%20reines%20Keramikwei%C3%9F%20als%20Basis%2C%20akzentuiert%20mit%20flie%C3%9Fenden%20Aurora-Verl%C3%A4ufen%20%E2%80%93%20Neon-Lila%2C%20elektrisches%20Blau%2C%20sanftes%20Korallenorange%20und%20Cyan%20%E2%80%93%20als%20Hintergrund%20und%20UI-Highlights.%0A%0AF%C3%BCr%20die%20Inhaltsmodule%20auf%20jeder%20Folie%20integrieren%20Sie%20intelligent%20die%20folgenden%20Elemente%3A%0A%0A1.%20Verwenden%20Sie%20ein%20Bento-Box-Rastersystem%20als%20Layout-Engine%2C%20das%20Inhalte%20in%20modulare%2C%20abgerundete%20Rechteck-Container%20organisiert.%20Die%20Container%20m%C3%BCssen%20ein%20mattiertes%20Glasmaterial%20mit%20Unsch%C3%A4rfe%2C%20zarten%20wei%C3%9Fen%20Kanten%20und%20weichen%20Schatten%20aufweisen%2C%20w%C3%A4hrend%20gro%C3%9Fz%C3%BCgiger%20interner%20Wei%C3%9Fraum%20eingehalten%20wird%2C%20um%20Unordnung%20zu%20vermeiden.%0A%0A2.%20F%C3%BCgen%20Sie%20geschenk%C3%A4hnliche%203D-Objekte%20ein%2C%20die%20einzigartige%2C%20hochwertige%20abstrakte%203D-St%C3%BCcke%20als%20visuelle%20Anker%20rendern.%20Sie%20sollten%20wie%20greifbare%2C%20teure%20Geschenke%20oder%20Sammlerst%C3%BCcke%20aussehen%2C%20mit%20Materialien%20wie%20poliertem%20Metall%2C%20irisierendem%20Acryl%2C%20transparentem%20Glas%20oder%20weichem%20Silikon%20und%20Formen%20wie%20schwebenden%20Kapseln%2C%20Kugeln%2C%20Schilden%2C%20M%C3%B6bius-B%C3%A4ndern%20oder%20fl%C3%BCssigen%20Wellen.%0A%0A3.%20F%C3%BCr%20Typografie%20und%20Daten%20verwenden%20Sie%20klare%20serifenlose%20Schriftarten%20mit%20starkem%20Kontrast.%20Wenn%20Diagramme%20vorhanden%20sind%2C%20verwenden%20Sie%20leuchtende%203D-Donut-Diagramme%2C%20kapself%C3%B6rmige%20Fortschrittsbalken%20oder%20schwebende%20Zahlen%3B%20die%20Diagramme%20sollten%20wie%20leuchtende%20Neons%20pielzeuge%20aussehen.%0A%0AReferenz%20zur%20Kompositionslogik%3A%20Wenn%20Sie%20eine%20Titelseite%20generieren%2C%20platzieren%20Sie%20ein%20gro%C3%9Fes%2C%20komplexes%203D-Glasobjekt%20in%20der%20Mitte%20mit%20fettem%2C%20gro%C3%9Fem%20Text%20dar%C3%BCber%20und%20ausgedehnten%20Aurora-Wellen%20im%20Hintergrund.%20Wenn%20Sie%20eine%20Inhaltsseite%20generieren%2C%20verwenden%20Sie%20ein%20Bento-Raster-Layout%20mit%203D-Symbolen%20auf%20kleinen%20Karten%20und%20Text%20auf%20gro%C3%9Fen%20Karten.%20Wenn%20Sie%20eine%20Datenseite%20generieren%2C%20verwenden%20Sie%20ein%20geteiltes%20Bildschirmdesign%20mit%20Text%20auf%20der%20linken%20Seite%20und%20einem%20gro%C3%9Fen%2C%20leuchtenden%203D-Datenvisualisierungsdiagramm%2C%20das%20auf%20der%20rechten%20Seite%20schwebt.%0A%0AAnforderungen%20an%20die%20Rendering-Qualit%C3%A4t%3A%20Unreal%20Engine%205%20Rendering%2C%208K-Aufl%C3%B6sung%2C%20ultra-detaillierte%20Texturen%2C%20starkes%20UI-Design-Gef%C3%BChl%2C%20UX-Interface-Qualit%C3%A4t%2C%20Dribbble-Trendstil%2C%20preisgekr%C3%B6nte%20Designarbeit.)**
 
 ---
 
@@ -1831,13 +1892,14 @@ Erstellen Sie eine perspektivische Zeichnung aus der Rohskizze eines Messestande
 
 ---
 
-### No. 31: Gym-Yogamatten-Porträt Nano Banana Prompt
+### No. 31: Gym-Selfie-Stil Yoga-Matten-Porträt-Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein Nano Banana Prompt, der eine junge Frau nach dem Training auf einer Yogamatte beschreibt, gedacht für fotorealistische Generierungen im Stil der Fitnessstudio-Fotografie und wahrscheinlich als Vorlage für ähnliche Fitness-Aufnahmen verwendet.
+Ein strukturierter JSON-Prompt zur Generierung eines modernen Fitnessstudio-Selfies einer jungen Frau auf einer Yogamatte, mit detaillierter Kleidung, Accessoires, Hintergrund und Beleuchtung.
 
 #### 📝 Prompt
 
@@ -1847,7 +1909,68 @@ Ein Nano Banana Prompt, der eine junge Frau nach dem Training auf einer Yogamatt
     "description": "Eine junge Frau sitzt auf einer Yogamatte, wischt sich mit einem Handtuch den Schweiß ab und hält eine Wasserflasche",
     "mirror_rules": "N/A – direktes Fitnessstudio-Foto",
     "age": "Ende 20",
-    "expression": "zufrieden, leicht außer Atem, selbstbewusst"
+    "expression": "zufrieden, leicht außer Atem, selbstbewusstes Lächeln",
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"blond mit Strähnchen\"}",
+      "style": "{argument name=\"hair style\" default=\"hoher Pferdeschwanz, leicht unordentlich mit abstehenden Haaren vom Training\"}"
+    },
+    "clothing": {
+      "top": {
+        "type": "Sport-BH",
+        "color": "{argument name=\"top color\" default=\"altrosa\"}",
+        "details": "mittlerer Halt, Trägerdetail am Rücken, Feuchtigkeit durch Schweiß sichtbar"
+      },
+      "bottom": {
+        "type": "High-Waist-Leggings",
+        "color": "schwarz mit Mesh-Einsätzen",
+        "details": "knöchellang, Mesh-Ausschnitte an den Waden, Kompressionspassform"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "minimal, taufrisch vom Training, natürlich gerötete Wangen, kein Augen-Make-up"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "keine",
+      "details": "Haare mit einem Scrunchie zusammengebunden"
+    },
+    "jewelry": {
+      "earrings": "kleine Diamantohrstecker",
+      "necklace": "keine",
+      "wrist": "roségoldener Fitness-Tracker, schwarze Haargummis am Handgelenk",
+      "rings": "keine"
+    },
+    "device": {
+      "type": "Smartphone",
+      "details": "lehnt an einer Hantel, nimmt ein Workout-Selfie auf"
+    },
+    "prop": {
+      "type": "isolierte Wasserflasche",
+      "details": "mattschwarze 32-Unzen-Flasche mit einem Motivationszitat-Aufkleber, Kondensation sichtbar"
+    }
+  },
+  "photography": {
+    "camera_style": "Fitnessstudio-Selfie-Ästhetik, Smartphone-Frontkamera",
+    "angle": "leicht über Augenhöhe, sitzende Position",
+    "shot_type": "ganzer Oberkörper und gekreuzte Beine, zentrierte Komposition",
+    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"9:16 vertikal\"}",
+    "texture": "gestochen scharfe Details, helle Fitnessstudio-Beleuchtung, energiegeladenes Gefühl"
+  },
+  "background": {
+    "setting": "modernes Fitnessstudio-Studio",
+    "wall_color": "hellgrau mit einem Motivationswandbild",
+    "elements": [
+      "ausgelegte lila Yogamatte",
+      "ein Satz Hanteln in der Nähe verstreut",
+      "weißes Handtuch über ihrer Schulter drapiert",
+      "verschwommene Fitnessgeräte im Hintergrund",
+      "großer Spiegel, der die Rückwand reflektiert",
+      "Widerstandsbänder auf dem Boden aufgerollt"
+    ],
+    "atmosphere": "energetisch, erfüllt, gesundheitsorientiert",
+    "lighting": "helle LED-Deckenbeleuchtung im Fitnessstudio, gleichmäßige Ausleuchtung"
   }
 }
 ```
@@ -1857,7 +1980,7 @@ Ein Nano Banana Prompt, der eine junge Frau nach dem Training auf einer Yogamatt
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Gym-Yogamatten-Porträt Nano Banana Prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Gym-Selfie-Stil Yoga-Matten-Porträt-Prompt für Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -1867,7 +1990,7 @@ Ein Nano Banana Prompt, der eine junge Frau nach dem Training auf einer Yogamatt
 - **Veröffentlicht:** 28. November 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Eine%20junge%20Frau%20sitzt%20auf%20einer%20Yogamatte%2C%20wischt%20sich%20mit%20einem%20Handtuch%20den%20Schwei%C3%9F%20ab%20und%20h%C3%A4lt%20eine%20Wasserflasche%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22N%2FA%20%E2%80%93%20direktes%20Fitnessstudio-Foto%22%2C%0A%20%20%20%20%22age%22%3A%20%22Ende%2020%22%2C%0A%20%20%20%20%22expression%22%3A%20%22zufrieden%2C%20leicht%20au%C3%9Fer%20Atem%2C%20selbstbewusst%22%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Eine%20junge%20Frau%20sitzt%20auf%20einer%20Yogamatte%2C%20wischt%20sich%20mit%20einem%20Handtuch%20den%20Schwei%C3%9F%20ab%20und%20h%C3%A4lt%20eine%20Wasserflasche%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22N%2FA%20%E2%80%93%20direktes%20Fitnessstudio-Foto%22%2C%0A%20%20%20%20%22age%22%3A%20%22Ende%2020%22%2C%0A%20%20%20%20%22expression%22%3A%20%22zufrieden%2C%20leicht%20au%C3%9Fer%20Atem%2C%20selbstbewusstes%20L%C3%A4cheln%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22blond%20mit%20Str%C3%A4hnchen%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22hoher%20Pferdeschwanz%2C%20leicht%20unordentlich%20mit%20abstehenden%20Haaren%20vom%20Training%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22Sport-BH%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22top%20color%5C%22%20default%3D%5C%22altrosa%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22mittlerer%20Halt%2C%20Tr%C3%A4gerdetail%20am%20R%C3%BCcken%2C%20Feuchtigkeit%20durch%20Schwei%C3%9F%20sichtbar%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22High-Waist-Leggings%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22schwarz%20mit%20Mesh-Eins%C3%A4tzen%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22kn%C3%B6chellang%2C%20Mesh-Ausschnitte%20an%20den%20Waden%2C%20Kompressionspassform%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22minimal%2C%20taufrisch%20vom%20Training%2C%20nat%C3%BCrlich%20ger%C3%B6tete%20Wangen%2C%20kein%20Augen-Make-up%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22keine%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22Haare%20mit%20einem%20Scrunchie%20zusammengebunden%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22kleine%20Diamantohrstecker%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22keine%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22ros%C3%A9goldener%20Fitness-Tracker%2C%20schwarze%20Haargummis%20am%20Handgelenk%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22keine%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22Smartphone%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22lehnt%20an%20einer%20Hantel%2C%20nimmt%20ein%20Workout-Selfie%20auf%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22isolierte%20Wasserflasche%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22mattschwarze%2032-Unzen-Flasche%20mit%20einem%20Motivationszitat-Aufkleber%2C%20Kondensation%20sichtbar%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22Fitnessstudio-Selfie-%C3%84sthetik%2C%20Smartphone-Frontkamera%22%2C%0A%20%20%20%20%22angle%22%3A%20%22leicht%20%C3%BCber%20Augenh%C3%B6he%2C%20sitzende%20Position%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22ganzer%20Oberk%C3%B6rper%20und%20gekreuzte%20Beine%2C%20zentrierte%20Komposition%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%229%3A16%20vertikal%5C%22%7D%22%2C%0A%20%20%20%20%22texture%22%3A%20%22gestochen%20scharfe%20Details%2C%20helle%20Fitnessstudio-Beleuchtung%2C%20energiegeladenes%20Gef%C3%BChl%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22modernes%20Fitnessstudio-Studio%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22hellgrau%20mit%20einem%20Motivationswandbild%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22ausgelegte%20lila%20Yogamatte%22%2C%0A%20%20%20%20%20%20%22ein%20Satz%20Hanteln%20in%20der%20N%C3%A4he%20verstreut%22%2C%0A%20%20%20%20%20%20%22wei%C3%9Fes%20Handtuch%20%C3%BCber%20ihrer%20Schulter%20drapiert%22%2C%0A%20%20%20%20%20%20%22verschwommene%20Fitnessger%C3%A4te%20im%20Hintergrund%22%2C%0A%20%20%20%20%20%20%22gro%C3%9Fer%20Spiegel%2C%20der%20die%20R%C3%BCckwand%20reflektiert%22%2C%0A%20%20%20%20%20%20%22Widerstandsb%C3%A4nder%20auf%20dem%20Boden%20aufgerollt%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22energetisch%2C%20erf%C3%BCllt%2C%20gesundheitsorientiert%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22helle%20LED-Deckenbeleuchtung%20im%20Fitnessstudio%2C%20gleichm%C3%A4%C3%9Fige%20Ausleuchtung%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -6375,19 +6498,23 @@ Erstellen Sie eine Videoanzeige für eine neue handwerkliche Bäckerei.
 
 ---
 
-### No. 146: Lernkarten zur Tang-Poesie
+### No. 146: Lernkarten und Lernkarten-Prompts für Bildungszwecke
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein Prompt zur Erstellung von Lernkarten für berühmte Tang-Gedichte, der den vollständigen Text, passende Bilder und einfache Anmerkungen kombiniert, um Schülern zu helfen, die Stimmung und den Hintergrund des Gedichts zu verstehen.
+Ein Set aus drei Nano Banana Pro Prompts zur Erstellung von Infografiken zu physikalischen Gesetzen, englischen Situationsdialogkarten und Lernkarten für chinesische Poesie für Schüler.
 
 #### 📝 Prompt
 
 ```
-Erstellen Sie {argument name="poem_count_en" default="10"} Lernkarten für berühmte Tang-Gedichte. Jedes Bild sollte den vollständigen Text des Gedichts enthalten, und die Visuals müssen zum Inhalt der Zeilen und zur Gesamtstimmung passen, um den Schülern das Verständnis des Hintergrunds und der Atmosphäre des Gedichts zu erleichtern. Fügen Sie einfache chinesische Anmerkungen hinzu.
+Prompt für physikalische Gesetze: Erstellen Sie Infografik-Karten für {argument name="physics law scope" default="alle physikalischen Gesetze im Mittelschullehrbuch"}, ein Bild pro Gesetz. Der Inhalt sollte leicht verständlich und zugänglich sein, damit Mittelschüler ihn leicht lesen und verstehen können.
+
+Prompt für englische Karten: Helfen Sie mir, Lernkarten für Englisch zu erstellen, ein Bild pro Karte, dargestellt durch Alltagsszenarien wie {argument name="English scenario examples" default="Essen bestellen, nach dem Weg fragen auf Reisen, Hotels, Flughafen-Check-in und andere gängige Situationen"}. Jede Karte sollte eine Dialogszene zwischen Personen und die wichtigsten gebräuchlichen Sätze enthalten sowie den Schlüsselwortschatz (mit phonetischer Transkription und Bedeutungen usw.) auflisten. Beginnen Sie mit {argument name="number of English scenarios" default="12"} Szenarien zur Überprüfung.
+
+Prompt für Gedichtkarten: Erstellen Sie Lernkarten für {argument name="number of poems" default="10"} berühmte Tang-Gedichte. Jedes Bild sollte den vollständigen Text des Gedichts enthalten, und die visuellen Elemente sollten zum Inhalt der Zeilen passen und die Stimmung und Bildsprache des Gedichts widerspiegeln, um den Schülern zu helfen, den Hintergrund und die Atmosphäre zu verstehen. Fügen Sie einfache chinesische Anmerkungen hinzu.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -6395,7 +6522,7 @@ Erstellen Sie {argument name="poem_count_en" default="10"} Lernkarten für berü
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Lernkarten zur Tang-Poesie - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Lernkarten und Lernkarten-Prompts für Bildungszwecke - Image 1">
 </div>
 
 #### 📌 Details
@@ -6405,7 +6532,7 @@ Erstellen Sie {argument name="poem_count_en" default="10"} Lernkarten für berü
 - **Veröffentlicht:** 22. November 2025
 - **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Erstellen%20Sie%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20Lernkarten%20f%C3%BCr%20ber%C3%BChmte%20Tang-Gedichte.%20Jedes%20Bild%20sollte%20den%20vollst%C3%A4ndigen%20Text%20des%20Gedichts%20enthalten%2C%20und%20die%20Visuals%20m%C3%BCssen%20zum%20Inhalt%20der%20Zeilen%20und%20zur%20Gesamtstimmung%20passen%2C%20um%20den%20Sch%C3%BClern%20das%20Verst%C3%A4ndnis%20des%20Hintergrunds%20und%20der%20Atmosph%C3%A4re%20des%20Gedichts%20zu%20erleichtern.%20F%C3%BCgen%20Sie%20einfache%20chinesische%20Anmerkungen%20hinzu.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/nano-banana-pro-prompts?prompt=Prompt%20f%C3%BCr%20physikalische%20Gesetze%3A%20Erstellen%20Sie%20Infografik-Karten%20f%C3%BCr%20%7Bargument%20name%3D%22physics%20law%20scope%22%20default%3D%22alle%20physikalischen%20Gesetze%20im%20Mittelschullehrbuch%22%7D%2C%20ein%20Bild%20pro%20Gesetz.%20Der%20Inhalt%20sollte%20leicht%20verst%C3%A4ndlich%20und%20zug%C3%A4nglich%20sein%2C%20damit%20Mittelsch%C3%BCler%20ihn%20leicht%20lesen%20und%20verstehen%20k%C3%B6nnen.%0A%0APrompt%20f%C3%BCr%20englische%20Karten%3A%20Helfen%20Sie%20mir%2C%20Lernkarten%20f%C3%BCr%20Englisch%20zu%20erstellen%2C%20ein%20Bild%20pro%20Karte%2C%20dargestellt%20durch%20Alltagsszenarien%20wie%20%7Bargument%20name%3D%22English%20scenario%20examples%22%20default%3D%22Essen%20bestellen%2C%20nach%20dem%20Weg%20fragen%20auf%20Reisen%2C%20Hotels%2C%20Flughafen-Check-in%20und%20andere%20g%C3%A4ngige%20Situationen%22%7D.%20Jede%20Karte%20sollte%20eine%20Dialogszene%20zwischen%20Personen%20und%20die%20wichtigsten%20gebr%C3%A4uchlichen%20S%C3%A4tze%20enthalten%20sowie%20den%20Schl%C3%BCsselwortschatz%20(mit%20phonetischer%20Transkription%20und%20Bedeutungen%20usw.)%20auflisten.%20Beginnen%20Sie%20mit%20%7Bargument%20name%3D%22number%20of%20English%20scenarios%22%20default%3D%2212%22%7D%20Szenarien%20zur%20%C3%9Cberpr%C3%BCfung.%0A%0APrompt%20f%C3%BCr%20Gedichtkarten%3A%20Erstellen%20Sie%20Lernkarten%20f%C3%BCr%20%7Bargument%20name%3D%22number%20of%20poems%22%20default%3D%2210%22%7D%20ber%C3%BChmte%20Tang-Gedichte.%20Jedes%20Bild%20sollte%20den%20vollst%C3%A4ndigen%20Text%20des%20Gedichts%20enthalten%2C%20und%20die%20visuellen%20Elemente%20sollten%20zum%20Inhalt%20der%20Zeilen%20passen%20und%20die%20Stimmung%20und%20Bildsprache%20des%20Gedichts%20widerspiegeln%2C%20um%20den%20Sch%C3%BClern%20zu%20helfen%2C%20den%20Hintergrund%20und%20die%20Atmosph%C3%A4re%20zu%20verstehen.%20F%C3%BCgen%20Sie%20einfache%20chinesische%20Anmerkungen%20hinzu.)**
 
 ---
 
@@ -8548,6 +8675,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-04T16:15:30.193Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-04T20:13:28.619Z</sub>
 
 </div>

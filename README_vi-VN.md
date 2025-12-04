@@ -90,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **550** |
 | ⭐ Nổi bật | **5** |
-| 🔄 Cập nhật lần cuối | **lúc 16:15:21 UTC Thứ Năm, 4 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 20:13:06 UTC Thứ Năm, 4 tháng 12, 2025** |
 
 </div>
 
@@ -788,19 +788,21 @@ Một người phụ nữ ngồi trên mép giường hiện đại, tối giả
 
 ---
 
-### No. 10: Mẫu lời nhắc Nano Banana Pro toàn thân bằng đồ chơi nỉ
+### No. 10: Nhắc lệnh nhân vật đồ chơi nỉ cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một mẫu prompt Nano Banana Pro ngắn gọn để tạo các nhân vật đồ chơi bằng nỉ toàn thân với chủ đề, thuộc tính, biểu cảm và môi trường có thể tùy chỉnh, lý tưởng cho các hình ảnh render dễ thương, mềm mại, mang phong cách hoạt hình.
+Một mẫu gợi ý linh hoạt để tạo ra các nhân vật đồ chơi bằng vải nỉ toàn thân ở nhiều địa điểm, ánh sáng và tâm trạng khác nhau, lý tưởng cho các hình minh họa dễ thương, mềm mại.
 
 #### 📝 Câu lệnh
 
 ```
-Đồ chơi toàn thân {argument name="subject" default="[Chủ thể]"}, {argument name="attributes and accessories" default="[thuộc tính/phụ kiện]"}, {argument name="expression" default="[biểu cảm]"}, làm bằng vải nỉ, trong một {argument name="place" default="[địa điểm]"}, {argument name="lighting" default="[ánh sáng]"}, vẻ ngoài thân thiện và hoạt hình, kết cấu phong phú và mềm mại
+Đồ chơi nỉ
+
+Đồ chơi {argument name="subject" default="[Chủ thể]"} toàn thân, {argument name="attributes and accessories" default="[thuộc tính/phụ kiện]"}, {argument name="expression" default="[biểu cảm]"}, làm bằng nỉ, trong một {argument name="place" default="[địa điểm]"}, {argument name="lighting" default="[ánh sáng]"}, với vẻ ngoài thân thiện, hoạt hình và kết cấu mềm mại, phong phú.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -808,25 +810,25 @@ Một mẫu prompt Nano Banana Pro ngắn gọn để tạo các nhân vật đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Mẫu lời nhắc Nano Banana Pro toàn thân bằng đồ chơi nỉ - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Nhắc lệnh nhân vật đồ chơi nỉ cho Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Mẫu lời nhắc Nano Banana Pro toàn thân bằng đồ chơi nỉ - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Nhắc lệnh nhân vật đồ chơi nỉ cho Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Mẫu lời nhắc Nano Banana Pro toàn thân bằng đồ chơi nỉ - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Nhắc lệnh nhân vật đồ chơi nỉ cho Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Mẫu lời nhắc Nano Banana Pro toàn thân bằng đồ chơi nỉ - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Nhắc lệnh nhân vật đồ chơi nỉ cho Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -836,7 +838,7 @@ Một mẫu prompt Nano Banana Pro ngắn gọn để tạo các nhân vật đ�
 - **Đã xuất bản:** 30 tháng 11, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%C4%90%E1%BB%93%20ch%C6%A1i%20to%C3%A0n%20th%C3%A2n%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BCh%E1%BB%A7%20th%E1%BB%83%5D%22%7D%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Bthu%E1%BB%99c%20t%C3%ADnh%2Fph%E1%BB%A5%20ki%E1%BB%87n%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bbi%E1%BB%83u%20c%E1%BA%A3m%5D%22%7D%2C%20l%C3%A0m%20b%E1%BA%B1ng%20v%E1%BA%A3i%20n%E1%BB%89%2C%20trong%20m%E1%BB%99t%20%7Bargument%20name%3D%22place%22%20default%3D%22%5B%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5B%C3%A1nh%20s%C3%A1ng%5D%22%7D%2C%20v%E1%BA%BB%20ngo%C3%A0i%20th%C3%A2n%20thi%E1%BB%87n%20v%C3%A0%20ho%E1%BA%A1t%20h%C3%ACnh%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20phong%20ph%C3%BA%20v%C3%A0%20m%E1%BB%81m%20m%E1%BA%A1i)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%C4%90%E1%BB%93%20ch%C6%A1i%20n%E1%BB%89%0A%0A%C4%90%E1%BB%93%20ch%C6%A1i%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BCh%E1%BB%A7%20th%E1%BB%83%5D%22%7D%20to%C3%A0n%20th%C3%A2n%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Bthu%E1%BB%99c%20t%C3%ADnh%2Fph%E1%BB%A5%20ki%E1%BB%87n%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bbi%E1%BB%83u%20c%E1%BA%A3m%5D%22%7D%2C%20l%C3%A0m%20b%E1%BA%B1ng%20n%E1%BB%89%2C%20trong%20m%E1%BB%99t%20%7Bargument%20name%3D%22place%22%20default%3D%22%5B%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5B%C3%A1nh%20s%C3%A1ng%5D%22%7D%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20ngo%C3%A0i%20th%C3%A2n%20thi%E1%BB%87n%2C%20ho%E1%BA%A1t%20h%C3%ACnh%20v%C3%A0%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20phong%20ph%C3%BA.)**
 
 ---
 
@@ -964,41 +966,40 @@ Một lời nhắc Nano Banana Pro JSON mô tả một cảnh tĩnh điện ản
 
 ---
 
-### No. 14: Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro
+### No. 14: Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc mạnh mẽ theo kiểu hướng dẫn, phân tích hình ảnh đầu vào và tạo ra một bảng liên hệ điện ảnh 3x3 với chín loại cảnh quay khác nhau của cùng một chủ thể.
+Một hướng dẫn chi tiết về Nano Banana Pro để tạo lưới bảng phân cảnh điện ảnh 3x3 từ một hình ảnh tham chiếu đã tải lên, giữ nguyên chủ thể trong khi thay đổi các loại và góc quay.
 
 #### 📝 Câu lệnh
 
 ```
-Phân tích toàn bộ bố cục của hình ảnh đầu vào. Xác định tất cả các chủ thể chính hiện diện (cho dù đó là {argument name="type of subject" default="một người, một nhóm/cặp đôi, một phương tiện, hoặc một vật thể cụ thể"}) cùng với mối quan hệ không gian và tương tác của chúng.
-Tạo một lưới "contact sheet" 3x3 mạch lạc hiển thị 9 cảnh quay khác nhau của các chủ thể này trong cùng một môi trường.
-Bạn phải điều chỉnh các loại cảnh quay điện ảnh tiêu chuẩn để phù hợp với nội dung (ví dụ: giữ nhóm lại với nhau nếu đó là một nhóm; bao gồm toàn bộ vật thể nếu đó là một vật thể):
-Hàng 1 (Thiết lập môi trường):
-Extreme Long Shot (ELS): Chủ thể xuất hiện nhỏ bé trong một môi trường rộng lớn.
-Long Shot (LS): Chủ thể hoặc nhóm được nhìn thấy hoàn chỉnh từ trên xuống dưới (từ đầu đến chân / từ bánh xe đến nóc).
-Medium Long Shot (American shot / three-quarter): Khung hình từ trên đầu gối đối với người, hoặc góc nhìn 3/4 đối với vật thể.
-Hàng 2 (Phạm vi bao phủ cốt lõi):
-4. Medium Shot (MS): Khung hình từ eo trở lên (hoặc phần trung tâm của vật thể), tập trung vào tương tác/hành động.
-5. Medium Close-Up (MCU): Khung hình từ ngực trở lên. Một khung hình thân mật của chủ thể chính.
-6. Close-Up (CU): Khung hình cận cảnh khuôn mặt hoặc "mặt trước" của vật thể.
-Hàng 3 (Chi tiết và góc độ):
-7. Extreme Close-Up (ECU): Tập trung mạnh vào các chi tiết nhỏ của các đặc điểm chính (mắt, tay, logo, kết cấu).
-8. Low Angle Shot (góc nhìn từ dưới lên): Nhìn lên chủ thể từ mặt đất (tạo cảm giác kịch tính/anh hùng).
-9. High Angle Shot (góc nhìn từ trên xuống): Nhìn xuống chủ thể từ trên cao.
-Đảm bảo tính nhất quán nghiêm ngặt: trên cả 9 khung hình, cùng một người/vật thể, cùng trang phục và cùng ánh sáng. Độ sâu trường ảnh nên thay đổi một cách thực tế (với nền mờ trong các cảnh cận cảnh).
+Phân tích toàn bộ bố cục của hình ảnh đầu vào. Xác định tất cả các chủ thể chính hiện có (dù là một người, một nhóm/cặp đôi, một phương tiện hay một vật thể cụ thể) và mối quan hệ/tương tác không gian của chúng.
+Tạo một lưới bảng liên hệ 3x3 mạch lạc, hiển thị 9 bức ảnh khác nhau của chính xác các chủ thể này trong cùng một môi trường.
+Bạn phải điều chỉnh các loại cảnh quay điện ảnh tiêu chuẩn để phù hợp với nội dung (ví dụ: nếu đó là một nhóm, hãy giữ nhóm lại với nhau; nếu đó là một vật thể, hãy đóng khung toàn bộ vật thể):
+Hàng 1 (thiết lập bối cảnh):
+1. Cảnh quay cực xa (ELS): chủ thể xuất hiện nhỏ bé trong một môi trường rộng lớn.
+2. Cảnh quay xa (LS): toàn bộ chủ thể hoặc nhóm hiển thị rõ ràng từ trên xuống dưới (từ đầu đến chân / từ bánh xe đến nóc).
+3. Cảnh quay trung bình xa (cảnh quay kiểu Mỹ / ba phần tư): được đóng khung từ trên đầu gối (đối với người) hoặc ở góc nhìn 3/4 (đối với vật thể).
+Hàng 2 (phạm vi bao phủ cốt lõi):
+4. Cảnh quay trung bình (MS): được đóng khung từ thắt lưng trở lên (hoặc phần cốt lõi của vật thể), tập trung vào tương tác/hành động.
+5. Cận cảnh trung bình (MCU): được đóng khung từ ngực trở lên, một khung hình thân mật của chủ thể chính.
+6. Cận cảnh (CU): một khung hình chặt chẽ vào khuôn mặt hoặc "mặt trước" của vật thể.
+Hàng 3 (chi tiết và góc độ):
+7. Cận cảnh cực đại (ECU): tập trung mạnh vào các đặc điểm chính (mắt, tay, logo, kết cấu) với chi tiết cấp độ macro.
+8. Cảnh quay góc thấp (góc nhìn của sâu): nhìn lên chủ thể từ mặt đất (tạo cảm giác hoành tráng/anh hùng).
+9. Cảnh quay góc cao (góc nhìn của chim): nhìn xuống chủ thể từ trên cao.
+Đảm bảo tính nhất quán nghiêm ngặt: cùng một người/vật thể, cùng một trang phục và cùng một ánh sáng phải xuất hiện trong cả 9 ô. Độ sâu trường ảnh nên thay đổi một cách thực tế (làm mờ hậu cảnh trong các cảnh quay cận cảnh).
 
-Một lưới storyboard điện ảnh 3x3 chuyên nghiệp với 9 khung hình.
-Lưới này trình bày chủ thể/cảnh cụ thể từ hình ảnh đầu vào trên toàn bộ dải tiêu cự.
-Hàng trên cùng: cảnh môi trường rộng, toàn cảnh, cắt 3/4 (trên đầu gối).
-Hàng giữa: cảnh từ eo trở lên, cảnh từ ngực trở lên, cận cảnh khuôn mặt/mặt trước.
+Một lưới bảng phân cảnh điện ảnh 3x3 chuyên nghiệp với 9 ô.
+Lưới hiển thị chủ thể/cảnh cụ thể từ hình ảnh đầu vào trên một phạm vi tiêu cự toàn diện.
+Hàng trên cùng: cảnh môi trường rộng, toàn cảnh, cắt 3/4 (cảnh đầu gối).
+Hàng giữa: cảnh từ thắt lưng trở lên, cảnh từ ngực trở lên, cận cảnh khuôn mặt/mặt trước.
 Hàng dưới cùng: chi tiết macro, góc thấp, góc cao.
-Tất cả các khung hình phải có kết cấu chân thực, phân loại màu điện ảnh nhất quán và bố cục chính xác cho số lượng và loại chủ thể hoặc vật thể được phân tích.
+Tất cả các khung hình đều có kết cấu chân thực, phân loại màu điện ảnh nhất quán và bố cục chính xác cho số lượng chủ thể hoặc vật thể cụ thể được phân tích.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1006,31 +1007,31 @@ Tất cả các khung hình phải có kết cấu chân thực, phân loại m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu - Image 4">
 </div>
 
 ##### Image 5
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Lời nhắc máy ảnh chụp nhiều ảnh trên tấm tiếp xúc Nano Banana Pro - Image 5">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Bảng liên hệ điện ảnh 3x3 từ hình ảnh tham chiếu - Image 5">
 </div>
 
 #### 📌 Chi tiết
@@ -1040,7 +1041,7 @@ Tất cả các khung hình phải có kết cấu chân thực, phân loại m�
 - **Đã xuất bản:** 29 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Ph%C3%A2n%20t%C3%ADch%20to%C3%A0n%20b%E1%BB%99%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20v%C3%A0o.%20X%C3%A1c%20%C4%91%E1%BB%8Bnh%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh%20hi%E1%BB%87n%20di%E1%BB%87n%20(cho%20d%C3%B9%20%C4%91%C3%B3%20l%C3%A0%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%2C%20m%E1%BB%99t%20nh%C3%B3m%2Fc%E1%BA%B7p%20%C4%91%C3%B4i%2C%20m%E1%BB%99t%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%2C%20ho%E1%BA%B7c%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83%22%7D)%20c%C3%B9ng%20v%E1%BB%9Bi%20m%E1%BB%91i%20quan%20h%E1%BB%87%20kh%C3%B4ng%20gian%20v%C3%A0%20t%C6%B0%C6%A1ng%20t%C3%A1c%20c%E1%BB%A7a%20ch%C3%BAng.%0AT%E1%BA%A1o%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20%22contact%20sheet%22%203x3%20m%E1%BA%A1ch%20l%E1%BA%A1c%20hi%E1%BB%83n%20th%E1%BB%8B%209%20c%E1%BA%A3nh%20quay%20kh%C3%A1c%20nhau%20c%E1%BB%A7a%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20n%C3%A0y%20trong%20c%C3%B9ng%20m%E1%BB%99t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng.%0AB%E1%BA%A1n%20ph%E1%BA%A3i%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20c%C3%A1c%20lo%E1%BA%A1i%20c%E1%BA%A3nh%20quay%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%E1%BB%83%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%E1%BB%99i%20dung%20(v%C3%AD%20d%E1%BB%A5%3A%20gi%E1%BB%AF%20nh%C3%B3m%20l%E1%BA%A1i%20v%E1%BB%9Bi%20nhau%20n%E1%BA%BFu%20%C4%91%C3%B3%20l%C3%A0%20m%E1%BB%99t%20nh%C3%B3m%3B%20bao%20g%E1%BB%93m%20to%C3%A0n%20b%E1%BB%99%20v%E1%BA%ADt%20th%E1%BB%83%20n%E1%BA%BFu%20%C4%91%C3%B3%20l%C3%A0%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83)%3A%0AH%C3%A0ng%201%20(Thi%E1%BA%BFt%20l%E1%BA%ADp%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng)%3A%0AExtreme%20Long%20Shot%20(ELS)%3A%20Ch%E1%BB%A7%20th%E1%BB%83%20xu%E1%BA%A5t%20hi%E1%BB%87n%20nh%E1%BB%8F%20b%C3%A9%20trong%20m%E1%BB%99t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20r%E1%BB%99ng%20l%E1%BB%9Bn.%0ALong%20Shot%20(LS)%3A%20Ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20nh%C3%B3m%20%C4%91%C6%B0%E1%BB%A3c%20nh%C3%ACn%20th%E1%BA%A5y%20ho%C3%A0n%20ch%E1%BB%89nh%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng%20d%C6%B0%E1%BB%9Bi%20(t%E1%BB%AB%20%C4%91%E1%BA%A7u%20%C4%91%E1%BA%BFn%20ch%C3%A2n%20%2F%20t%E1%BB%AB%20b%C3%A1nh%20xe%20%C4%91%E1%BA%BFn%20n%C3%B3c).%0AMedium%20Long%20Shot%20(American%20shot%20%2F%20three-quarter)%3A%20Khung%20h%C3%ACnh%20t%E1%BB%AB%20tr%C3%AAn%20%C4%91%E1%BA%A7u%20g%E1%BB%91i%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%2C%20ho%E1%BA%B7c%20g%C3%B3c%20nh%C3%ACn%203%2F4%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20v%E1%BA%ADt%20th%E1%BB%83.%0AH%C3%A0ng%202%20(Ph%E1%BA%A1m%20vi%20bao%20ph%E1%BB%A7%20c%E1%BB%91t%20l%C3%B5i)%3A%0A4.%20Medium%20Shot%20(MS)%3A%20Khung%20h%C3%ACnh%20t%E1%BB%AB%20eo%20tr%E1%BB%9F%20l%C3%AAn%20(ho%E1%BA%B7c%20ph%E1%BA%A7n%20trung%20t%C3%A2m%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83)%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20t%C6%B0%C6%A1ng%20t%C3%A1c%2Fh%C3%A0nh%20%C4%91%E1%BB%99ng.%0A5.%20Medium%20Close-Up%20(MCU)%3A%20Khung%20h%C3%ACnh%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn.%20M%E1%BB%99t%20khung%20h%C3%ACnh%20th%C3%A2n%20m%E1%BA%ADt%20c%E1%BB%A7a%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh.%0A6.%20Close-Up%20(CU)%3A%20Khung%20h%C3%ACnh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20khu%C3%B4n%20m%E1%BA%B7t%20ho%E1%BA%B7c%20%22m%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc%22%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83.%0AH%C3%A0ng%203%20(Chi%20ti%E1%BA%BFt%20v%C3%A0%20g%C3%B3c%20%C4%91%E1%BB%99)%3A%0A7.%20Extreme%20Close-Up%20(ECU)%3A%20T%E1%BA%ADp%20trung%20m%E1%BA%A1nh%20v%C3%A0o%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20nh%E1%BB%8F%20c%E1%BB%A7a%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20ch%C3%ADnh%20(m%E1%BA%AFt%2C%20tay%2C%20logo%2C%20k%E1%BA%BFt%20c%E1%BA%A5u).%0A8.%20Low%20Angle%20Shot%20(g%C3%B3c%20nh%C3%ACn%20t%E1%BB%AB%20d%C6%B0%E1%BB%9Bi%20l%C3%AAn)%3A%20Nh%C3%ACn%20l%C3%AAn%20ch%E1%BB%A7%20th%E1%BB%83%20t%E1%BB%AB%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20(t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20k%E1%BB%8Bch%20t%C3%ADnh%2Fanh%20h%C3%B9ng).%0A9.%20High%20Angle%20Shot%20(g%C3%B3c%20nh%C3%ACn%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng)%3A%20Nh%C3%ACn%20xu%E1%BB%91ng%20ch%E1%BB%A7%20th%E1%BB%83%20t%E1%BB%AB%20tr%C3%AAn%20cao.%0A%C4%90%E1%BA%A3m%20b%E1%BA%A3o%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20nghi%C3%AAm%20ng%E1%BA%B7t%3A%20tr%C3%AAn%20c%E1%BA%A3%209%20khung%20h%C3%ACnh%2C%20c%C3%B9ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%2Fv%E1%BA%ADt%20th%E1%BB%83%2C%20c%C3%B9ng%20trang%20ph%E1%BB%A5c%20v%C3%A0%20c%C3%B9ng%20%C3%A1nh%20s%C3%A1ng.%20%C4%90%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%AAn%20thay%20%C4%91%E1%BB%95i%20m%E1%BB%99t%20c%C3%A1ch%20th%E1%BB%B1c%20t%E1%BA%BF%20(v%E1%BB%9Bi%20n%E1%BB%81n%20m%E1%BB%9D%20trong%20c%C3%A1c%20c%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh).%0A%0AM%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20storyboard%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%203x3%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%E1%BB%9Bi%209%20khung%20h%C3%ACnh.%0AL%C6%B0%E1%BB%9Bi%20n%C3%A0y%20tr%C3%ACnh%20b%C3%A0y%20ch%E1%BB%A7%20th%E1%BB%83%2Fc%E1%BA%A3nh%20c%E1%BB%A5%20th%E1%BB%83%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20v%C3%A0o%20tr%C3%AAn%20to%C3%A0n%20b%E1%BB%99%20d%E1%BA%A3i%20ti%C3%AAu%20c%E1%BB%B1.%0AH%C3%A0ng%20tr%C3%AAn%20c%C3%B9ng%3A%20c%E1%BA%A3nh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20r%E1%BB%99ng%2C%20to%C3%A0n%20c%E1%BA%A3nh%2C%20c%E1%BA%AFt%203%2F4%20(tr%C3%AAn%20%C4%91%E1%BA%A7u%20g%E1%BB%91i).%0AH%C3%A0ng%20gi%E1%BB%AFa%3A%20c%E1%BA%A3nh%20t%E1%BB%AB%20eo%20tr%E1%BB%9F%20l%C3%AAn%2C%20c%E1%BA%A3nh%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20khu%C3%B4n%20m%E1%BA%B7t%2Fm%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc.%0AH%C3%A0ng%20d%C6%B0%E1%BB%9Bi%20c%C3%B9ng%3A%20chi%20ti%E1%BA%BFt%20macro%2C%20g%C3%B3c%20th%E1%BA%A5p%2C%20g%C3%B3c%20cao.%0AT%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20khung%20h%C3%ACnh%20ph%E1%BA%A3i%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c%2C%20ph%C3%A2n%20lo%E1%BA%A1i%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20nh%E1%BA%A5t%20qu%C3%A1n%20v%C3%A0%20b%E1%BB%91%20c%E1%BB%A5c%20ch%C3%ADnh%20x%C3%A1c%20cho%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20lo%E1%BA%A1i%20ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20v%E1%BA%ADt%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20t%C3%ADch.)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Ph%C3%A2n%20t%C3%ADch%20to%C3%A0n%20b%E1%BB%99%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20v%C3%A0o.%20X%C3%A1c%20%C4%91%E1%BB%8Bnh%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh%20hi%E1%BB%87n%20c%C3%B3%20(d%C3%B9%20l%C3%A0%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%2C%20m%E1%BB%99t%20nh%C3%B3m%2Fc%E1%BA%B7p%20%C4%91%C3%B4i%2C%20m%E1%BB%99t%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20hay%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83)%20v%C3%A0%20m%E1%BB%91i%20quan%20h%E1%BB%87%2Ft%C6%B0%C6%A1ng%20t%C3%A1c%20kh%C3%B4ng%20gian%20c%E1%BB%A7a%20ch%C3%BAng.%0AT%E1%BA%A1o%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20b%E1%BA%A3ng%20li%C3%AAn%20h%E1%BB%87%203x3%20m%E1%BA%A1ch%20l%E1%BA%A1c%2C%20hi%E1%BB%83n%20th%E1%BB%8B%209%20b%E1%BB%A9c%20%E1%BA%A3nh%20kh%C3%A1c%20nhau%20c%E1%BB%A7a%20ch%C3%ADnh%20x%C3%A1c%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20n%C3%A0y%20trong%20c%C3%B9ng%20m%E1%BB%99t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng.%0AB%E1%BA%A1n%20ph%E1%BA%A3i%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20c%C3%A1c%20lo%E1%BA%A1i%20c%E1%BA%A3nh%20quay%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%E1%BB%83%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%E1%BB%99i%20dung%20(v%C3%AD%20d%E1%BB%A5%3A%20n%E1%BA%BFu%20%C4%91%C3%B3%20l%C3%A0%20m%E1%BB%99t%20nh%C3%B3m%2C%20h%C3%A3y%20gi%E1%BB%AF%20nh%C3%B3m%20l%E1%BA%A1i%20v%E1%BB%9Bi%20nhau%3B%20n%E1%BA%BFu%20%C4%91%C3%B3%20l%C3%A0%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83%2C%20h%C3%A3y%20%C4%91%C3%B3ng%20khung%20to%C3%A0n%20b%E1%BB%99%20v%E1%BA%ADt%20th%E1%BB%83)%3A%0AH%C3%A0ng%201%20(thi%E1%BA%BFt%20l%E1%BA%ADp%20b%E1%BB%91i%20c%E1%BA%A3nh)%3A%0A1.%20C%E1%BA%A3nh%20quay%20c%E1%BB%B1c%20xa%20(ELS)%3A%20ch%E1%BB%A7%20th%E1%BB%83%20xu%E1%BA%A5t%20hi%E1%BB%87n%20nh%E1%BB%8F%20b%C3%A9%20trong%20m%E1%BB%99t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20r%E1%BB%99ng%20l%E1%BB%9Bn.%0A2.%20C%E1%BA%A3nh%20quay%20xa%20(LS)%3A%20to%C3%A0n%20b%E1%BB%99%20ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20nh%C3%B3m%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng%20d%C6%B0%E1%BB%9Bi%20(t%E1%BB%AB%20%C4%91%E1%BA%A7u%20%C4%91%E1%BA%BFn%20ch%C3%A2n%20%2F%20t%E1%BB%AB%20b%C3%A1nh%20xe%20%C4%91%E1%BA%BFn%20n%C3%B3c).%0A3.%20C%E1%BA%A3nh%20quay%20trung%20b%C3%ACnh%20xa%20(c%E1%BA%A3nh%20quay%20ki%E1%BB%83u%20M%E1%BB%B9%20%2F%20ba%20ph%E1%BA%A7n%20t%C6%B0)%3A%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20khung%20t%E1%BB%AB%20tr%C3%AAn%20%C4%91%E1%BA%A7u%20g%E1%BB%91i%20(%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di)%20ho%E1%BA%B7c%20%E1%BB%9F%20g%C3%B3c%20nh%C3%ACn%203%2F4%20(%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20v%E1%BA%ADt%20th%E1%BB%83).%0AH%C3%A0ng%202%20(ph%E1%BA%A1m%20vi%20bao%20ph%E1%BB%A7%20c%E1%BB%91t%20l%C3%B5i)%3A%0A4.%20C%E1%BA%A3nh%20quay%20trung%20b%C3%ACnh%20(MS)%3A%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20khung%20t%E1%BB%AB%20th%E1%BA%AFt%20l%C6%B0ng%20tr%E1%BB%9F%20l%C3%AAn%20(ho%E1%BA%B7c%20ph%E1%BA%A7n%20c%E1%BB%91t%20l%C3%B5i%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83)%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20t%C6%B0%C6%A1ng%20t%C3%A1c%2Fh%C3%A0nh%20%C4%91%E1%BB%99ng.%0A5.%20C%E1%BA%ADn%20c%E1%BA%A3nh%20trung%20b%C3%ACnh%20(MCU)%3A%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20khung%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn%2C%20m%E1%BB%99t%20khung%20h%C3%ACnh%20th%C3%A2n%20m%E1%BA%ADt%20c%E1%BB%A7a%20ch%E1%BB%A7%20th%E1%BB%83%20ch%C3%ADnh.%0A6.%20C%E1%BA%ADn%20c%E1%BA%A3nh%20(CU)%3A%20m%E1%BB%99t%20khung%20h%C3%ACnh%20ch%E1%BA%B7t%20ch%E1%BA%BD%20v%C3%A0o%20khu%C3%B4n%20m%E1%BA%B7t%20ho%E1%BA%B7c%20%22m%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc%22%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83.%0AH%C3%A0ng%203%20(chi%20ti%E1%BA%BFt%20v%C3%A0%20g%C3%B3c%20%C4%91%E1%BB%99)%3A%0A7.%20C%E1%BA%ADn%20c%E1%BA%A3nh%20c%E1%BB%B1c%20%C4%91%E1%BA%A1i%20(ECU)%3A%20t%E1%BA%ADp%20trung%20m%E1%BA%A1nh%20v%C3%A0o%20c%C3%A1c%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20ch%C3%ADnh%20(m%E1%BA%AFt%2C%20tay%2C%20logo%2C%20k%E1%BA%BFt%20c%E1%BA%A5u)%20v%E1%BB%9Bi%20chi%20ti%E1%BA%BFt%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20macro.%0A8.%20C%E1%BA%A3nh%20quay%20g%C3%B3c%20th%E1%BA%A5p%20(g%C3%B3c%20nh%C3%ACn%20c%E1%BB%A7a%20s%C3%A2u)%3A%20nh%C3%ACn%20l%C3%AAn%20ch%E1%BB%A7%20th%E1%BB%83%20t%E1%BB%AB%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20(t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20ho%C3%A0nh%20tr%C3%A1ng%2Fanh%20h%C3%B9ng).%0A9.%20C%E1%BA%A3nh%20quay%20g%C3%B3c%20cao%20(g%C3%B3c%20nh%C3%ACn%20c%E1%BB%A7a%20chim)%3A%20nh%C3%ACn%20xu%E1%BB%91ng%20ch%E1%BB%A7%20th%E1%BB%83%20t%E1%BB%AB%20tr%C3%AAn%20cao.%0A%C4%90%E1%BA%A3m%20b%E1%BA%A3o%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20nghi%C3%AAm%20ng%E1%BA%B7t%3A%20c%C3%B9ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%2Fv%E1%BA%ADt%20th%E1%BB%83%2C%20c%C3%B9ng%20m%E1%BB%99t%20trang%20ph%E1%BB%A5c%20v%C3%A0%20c%C3%B9ng%20m%E1%BB%99t%20%C3%A1nh%20s%C3%A1ng%20ph%E1%BA%A3i%20xu%E1%BA%A5t%20hi%E1%BB%87n%20trong%20c%E1%BA%A3%209%20%C3%B4.%20%C4%90%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%AAn%20thay%20%C4%91%E1%BB%95i%20m%E1%BB%99t%20c%C3%A1ch%20th%E1%BB%B1c%20t%E1%BA%BF%20(l%C3%A0m%20m%E1%BB%9D%20h%E1%BA%ADu%20c%E1%BA%A3nh%20trong%20c%C3%A1c%20c%E1%BA%A3nh%20quay%20c%E1%BA%ADn%20c%E1%BA%A3nh).%0A%0AM%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20b%E1%BA%A3ng%20ph%C3%A2n%20c%E1%BA%A3nh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%203x3%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%E1%BB%9Bi%209%20%C3%B4.%0AL%C6%B0%E1%BB%9Bi%20hi%E1%BB%83n%20th%E1%BB%8B%20ch%E1%BB%A7%20th%E1%BB%83%2Fc%E1%BA%A3nh%20c%E1%BB%A5%20th%E1%BB%83%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20v%C3%A0o%20tr%C3%AAn%20m%E1%BB%99t%20ph%E1%BA%A1m%20vi%20ti%C3%AAu%20c%E1%BB%B1%20to%C3%A0n%20di%E1%BB%87n.%0AH%C3%A0ng%20tr%C3%AAn%20c%C3%B9ng%3A%20c%E1%BA%A3nh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20r%E1%BB%99ng%2C%20to%C3%A0n%20c%E1%BA%A3nh%2C%20c%E1%BA%AFt%203%2F4%20(c%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20g%E1%BB%91i).%0AH%C3%A0ng%20gi%E1%BB%AFa%3A%20c%E1%BA%A3nh%20t%E1%BB%AB%20th%E1%BA%AFt%20l%C6%B0ng%20tr%E1%BB%9F%20l%C3%AAn%2C%20c%E1%BA%A3nh%20t%E1%BB%AB%20ng%E1%BB%B1c%20tr%E1%BB%9F%20l%C3%AAn%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20khu%C3%B4n%20m%E1%BA%B7t%2Fm%E1%BA%B7t%20tr%C6%B0%E1%BB%9Bc.%0AH%C3%A0ng%20d%C6%B0%E1%BB%9Bi%20c%C3%B9ng%3A%20chi%20ti%E1%BA%BFt%20macro%2C%20g%C3%B3c%20th%E1%BA%A5p%2C%20g%C3%B3c%20cao.%0AT%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20khung%20h%C3%ACnh%20%C4%91%E1%BB%81u%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c%2C%20ph%C3%A2n%20lo%E1%BA%A1i%20m%C3%A0u%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20nh%E1%BA%A5t%20qu%C3%A1n%20v%C3%A0%20b%E1%BB%91%20c%E1%BB%A5c%20ch%C3%ADnh%20x%C3%A1c%20cho%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A2n%20t%C3%ADch.)**
 
 ---
 
@@ -1118,24 +1119,85 @@ Một lời nhắc kiểu JSON của Nano Banana Pro tập trung vào việc tá
 
 ---
 
-### No. 17: Lời nhắc JSON chân dung siêu thực với hình ảnh tham chiếu
+### No. 17: Lời nhắc tạo ảnh chân dung khách sạn ven biển siêu thực cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Cấu hình lời nhắc JSON Nano Banana Pro để tạo chân dung siêu thực, khớp chính xác khuôn mặt và trang phục của ảnh tham chiếu với độ trung thực tham chiếu cao.
+Một lời nhắc toàn diện theo phong cách JSON để tạo ra một bức chân dung cận cảnh siêu thực của một người phụ nữ tại bàn ăn sang trọng ở khách sạn ven biển, khớp chính xác với hình ảnh tham chiếu, với các tùy chọn chi tiết về thời trang, trang sức, đạo cụ và ánh sáng.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "project": "{argument name=\"project name\" default=\"Chân dung siêu thực\"}",
+  "project": "Chân Dung Siêu Thực",
   "reference_settings": {
     "use_reference_image": true,
-    "fidelity_strength": "{argument name=\"fidelity strength\" default=\"100%\"}",
+    "fidelity_strength": "100%",
     "instruction": "Khuôn mặt và trang phục phải khớp 100% với ảnh tham chiếu, tuyệt đối không thay đổi."
+  },
+  "subject": {
+    "demographics": "{argument name=\"subject\" default=\"Người phụ nữ\"}",
+    "focus_features": ["Mắt", "Mũi", "Môi"],
+    "expression": "{argument name=\"expression\" default=\"Cười, dễ thương, tươi tắn, mơ màng, hơi gợi cảm\"}",
+    "pose": "{argument name=\"pose\" default=\"Ngồi tại bàn trắng, chống cằm lên hai tay, hơi nghiêng người\"}",
+    "hair": {
+      "style": "{argument name=\"hair style\" default=\"Thẳng, búi cao lớn\"}",
+      "accessory": "{argument name=\"hair accessory\" default=\"Nơ cùng màu với trang phục\"}",
+      "texture": "Mềm mại nhiều lớp, những sợi tóc lỏng lẻo rơi tự nhiên trên mặt",
+      "movement": "Hơi bay trong gió"
+    },
+    "makeup": {
+      "cheeks": "Má hồng tự nhiên trên má và mũi",
+      "lips": "Môi đầy đặn, tông hồng đào nhẹ nhàng"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "Giống hệt ảnh tham chiếu",
+    "shoes": "Giày cao gót (giống tham chiếu)",
+    "bag": "Túi xách giống ảnh tham chiếu",
+    "jewelry": {
+      "necklace": "Dây chuyền vàng mảnh với các mặt dây xen kẽ (trái tim, trăng lưỡi liềm, mặt dây Gucci)",
+      "bracelet": "Vòng tay Gucci tinh xảo với các mặt dây",
+      "rings": "Nhẫn vàng",
+      "watch": "Đồng hồ Patek Philippe dây thép",
+      "earrings": "Bông tai Gucci vàng nhỏ"
+    }
+  },
+  "environment": {
+    "location": "{argument name=\"location\" default=\"Sân thượng khách sạn sang trọng / Bờ biển\"}",
+    "time_of_day_options": [
+      "Tùy chọn A: {argument name=\"evening option\" default=\"Bầu trời đêm xanh thẳm, sao, sao băng, ánh trăng\"}",
+      "Tùy chọn B: {argument name=\"sunrise option\" default=\"Bình minh sớm, bầu trời tông vàng cam\"}"
+    ],
+    "background_elements": [
+      "Ánh phản chiếu ấm áp từ khách sạn sang trọng",
+      "Cảnh biển yên bình"
+    ]
+  },
+  "props": {
+    "table_setting": "Bàn trắng",
+    "items": [
+      "Cốc với một bông hồng trắng",
+      "Ly rượu vang",
+      "Chai rượu vang",
+      "Bộ đĩa với dao và nĩa",
+      "Miếng bít tết T-bone lớn ở giữa",
+      "Cốc nến (tạo điểm nhấn ấm áp)"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "Phong cách flash máy ảnh kỹ thuật số thập niên 2000",
+    "lighting": "Độ sáng flash chân thực, tông ấm, da hơi bóng",
+    "mood": "Thư giãn, ấm áp, hoài niệm, sành điệu, thanh lịch, hơi gợi cảm",
+    "shot_type": "Chân dung cận cảnh"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "detail_level": "8k",
+    "style_tags": ["ảnh", "chân thực", "chụp ảnh flash"]
   }
 }
 ```
@@ -1145,7 +1207,7 @@ Cấu hình lời nhắc JSON Nano Banana Pro để tạo chân dung siêu thự
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Lời nhắc JSON chân dung siêu thực với hình ảnh tham chiếu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Lời nhắc tạo ảnh chân dung khách sạn ven biển siêu thực cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1155,22 +1217,22 @@ Cấu hình lời nhắc JSON Nano Banana Pro để tạo chân dung siêu thự
 - **Đã xuất bản:** 29 tháng 11, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%7Bargument%20name%3D%5C%22project%20name%5C%22%20default%3D%5C%22Ch%C3%A2n%20dung%20si%C3%AAu%20th%E1%BB%B1c%5C%22%7D%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22fidelity%20strength%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20trang%20ph%E1%BB%A5c%20ph%E1%BA%A3i%20kh%E1%BB%9Bp%20100%25%20v%E1%BB%9Bi%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%2C%20tuy%E1%BB%87t%20%C4%91%E1%BB%91i%20kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i.%22%0A%20%20%7D%0A%7D)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22Ch%C3%A2n%20Dung%20Si%C3%AAu%20Th%E1%BB%B1c%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22100%25%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20trang%20ph%E1%BB%A5c%20ph%E1%BA%A3i%20kh%E1%BB%9Bp%20100%25%20v%E1%BB%9Bi%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%2C%20tuy%E1%BB%87t%20%C4%91%E1%BB%91i%20kh%C3%B4ng%20thay%20%C4%91%E1%BB%95i.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%5C%22%20default%3D%5C%22Ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22M%E1%BA%AFt%22%2C%20%22M%C5%A9i%22%2C%20%22M%C3%B4i%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22C%C6%B0%E1%BB%9Di%2C%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20t%C6%B0%C6%A1i%20t%E1%BA%AFn%2C%20m%C6%A1%20m%C3%A0ng%2C%20h%C6%A1i%20g%E1%BB%A3i%20c%E1%BA%A3m%5C%22%7D%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%7Bargument%20name%3D%5C%22pose%5C%22%20default%3D%5C%22Ng%E1%BB%93i%20t%E1%BA%A1i%20b%C3%A0n%20tr%E1%BA%AFng%2C%20ch%E1%BB%91ng%20c%E1%BA%B1m%20l%C3%AAn%20hai%20tay%2C%20h%C6%A1i%20nghi%C3%AAng%20ng%C6%B0%E1%BB%9Di%5C%22%7D%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22Th%E1%BA%B3ng%2C%20b%C3%BAi%20cao%20l%E1%BB%9Bn%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20accessory%5C%22%20default%3D%5C%22N%C6%A1%20c%C3%B9ng%20m%C3%A0u%20v%E1%BB%9Bi%20trang%20ph%E1%BB%A5c%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22M%E1%BB%81m%20m%E1%BA%A1i%20nhi%E1%BB%81u%20l%E1%BB%9Bp%2C%20nh%E1%BB%AFng%20s%E1%BB%A3i%20t%C3%B3c%20l%E1%BB%8Fng%20l%E1%BA%BBo%20r%C6%A1i%20t%E1%BB%B1%20nhi%C3%AAn%20tr%C3%AAn%20m%E1%BA%B7t%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22H%C6%A1i%20bay%20trong%20gi%C3%B3%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22M%C3%A1%20h%E1%BB%93ng%20t%E1%BB%B1%20nhi%C3%AAn%20tr%C3%AAn%20m%C3%A1%20v%C3%A0%20m%C5%A9i%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22M%C3%B4i%20%C4%91%E1%BA%A7y%20%C4%91%E1%BA%B7n%2C%20t%C3%B4ng%20h%E1%BB%93ng%20%C4%91%C3%A0o%20nh%E1%BA%B9%20nh%C3%A0ng%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Gi%E1%BB%91ng%20h%E1%BB%87t%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22Gi%C3%A0y%20cao%20g%C3%B3t%20(gi%E1%BB%91ng%20tham%20chi%E1%BA%BFu)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22T%C3%BAi%20x%C3%A1ch%20gi%E1%BB%91ng%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22D%C3%A2y%20chuy%E1%BB%81n%20v%C3%A0ng%20m%E1%BA%A3nh%20v%E1%BB%9Bi%20c%C3%A1c%20m%E1%BA%B7t%20d%C3%A2y%20xen%20k%E1%BA%BD%20(tr%C3%A1i%20tim%2C%20tr%C4%83ng%20l%C6%B0%E1%BB%A1i%20li%E1%BB%81m%2C%20m%E1%BA%B7t%20d%C3%A2y%20Gucci)%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22V%C3%B2ng%20tay%20Gucci%20tinh%20x%E1%BA%A3o%20v%E1%BB%9Bi%20c%C3%A1c%20m%E1%BA%B7t%20d%C3%A2y%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22Nh%E1%BA%ABn%20v%C3%A0ng%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22%C4%90%E1%BB%93ng%20h%E1%BB%93%20Patek%20Philippe%20d%C3%A2y%20th%C3%A9p%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22B%C3%B4ng%20tai%20Gucci%20v%C3%A0ng%20nh%E1%BB%8F%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%5C%22location%5C%22%20default%3D%5C%22S%C3%A2n%20th%C6%B0%E1%BB%A3ng%20kh%C3%A1ch%20s%E1%BA%A1n%20sang%20tr%E1%BB%8Dng%20%2F%20B%E1%BB%9D%20bi%E1%BB%83n%5C%22%7D%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22T%C3%B9y%20ch%E1%BB%8Dn%20A%3A%20%7Bargument%20name%3D%5C%22evening%20option%5C%22%20default%3D%5C%22B%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%C3%AAm%20xanh%20th%E1%BA%B3m%2C%20sao%2C%20sao%20b%C4%83ng%2C%20%C3%A1nh%20tr%C4%83ng%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22T%C3%B9y%20ch%E1%BB%8Dn%20B%3A%20%7Bargument%20name%3D%5C%22sunrise%20option%5C%22%20default%3D%5C%22B%C3%ACnh%20minh%20s%E1%BB%9Bm%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20t%C3%B4ng%20v%C3%A0ng%20cam%5C%22%7D%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%C3%81nh%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20%E1%BA%A5m%20%C3%A1p%20t%E1%BB%AB%20kh%C3%A1ch%20s%E1%BA%A1n%20sang%20tr%E1%BB%8Dng%22%2C%0A%20%20%20%20%20%20%22C%E1%BA%A3nh%20bi%E1%BB%83n%20y%C3%AAn%20b%C3%ACnh%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22B%C3%A0n%20tr%E1%BA%AFng%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22C%E1%BB%91c%20v%E1%BB%9Bi%20m%E1%BB%99t%20b%C3%B4ng%20h%E1%BB%93ng%20tr%E1%BA%AFng%22%2C%0A%20%20%20%20%20%20%22Ly%20r%C6%B0%E1%BB%A3u%20vang%22%2C%0A%20%20%20%20%20%20%22Chai%20r%C6%B0%E1%BB%A3u%20vang%22%2C%0A%20%20%20%20%20%20%22B%E1%BB%99%20%C4%91%C4%A9a%20v%E1%BB%9Bi%20dao%20v%C3%A0%20n%C4%A9a%22%2C%0A%20%20%20%20%20%20%22Mi%E1%BA%BFng%20b%C3%ADt%20t%E1%BA%BFt%20T-bone%20l%E1%BB%9Bn%20%E1%BB%9F%20gi%E1%BB%AFa%22%2C%0A%20%20%20%20%20%20%22C%E1%BB%91c%20n%E1%BA%BFn%20(t%E1%BA%A1o%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20%E1%BA%A5m%20%C3%A1p)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%22Phong%20c%C3%A1ch%20flash%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20th%E1%BA%ADp%20ni%C3%AAn%202000%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%C4%90%E1%BB%99%20s%C3%A1ng%20flash%20ch%C3%A2n%20th%E1%BB%B1c%2C%20t%C3%B4ng%20%E1%BA%A5m%2C%20da%20h%C6%A1i%20b%C3%B3ng%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Th%C6%B0%20gi%C3%A3n%2C%20%E1%BA%A5m%20%C3%A1p%2C%20ho%C3%A0i%20ni%E1%BB%87m%2C%20s%C3%A0nh%20%C4%91i%E1%BB%87u%2C%20thanh%20l%E1%BB%8Bch%2C%20h%C6%A1i%20g%E1%BB%A3i%20c%E1%BA%A3m%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22Ch%C3%A2n%20dung%20c%E1%BA%ADn%20c%E1%BA%A3nh%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%228k%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22%E1%BA%A3nh%22%2C%20%22ch%C3%A2n%20th%E1%BB%B1c%22%2C%20%22ch%E1%BB%A5p%20%E1%BA%A3nh%20flash%22%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 18: Lời nhắc Nano Banana Pro để phục hồi ảnh cũ thành chân dung hiện đại
+### No. 18: Phục hồi ảnh cũ thành ảnh chân dung hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một cặp câu lệnh chi tiết Anh – Trung để sử dụng Nano Banana Pro nhằm biến một bức ảnh cũ thành ảnh chân dung kỹ thuật số hiện đại, chất lượng cao trong khi vẫn giữ nguyên tư thế và biểu cảm gốc. Rất phù hợp cho quy trình phục hồi ảnh khi bạn muốn cập nhật màu sắc và phong cách nhưng vẫn giữ được độ giống cao với hình ảnh gốc.
+Một lời nhắc song ngữ để biến một bức ảnh cũ thành một bức chân dung kỹ thuật số chất lượng cao hiện đại, đồng thời giữ nguyên tư thế và biểu cảm, phù hợp cho việc phục hồi ảnh bằng Nano Banana Pro.
 
 #### 📝 Câu lệnh
 
 ```
-Biến đổi hình ảnh thành một bức chân dung kỹ thuật số hiện đại, chất lượng cao với màu sắc sống động, kết cấu da mịn màng và chân thực, cùng ánh sáng tự nhiên. Nâng cấp trang phục và phông nền theo phong cách hiện đại, tinh tế trong khi vẫn giữ được nét chân thực của tư thế và biểu cảm gốc.
+Biến hóa thành một bức chân dung kỹ thuật số hiện đại, chất lượng cao với màu sắc sống động, được cập nhật, kết cấu da mịn màng, chân thực và ánh sáng tự nhiên. Trang phục và phông nền nên được nâng cấp theo phong cách thẩm mỹ sạch sẽ, hiện đại trong khi vẫn giữ được sự chân thực của tư thế và biểu cảm gốc.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1178,25 +1240,25 @@ Biến đổi hình ảnh thành một bức chân dung kỹ thuật số hiện
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Lời nhắc Nano Banana Pro để phục hồi ảnh cũ thành chân dung hiện đại - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Phục hồi ảnh cũ thành ảnh chân dung hiện đại - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Lời nhắc Nano Banana Pro để phục hồi ảnh cũ thành chân dung hiện đại - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Phục hồi ảnh cũ thành ảnh chân dung hiện đại - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Lời nhắc Nano Banana Pro để phục hồi ảnh cũ thành chân dung hiện đại - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Phục hồi ảnh cũ thành ảnh chân dung hiện đại - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Lời nhắc Nano Banana Pro để phục hồi ảnh cũ thành chân dung hiện đại - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Phục hồi ảnh cũ thành ảnh chân dung hiện đại - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1206,7 +1268,7 @@ Biến đổi hình ảnh thành một bức chân dung kỹ thuật số hiện
 - **Đã xuất bản:** 29 tháng 11, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20h%C3%ACnh%20%E1%BA%A3nh%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%20v%E1%BB%9Bi%20m%C3%A0u%20s%E1%BA%AFc%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20m%E1%BB%8Bn%20m%C3%A0ng%20v%C3%A0%20ch%C3%A2n%20th%E1%BB%B1c%2C%20c%C3%B9ng%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn.%20N%C3%A2ng%20c%E1%BA%A5p%20trang%20ph%E1%BB%A5c%20v%C3%A0%20ph%C3%B4ng%20n%E1%BB%81n%20theo%20phong%20c%C3%A1ch%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20tinh%20t%E1%BA%BF%20trong%20khi%20v%E1%BA%ABn%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20n%C3%A9t%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20t%C6%B0%20th%E1%BA%BF%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20g%E1%BB%91c.)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Bi%E1%BA%BFn%20h%C3%B3a%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%20v%E1%BB%9Bi%20m%C3%A0u%20s%E1%BA%AFc%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%ADp%20nh%E1%BA%ADt%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20m%E1%BB%8Bn%20m%C3%A0ng%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn.%20Trang%20ph%E1%BB%A5c%20v%C3%A0%20ph%C3%B4ng%20n%E1%BB%81n%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20n%C3%A2ng%20c%E1%BA%A5p%20theo%20phong%20c%C3%A1ch%20th%E1%BA%A9m%20m%E1%BB%B9%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20trong%20khi%20v%E1%BA%ABn%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20t%C6%B0%20th%E1%BA%BF%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20g%E1%BB%91c.)**
 
 ---
 
@@ -1303,33 +1365,32 @@ Vui lòng sử dụng người trong hình đính kèm. Tên của họ là {arg
 
 ---
 
-### No. 21: Thiết kế PPT glassmorphism tương lai cho Nano Banana Pro
+### No. 21: Lời nhắc thiết kế PPT glassmorphism tương lai cho Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc tạo PPT chi tiết biến bạn thành chuyên gia thiết kế slide UI/UX, tạo ra các bản trình bày 16:9 chất lượng cao, phong cách glassmorphism tương lai lấy cảm hứng từ Apple Keynote và thiết kế SaaS hiện đại.
+Một lời nhắc Nano Banana Pro dài để tạo các slide thuyết trình 16:9 có độ trung thực cao, mang phong cách tương lai theo kiểu glassmorphism SaaS/Keynote, phù hợp với các tính năng tạo PPT.
 
 #### 📝 Câu lệnh
 
 ```
-Bạn là một nhà thiết kế trình bày UI/UX cấp chuyên gia. Hãy tạo các slide trình bày 16:9 có độ trung thực cao, mang hơi hướng tương lai. Dựa trên các nguyên tắc cân bằng thị giác và thẩm mỹ, tự động chọn bố cục hoàn hảo nhất trong số bìa, bố cục lưới hoặc trực quan hóa dữ liệu.
+Bạn là một nhà thiết kế trình chiếu UI/UX cấp chuyên gia. Hãy tạo các slide trình chiếu 16:9 có độ trung thực cao, mang phong cách tương lai. Dựa trên sự cân bằng và thẩm mỹ thị giác, tự động chọn bố cục hoàn hảo nhất trong số bố cục trang bìa, bố cục dạng lưới hoặc trực quan hóa dữ liệu.
 
-Đối với ngôn ngữ hình ảnh tổng thể, phong cách nên kết hợp liền mạch sự tối giản của Apple Keynote, thiết kế sản phẩm SaaS hiện đại và glassmorphism. Tâm trạng tổng thể nên mang lại cảm giác cao cấp, sống động, sạch sẽ và thoáng đãng. Sử dụng ánh sáng thể tích điện ảnh, phản xạ dò tia mềm mại và đổ bóng môi trường. Bảng màu nên sử dụng {argument name="base color" default="màu đen không gian sâu hoặc trắng sứ tinh khiết"} làm nền, được nhấn nhá bằng các dải màu cực quang chuyển động như {argument name="gradient accent colors" default="tím neon, xanh điện, cam san hô mềm mại, xanh lam"} cho nền và các điểm nhấn UI.
+Đối với ngôn ngữ hình ảnh tổng thể, phong cách nên kết hợp liền mạch sự tối giản của Apple Keynote, thiết kế sản phẩm SaaS hiện đại và hiệu ứng glassmorphism. Tâm trạng tổng thể phải toát lên vẻ cao cấp, sống động, sạch sẽ và thoáng đãng. Sử dụng ánh sáng thể tích điện ảnh, phản xạ dò tia mềm mại và hiệu ứng đổ bóng xung quanh. Đối với bảng màu, hãy chọn màu đen sâu thẳm hoặc trắng gốm tinh khiết làm nền, nhấn nhá bằng các dải màu gradient cực quang chuyển động — tím neon, xanh điện, cam san hô mềm mại và xanh lục lam — làm nền và điểm nhấn UI.
 
-Đối với các mô-đun nội dung trong hình ảnh, hãy tích hợp thông minh các yếu tố sau:
+Đối với các mô-đun nội dung trên mỗi slide, hãy tích hợp thông minh các yếu tố sau:
 
-1. Sử dụng hệ thống lưới bento-box làm công cụ bố cục, sắp xếp nội dung vào các vùng chứa hình chữ nhật bo tròn dạng mô-đun. Các vùng chứa phải có chất liệu kính mờ với hiệu ứng làm mờ, đường viền trắng tinh tế và đổ bóng mềm mại, đồng thời phải giữ không gian trắng bên trong lớn để tránh gây chật chội.
+1. Sử dụng hệ thống lưới Bento-box làm công cụ bố cục, sắp xếp nội dung vào các vùng chứa hình chữ nhật bo tròn dạng mô-đun. Các vùng chứa phải có chất liệu kính mờ với hiệu ứng làm mờ, các cạnh trắng tinh tế và bóng mềm, đồng thời đảm bảo không gian trắng bên trong rộng rãi để tránh lộn xộn.
 
-2. Chèn các vật thể 3D với kết cấu sang trọng như quà tặng, hiển thị các tác phẩm 3D trừu tượng cao cấp độc đáo làm điểm nhấn thị giác. Hình dáng của chúng nên giống như những món quà vật lý đắt tiền hoặc đồ sưu tầm, với các chất liệu như {argument name="3D object materials" default="kim loại đánh bóng, acrylic óng ánh, thủy tinh trong suốt hoặc silicone mềm"}, và các hình dạng như {argument name="3D object shapes" default="viên nang nổi, hình cầu, tấm chắn, dải Möbius hoặc sóng lỏng"}.
+2. Chèn các vật thể 3D giống như quà tặng, hiển thị các tác phẩm 3D trừu tượng cao cấp độc đáo làm điểm nhấn thị giác. Chúng phải trông giống như những món quà hoặc đồ sưu tầm hữu hình, đắt tiền, với các chất liệu như kim loại đánh bóng, acrylic óng ánh, thủy tinh trong suốt hoặc silicone mềm, và các hình dạng như viên nang nổi, hình cầu, tấm chắn, dải Möbius hoặc sóng chất lỏng.
 
-3. Đối với kiểu chữ và dữ liệu, sử dụng phông chữ sans-serif rõ ràng với độ tương phản cao. Nếu có biểu đồ, hãy sử dụng biểu đồ hình bánh donut 3D phát sáng, thanh tiến trình hình viên nang hoặc các chữ số nổi, và làm cho các biểu đồ trông giống như đồ chơi neon phát sáng.
+3. Đối với kiểu chữ và dữ liệu, sử dụng phông chữ sans-serif rõ ràng với độ tương phản mạnh. Nếu có biểu đồ, hãy sử dụng biểu đồ hình bánh donut 3D phát sáng, thanh tiến trình hình viên nang hoặc số nổi; các biểu đồ phải trông giống như đồ chơi neon phát sáng.
 
-Tham khảo logic bố cục: Nếu tạo slide bìa, đặt một vật thể thủy tinh 3D khổng lồ, phức tạp ở giữa, phủ lên văn bản lớn đậm và mở rộng sóng cực quang ở nền. Nếu tạo slide nội dung, sử dụng bố cục lưới bento, đặt các biểu tượng 3D trong các thẻ nhỏ và văn bản trong các thẻ lớn. Nếu tạo slide dữ liệu, sử dụng bố cục chia đôi màn hình: văn bản được sắp xếp ở bên trái và biểu đồ trực quan hóa dữ liệu 3D phát sáng khổng lồ nổi ở bên phải.
+Tham khảo logic bố cục: Nếu tạo trang bìa, đặt một vật thể thủy tinh 3D lớn, phức tạp ở giữa với văn bản lớn đậm phía trên, và các dải sóng cực quang mở rộng ở phía sau. Nếu tạo trang nội dung, sử dụng bố cục lưới Bento với các biểu tượng 3D trên các thẻ nhỏ và văn bản trên các thẻ lớn. Nếu tạo trang dữ liệu, sử dụng thiết kế chia đôi màn hình với văn bản được sắp chữ ở bên trái và một biểu đồ trực quan hóa dữ liệu 3D lớn, phát sáng nổi ở bên phải.
 
-Yêu cầu hiển thị: Hiển thị bằng Unreal Engine 5, độ phân giải 8K, kết cấu siêu chi tiết, cảm giác thiết kế UI mạnh mẽ, chất lượng giao diện UX, thịnh hành trên Dribbble, tác phẩm thiết kế đoạt giải.
+Yêu cầu chất lượng hiển thị: Kết xuất bằng Unreal Engine 5, độ phân giải 8K, kết cấu siêu chi tiết, cảm giác thiết kế UI mạnh mẽ, chất lượng giao diện UX, phong cách thịnh hành trên Dribbble, tác phẩm thiết kế đoạt giải.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1337,7 +1398,7 @@ Yêu cầu hiển thị: Hiển thị bằng Unreal Engine 5, độ phân giải
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Thiết kế PPT glassmorphism tương lai cho Nano Banana Pro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Lời nhắc thiết kế PPT glassmorphism tương lai cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1347,7 +1408,7 @@ Yêu cầu hiển thị: Hiển thị bằng Unreal Engine 5, độ phân giải
 - **Đã xuất bản:** 29 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=B%E1%BA%A1n%20l%C3%A0%20m%E1%BB%99t%20nh%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20tr%C3%ACnh%20b%C3%A0y%20UI%2FUX%20c%E1%BA%A5p%20chuy%C3%AAn%20gia.%20H%C3%A3y%20t%E1%BA%A1o%20c%C3%A1c%20slide%20tr%C3%ACnh%20b%C3%A0y%2016%3A9%20c%C3%B3%20%C4%91%E1%BB%99%20trung%20th%E1%BB%B1c%20cao%2C%20mang%20h%C6%A1i%20h%C6%B0%E1%BB%9Bng%20t%C6%B0%C6%A1ng%20lai.%20D%E1%BB%B1a%20tr%C3%AAn%20c%C3%A1c%20nguy%C3%AAn%20t%E1%BA%AFc%20c%C3%A2n%20b%E1%BA%B1ng%20th%E1%BB%8B%20gi%C3%A1c%20v%C3%A0%20th%E1%BA%A9m%20m%E1%BB%B9%2C%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ch%E1%BB%8Dn%20b%E1%BB%91%20c%E1%BB%A5c%20ho%C3%A0n%20h%E1%BA%A3o%20nh%E1%BA%A5t%20trong%20s%E1%BB%91%20b%C3%ACa%2C%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20ho%E1%BA%B7c%20tr%E1%BB%B1c%20quan%20h%C3%B3a%20d%E1%BB%AF%20li%E1%BB%87u.%0A%0A%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20ng%C3%B4n%20ng%E1%BB%AF%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%95ng%20th%E1%BB%83%2C%20phong%20c%C3%A1ch%20n%C3%AAn%20k%E1%BA%BFt%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20s%E1%BB%B1%20t%E1%BB%91i%20gi%E1%BA%A3n%20c%E1%BB%A7a%20Apple%20Keynote%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A3n%20ph%E1%BA%A9m%20SaaS%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20glassmorphism.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20n%C3%AAn%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20cao%20c%E1%BA%A5p%2C%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20tho%C3%A1ng%20%C4%91%C3%A3ng.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ph%E1%BA%A3n%20x%E1%BA%A1%20d%C3%B2%20tia%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng.%20B%E1%BA%A3ng%20m%C3%A0u%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22m%C3%A0u%20%C4%91en%20kh%C3%B4ng%20gian%20s%C3%A2u%20ho%E1%BA%B7c%20tr%E1%BA%AFng%20s%E1%BB%A9%20tinh%20khi%E1%BA%BFt%22%7D%20l%C3%A0m%20n%E1%BB%81n%2C%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%A5n%20nh%C3%A1%20b%E1%BA%B1ng%20c%C3%A1c%20d%E1%BA%A3i%20m%C3%A0u%20c%E1%BB%B1c%20quang%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20nh%C6%B0%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22t%C3%ADm%20neon%2C%20xanh%20%C4%91i%E1%BB%87n%2C%20cam%20san%20h%C3%B4%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20xanh%20lam%22%7D%20cho%20n%E1%BB%81n%20v%C3%A0%20c%C3%A1c%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20UI.%0A%0A%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1c%20m%C3%B4-%C4%91un%20n%E1%BB%99i%20dung%20trong%20h%C3%ACnh%20%E1%BA%A3nh%2C%20h%C3%A3y%20t%C3%ADch%20h%E1%BB%A3p%20th%C3%B4ng%20minh%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20sau%3A%0A%0A1.%20S%E1%BB%AD%20d%E1%BB%A5ng%20h%E1%BB%87%20th%E1%BB%91ng%20l%C6%B0%E1%BB%9Bi%20bento-box%20l%C3%A0m%20c%C3%B4ng%20c%E1%BB%A5%20b%E1%BB%91%20c%E1%BB%A5c%2C%20s%E1%BA%AFp%20x%E1%BA%BFp%20n%E1%BB%99i%20dung%20v%C3%A0o%20c%C3%A1c%20v%C3%B9ng%20ch%E1%BB%A9a%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%20bo%20tr%C3%B2n%20d%E1%BA%A1ng%20m%C3%B4-%C4%91un.%20C%C3%A1c%20v%C3%B9ng%20ch%E1%BB%A9a%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BA%A5t%20li%E1%BB%87u%20k%C3%ADnh%20m%E1%BB%9D%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%2C%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20t%E1%BA%BF%20v%C3%A0%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20ph%E1%BA%A3i%20gi%E1%BB%AF%20kh%C3%B4ng%20gian%20tr%E1%BA%AFng%20b%C3%AAn%20trong%20l%E1%BB%9Bn%20%C4%91%E1%BB%83%20tr%C3%A1nh%20g%C3%A2y%20ch%E1%BA%ADt%20ch%E1%BB%99i.%0A%0A2.%20Ch%C3%A8n%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%203D%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20sang%20tr%E1%BB%8Dng%20nh%C6%B0%20qu%C3%A0%20t%E1%BA%B7ng%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%203D%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20cao%20c%E1%BA%A5p%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20l%C3%A0m%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20th%E1%BB%8B%20gi%C3%A1c.%20H%C3%ACnh%20d%C3%A1ng%20c%E1%BB%A7a%20ch%C3%BAng%20n%C3%AAn%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BB%AFng%20m%C3%B3n%20qu%C3%A0%20v%E1%BA%ADt%20l%C3%BD%20%C4%91%E1%BA%AFt%20ti%E1%BB%81n%20ho%E1%BA%B7c%20%C4%91%E1%BB%93%20s%C6%B0u%20t%E1%BA%A7m%2C%20v%E1%BB%9Bi%20c%C3%A1c%20ch%E1%BA%A5t%20li%E1%BB%87u%20nh%C6%B0%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22kim%20lo%E1%BA%A1i%20%C4%91%C3%A1nh%20b%C3%B3ng%2C%20acrylic%20%C3%B3ng%20%C3%A1nh%2C%20th%E1%BB%A7y%20tinh%20trong%20su%E1%BB%91t%20ho%E1%BA%B7c%20silicone%20m%E1%BB%81m%22%7D%2C%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20nh%C6%B0%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22vi%C3%AAn%20nang%20n%E1%BB%95i%2C%20h%C3%ACnh%20c%E1%BA%A7u%2C%20t%E1%BA%A5m%20ch%E1%BA%AFn%2C%20d%E1%BA%A3i%20M%C3%B6bius%20ho%E1%BA%B7c%20s%C3%B3ng%20l%E1%BB%8Fng%22%7D.%0A%0A3.%20%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20ki%E1%BB%83u%20ch%E1%BB%AF%20v%C3%A0%20d%E1%BB%AF%20li%E1%BB%87u%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao.%20N%E1%BA%BFu%20c%C3%B3%20bi%E1%BB%83u%20%C4%91%E1%BB%93%2C%20h%C3%A3y%20s%E1%BB%AD%20d%E1%BB%A5ng%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20h%C3%ACnh%20b%C3%A1nh%20donut%203D%20ph%C3%A1t%20s%C3%A1ng%2C%20thanh%20ti%E1%BA%BFn%20tr%C3%ACnh%20h%C3%ACnh%20vi%C3%AAn%20nang%20ho%E1%BA%B7c%20c%C3%A1c%20ch%E1%BB%AF%20s%E1%BB%91%20n%E1%BB%95i%2C%20v%C3%A0%20l%C3%A0m%20cho%20c%C3%A1c%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20tr%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20%C4%91%E1%BB%93%20ch%C6%A1i%20neon%20ph%C3%A1t%20s%C3%A1ng.%0A%0ATham%20kh%E1%BA%A3o%20logic%20b%E1%BB%91%20c%E1%BB%A5c%3A%20N%E1%BA%BFu%20t%E1%BA%A1o%20slide%20b%C3%ACa%2C%20%C4%91%E1%BA%B7t%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83%20th%E1%BB%A7y%20tinh%203D%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20ph%E1%BB%A9c%20t%E1%BA%A1p%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20ph%E1%BB%A7%20l%C3%AAn%20v%C4%83n%20b%E1%BA%A3n%20l%E1%BB%9Bn%20%C4%91%E1%BA%ADm%20v%C3%A0%20m%E1%BB%9F%20r%E1%BB%99ng%20s%C3%B3ng%20c%E1%BB%B1c%20quang%20%E1%BB%9F%20n%E1%BB%81n.%20N%E1%BA%BFu%20t%E1%BA%A1o%20slide%20n%E1%BB%99i%20dung%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20bento%2C%20%C4%91%E1%BA%B7t%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%203D%20trong%20c%C3%A1c%20th%E1%BA%BB%20nh%E1%BB%8F%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20trong%20c%C3%A1c%20th%E1%BA%BB%20l%E1%BB%9Bn.%20N%E1%BA%BFu%20t%E1%BA%A1o%20slide%20d%E1%BB%AF%20li%E1%BB%87u%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BB%91%20c%E1%BB%A5c%20chia%20%C4%91%C3%B4i%20m%C3%A0n%20h%C3%ACnh%3A%20v%C4%83n%20b%E1%BA%A3n%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20%E1%BB%9F%20b%C3%AAn%20tr%C3%A1i%20v%C3%A0%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20tr%E1%BB%B1c%20quan%20h%C3%B3a%20d%E1%BB%AF%20li%E1%BB%87u%203D%20ph%C3%A1t%20s%C3%A1ng%20kh%E1%BB%95ng%20l%E1%BB%93%20n%E1%BB%95i%20%E1%BB%9F%20b%C3%AAn%20ph%E1%BA%A3i.%0A%0AY%C3%AAu%20c%E1%BA%A7u%20hi%E1%BB%83n%20th%E1%BB%8B%3A%20Hi%E1%BB%83n%20th%E1%BB%8B%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%208K%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20si%C3%AAu%20chi%20ti%E1%BA%BFt%2C%20c%E1%BA%A3m%20gi%C3%A1c%20thi%E1%BA%BFt%20k%E1%BA%BF%20UI%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20giao%20di%E1%BB%87n%20UX%2C%20th%E1%BB%8Bnh%20h%C3%A0nh%20tr%C3%AAn%20Dribbble%2C%20t%C3%A1c%20ph%E1%BA%A9m%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91o%E1%BA%A1t%20gi%E1%BA%A3i.)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=B%E1%BA%A1n%20l%C3%A0%20m%E1%BB%99t%20nh%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20tr%C3%ACnh%20chi%E1%BA%BFu%20UI%2FUX%20c%E1%BA%A5p%20chuy%C3%AAn%20gia.%20H%C3%A3y%20t%E1%BA%A1o%20c%C3%A1c%20slide%20tr%C3%ACnh%20chi%E1%BA%BFu%2016%3A9%20c%C3%B3%20%C4%91%E1%BB%99%20trung%20th%E1%BB%B1c%20cao%2C%20mang%20phong%20c%C3%A1ch%20t%C6%B0%C6%A1ng%20lai.%20D%E1%BB%B1a%20tr%C3%AAn%20s%E1%BB%B1%20c%C3%A2n%20b%E1%BA%B1ng%20v%C3%A0%20th%E1%BA%A9m%20m%E1%BB%B9%20th%E1%BB%8B%20gi%C3%A1c%2C%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ch%E1%BB%8Dn%20b%E1%BB%91%20c%E1%BB%A5c%20ho%C3%A0n%20h%E1%BA%A3o%20nh%E1%BA%A5t%20trong%20s%E1%BB%91%20b%E1%BB%91%20c%E1%BB%A5c%20trang%20b%C3%ACa%2C%20b%E1%BB%91%20c%E1%BB%A5c%20d%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20ho%E1%BA%B7c%20tr%E1%BB%B1c%20quan%20h%C3%B3a%20d%E1%BB%AF%20li%E1%BB%87u.%0A%0A%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20ng%C3%B4n%20ng%E1%BB%AF%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%95ng%20th%E1%BB%83%2C%20phong%20c%C3%A1ch%20n%C3%AAn%20k%E1%BA%BFt%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20s%E1%BB%B1%20t%E1%BB%91i%20gi%E1%BA%A3n%20c%E1%BB%A7a%20Apple%20Keynote%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A3n%20ph%E1%BA%A9m%20SaaS%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20glassmorphism.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20ph%E1%BA%A3i%20to%C3%A1t%20l%C3%AAn%20v%E1%BA%BB%20cao%20c%E1%BA%A5p%2C%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20tho%C3%A1ng%20%C4%91%C3%A3ng.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ph%E1%BA%A3n%20x%E1%BA%A1%20d%C3%B2%20tia%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C4%91%E1%BB%95%20b%C3%B3ng%20xung%20quanh.%20%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20b%E1%BA%A3ng%20m%C3%A0u%2C%20h%C3%A3y%20ch%E1%BB%8Dn%20m%C3%A0u%20%C4%91en%20s%C3%A2u%20th%E1%BA%B3m%20ho%E1%BA%B7c%20tr%E1%BA%AFng%20g%E1%BB%91m%20tinh%20khi%E1%BA%BFt%20l%C3%A0m%20n%E1%BB%81n%2C%20nh%E1%BA%A5n%20nh%C3%A1%20b%E1%BA%B1ng%20c%C3%A1c%20d%E1%BA%A3i%20m%C3%A0u%20gradient%20c%E1%BB%B1c%20quang%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20%E2%80%94%20t%C3%ADm%20neon%2C%20xanh%20%C4%91i%E1%BB%87n%2C%20cam%20san%20h%C3%B4%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20xanh%20l%E1%BB%A5c%20lam%20%E2%80%94%20l%C3%A0m%20n%E1%BB%81n%20v%C3%A0%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20UI.%0A%0A%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1c%20m%C3%B4-%C4%91un%20n%E1%BB%99i%20dung%20tr%C3%AAn%20m%E1%BB%97i%20slide%2C%20h%C3%A3y%20t%C3%ADch%20h%E1%BB%A3p%20th%C3%B4ng%20minh%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20sau%3A%0A%0A1.%20S%E1%BB%AD%20d%E1%BB%A5ng%20h%E1%BB%87%20th%E1%BB%91ng%20l%C6%B0%E1%BB%9Bi%20Bento-box%20l%C3%A0m%20c%C3%B4ng%20c%E1%BB%A5%20b%E1%BB%91%20c%E1%BB%A5c%2C%20s%E1%BA%AFp%20x%E1%BA%BFp%20n%E1%BB%99i%20dung%20v%C3%A0o%20c%C3%A1c%20v%C3%B9ng%20ch%E1%BB%A9a%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%20bo%20tr%C3%B2n%20d%E1%BA%A1ng%20m%C3%B4-%C4%91un.%20C%C3%A1c%20v%C3%B9ng%20ch%E1%BB%A9a%20ph%E1%BA%A3i%20c%C3%B3%20ch%E1%BA%A5t%20li%E1%BB%87u%20k%C3%ADnh%20m%E1%BB%9D%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%2C%20c%C3%A1c%20c%E1%BA%A1nh%20tr%E1%BA%AFng%20tinh%20t%E1%BA%BF%20v%C3%A0%20b%C3%B3ng%20m%E1%BB%81m%2C%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20kh%C3%B4ng%20gian%20tr%E1%BA%AFng%20b%C3%AAn%20trong%20r%E1%BB%99ng%20r%C3%A3i%20%C4%91%E1%BB%83%20tr%C3%A1nh%20l%E1%BB%99n%20x%E1%BB%99n.%0A%0A2.%20Ch%C3%A8n%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%203D%20gi%E1%BB%91ng%20nh%C6%B0%20qu%C3%A0%20t%E1%BA%B7ng%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%203D%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20cao%20c%E1%BA%A5p%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20l%C3%A0m%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20th%E1%BB%8B%20gi%C3%A1c.%20Ch%C3%BAng%20ph%E1%BA%A3i%20tr%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BB%AFng%20m%C3%B3n%20qu%C3%A0%20ho%E1%BA%B7c%20%C4%91%E1%BB%93%20s%C6%B0u%20t%E1%BA%A7m%20h%E1%BB%AFu%20h%C3%ACnh%2C%20%C4%91%E1%BA%AFt%20ti%E1%BB%81n%2C%20v%E1%BB%9Bi%20c%C3%A1c%20ch%E1%BA%A5t%20li%E1%BB%87u%20nh%C6%B0%20kim%20lo%E1%BA%A1i%20%C4%91%C3%A1nh%20b%C3%B3ng%2C%20acrylic%20%C3%B3ng%20%C3%A1nh%2C%20th%E1%BB%A7y%20tinh%20trong%20su%E1%BB%91t%20ho%E1%BA%B7c%20silicone%20m%E1%BB%81m%2C%20v%C3%A0%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20nh%C6%B0%20vi%C3%AAn%20nang%20n%E1%BB%95i%2C%20h%C3%ACnh%20c%E1%BA%A7u%2C%20t%E1%BA%A5m%20ch%E1%BA%AFn%2C%20d%E1%BA%A3i%20M%C3%B6bius%20ho%E1%BA%B7c%20s%C3%B3ng%20ch%E1%BA%A5t%20l%E1%BB%8Fng.%0A%0A3.%20%C4%90%E1%BB%91i%20v%E1%BB%9Bi%20ki%E1%BB%83u%20ch%E1%BB%AF%20v%C3%A0%20d%E1%BB%AF%20li%E1%BB%87u%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20m%E1%BA%A1nh.%20N%E1%BA%BFu%20c%C3%B3%20bi%E1%BB%83u%20%C4%91%E1%BB%93%2C%20h%C3%A3y%20s%E1%BB%AD%20d%E1%BB%A5ng%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20h%C3%ACnh%20b%C3%A1nh%20donut%203D%20ph%C3%A1t%20s%C3%A1ng%2C%20thanh%20ti%E1%BA%BFn%20tr%C3%ACnh%20h%C3%ACnh%20vi%C3%AAn%20nang%20ho%E1%BA%B7c%20s%E1%BB%91%20n%E1%BB%95i%3B%20c%C3%A1c%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20ph%E1%BA%A3i%20tr%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20%C4%91%E1%BB%93%20ch%C6%A1i%20neon%20ph%C3%A1t%20s%C3%A1ng.%0A%0ATham%20kh%E1%BA%A3o%20logic%20b%E1%BB%91%20c%E1%BB%A5c%3A%20N%E1%BA%BFu%20t%E1%BA%A1o%20trang%20b%C3%ACa%2C%20%C4%91%E1%BA%B7t%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83%20th%E1%BB%A7y%20tinh%203D%20l%E1%BB%9Bn%2C%20ph%E1%BB%A9c%20t%E1%BA%A1p%20%E1%BB%9F%20gi%E1%BB%AFa%20v%E1%BB%9Bi%20v%C4%83n%20b%E1%BA%A3n%20l%E1%BB%9Bn%20%C4%91%E1%BA%ADm%20ph%C3%ADa%20tr%C3%AAn%2C%20v%C3%A0%20c%C3%A1c%20d%E1%BA%A3i%20s%C3%B3ng%20c%E1%BB%B1c%20quang%20m%E1%BB%9F%20r%E1%BB%99ng%20%E1%BB%9F%20ph%C3%ADa%20sau.%20N%E1%BA%BFu%20t%E1%BA%A1o%20trang%20n%E1%BB%99i%20dung%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20Bento%20v%E1%BB%9Bi%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%203D%20tr%C3%AAn%20c%C3%A1c%20th%E1%BA%BB%20nh%E1%BB%8F%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20tr%C3%AAn%20c%C3%A1c%20th%E1%BA%BB%20l%E1%BB%9Bn.%20N%E1%BA%BFu%20t%E1%BA%A1o%20trang%20d%E1%BB%AF%20li%E1%BB%87u%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20thi%E1%BA%BFt%20k%E1%BA%BF%20chia%20%C4%91%C3%B4i%20m%C3%A0n%20h%C3%ACnh%20v%E1%BB%9Bi%20v%C4%83n%20b%E1%BA%A3n%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20ch%E1%BB%AF%20%E1%BB%9F%20b%C3%AAn%20tr%C3%A1i%20v%C3%A0%20m%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20tr%E1%BB%B1c%20quan%20h%C3%B3a%20d%E1%BB%AF%20li%E1%BB%87u%203D%20l%E1%BB%9Bn%2C%20ph%C3%A1t%20s%C3%A1ng%20n%E1%BB%95i%20%E1%BB%9F%20b%C3%AAn%20ph%E1%BA%A3i.%0A%0AY%C3%AAu%20c%E1%BA%A7u%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20hi%E1%BB%83n%20th%E1%BB%8B%3A%20K%E1%BA%BFt%20xu%E1%BA%A5t%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%208K%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20si%C3%AAu%20chi%20ti%E1%BA%BFt%2C%20c%E1%BA%A3m%20gi%C3%A1c%20thi%E1%BA%BFt%20k%E1%BA%BF%20UI%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20giao%20di%E1%BB%87n%20UX%2C%20phong%20c%C3%A1ch%20th%E1%BB%8Bnh%20h%C3%A0nh%20tr%C3%AAn%20Dribbble%2C%20t%C3%A1c%20ph%E1%BA%A9m%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91o%E1%BA%A1t%20gi%E1%BA%A3i.)**
 
 ---
 
@@ -1831,24 +1892,85 @@ Tạo bản vẽ phối cảnh từ bản phác thảo sơ bộ của một gian
 
 ---
 
-### No. 31: Thảm tập yoga trong phòng gym chân dung Nano Banana prompt
+### No. 31: Lời nhắc tạo ảnh chân dung thảm yoga kiểu selfie phòng gym cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc Nano Banana mô tả một phụ nữ trẻ sau buổi tập trên thảm yoga, dành cho các thế hệ ảnh chụp phòng gym chân thực và có thể được dùng làm mẫu cho các bức ảnh thể dục tương tự.
+Một lời nhắc JSON có cấu trúc để tạo ảnh selfie phòng gym hiện đại của một phụ nữ trẻ trên thảm yoga, với chi tiết về quần áo, phụ kiện, phông nền và ánh sáng.
 
 #### 📝 Câu lệnh
 
 ```
 {
   "subject": {
-    "description": "{argument name=\"subject description\" default=\"Một phụ nữ trẻ đang ngồi trên thảm yoga, lau mồ hôi bằng khăn, tay cầm chai nước\"}",
-    "mirror_rules": "{argument name=\"mirror rules\" default=\"Không áp dụng - ảnh chụp trực tiếp tại phòng gym\"}",
-    "age": "{argument name=\"age\" default=\"cuối độ tuổi 20\"}",
-    "expression": "{argument name=\"expression\" default=\"thành công, hơi thở gấp gáp, tự tin\"}"
+    "description": "Một phụ nữ trẻ đang ngồi trên thảm tập yoga, lau mồ hôi bằng khăn, tay cầm bình nước",
+    "mirror_rules": "Không áp dụng - ảnh chụp trực tiếp tại phòng gym",
+    "age": "cuối độ tuổi 20",
+    "expression": "hài lòng, hơi thở dốc, nụ cười tự tin",
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"tóc vàng highlight\"}",
+      "style": "{argument name=\"hair style\" default=\"tóc đuôi ngựa cao, hơi rối với những sợi tóc con do tập luyện\"}"
+    },
+    "clothing": {
+      "top": {
+        "type": "áo ngực thể thao",
+        "color": "{argument name=\"top color\" default=\"hồng phấn bụi\"}",
+        "details": "hỗ trợ vừa phải, chi tiết dây đan chéo phía sau, có vết ẩm do mồ hôi"
+      },
+      "bottom": {
+        "type": "quần legging cạp cao",
+        "color": "đen với các mảng lưới",
+        "details": "dài đến mắt cá chân, các đường cắt lưới ở bắp chân, ôm sát"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "tối thiểu, căng bóng do tập luyện, má ửng hồng tự nhiên, không trang điểm mắt"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "không có",
+      "details": "tóc buộc gọn bằng dây buộc tóc"
+    },
+    "jewelry": {
+      "earrings": "khuyên tai đinh nhỏ bằng kim cương",
+      "necklace": "không có",
+      "wrist": "thiết bị theo dõi sức khỏe màu vàng hồng, dây buộc tóc màu đen trên cổ tay",
+      "rings": "không có"
+    },
+    "device": {
+      "type": "điện thoại thông minh",
+      "details": "đặt tựa vào quả tạ, đang quay video selfie tập luyện"
+    },
+    "prop": {
+      "type": "bình nước giữ nhiệt",
+      "details": "bình màu đen mờ 32oz với nhãn dán câu nói tạo động lực, có hơi nước đọng"
+    }
+  },
+  "photography": {
+    "camera_style": "phong cách selfie phòng gym, camera trước của điện thoại thông minh",
+    "angle": "hơi cao hơn tầm mắt, tư thế ngồi",
+    "shot_type": "toàn bộ phần thân trên và chân bắt chéo, bố cục chính giữa",
+    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"9:16 dọc\"}",
+    "texture": "chi tiết sắc nét, ánh sáng phòng gym rực rỡ, cảm giác tràn đầy năng lượng"
+  },
+  "background": {
+    "setting": "phòng tập gym hiện đại",
+    "wall_color": "màu xám nhạt với một bức tranh tường tạo động lực",
+    "elements": [
+      "thảm tập yoga màu tím được trải ra",
+      "một bộ tạ nhỏ nằm rải rác gần đó",
+      "khăn trắng vắt qua vai cô ấy",
+      "thiết bị tập gym bị làm mờ ở hậu cảnh",
+      "gương lớn phản chiếu bức tường phía sau",
+      "dây kháng lực cuộn tròn trên sàn"
+    ],
+    "atmosphere": "tràn đầy năng lượng, hài lòng, tập trung vào sức khỏe",
+    "lighting": "ánh sáng đèn LED trên trần phòng gym sáng rực, chiếu sáng đều"
   }
 }
 ```
@@ -1858,7 +1980,7 @@ Một lời nhắc Nano Banana mô tả một phụ nữ trẻ sau buổi tập 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Thảm tập yoga trong phòng gym chân dung Nano Banana prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Lời nhắc tạo ảnh chân dung thảm yoga kiểu selfie phòng gym cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1868,7 +1990,7 @@ Một lời nhắc Nano Banana mô tả một phụ nữ trẻ sau buổi tập 
 - **Đã xuất bản:** 28 tháng 11, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20description%5C%22%20default%3D%5C%22M%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20th%E1%BA%A3m%20yoga%2C%20lau%20m%E1%BB%93%20h%C3%B4i%20b%E1%BA%B1ng%20kh%C4%83n%2C%20tay%20c%E1%BA%A7m%20chai%20n%C6%B0%E1%BB%9Bc%5C%22%7D%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%7Bargument%20name%3D%5C%22mirror%20rules%5C%22%20default%3D%5C%22Kh%C3%B4ng%20%C3%A1p%20d%E1%BB%A5ng%20-%20%E1%BA%A3nh%20ch%E1%BB%A5p%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20t%E1%BA%A1i%20ph%C3%B2ng%20gym%5C%22%7D%22%2C%0A%20%20%20%20%22age%22%3A%20%22%7Bargument%20name%3D%5C%22age%5C%22%20default%3D%5C%22cu%E1%BB%91i%20%C4%91%E1%BB%99%20tu%E1%BB%95i%2020%5C%22%7D%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%5C%22expression%5C%22%20default%3D%5C%22th%C3%A0nh%20c%C3%B4ng%2C%20h%C6%A1i%20th%E1%BB%9F%20g%E1%BA%A5p%20g%C3%A1p%2C%20t%E1%BB%B1%20tin%5C%22%7D%22%0A%20%20%7D%0A%7D)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22M%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20th%E1%BA%A3m%20t%E1%BA%ADp%20yoga%2C%20lau%20m%E1%BB%93%20h%C3%B4i%20b%E1%BA%B1ng%20kh%C4%83n%2C%20tay%20c%E1%BA%A7m%20b%C3%ACnh%20n%C6%B0%E1%BB%9Bc%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22Kh%C3%B4ng%20%C3%A1p%20d%E1%BB%A5ng%20-%20%E1%BA%A3nh%20ch%E1%BB%A5p%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20t%E1%BA%A1i%20ph%C3%B2ng%20gym%22%2C%0A%20%20%20%20%22age%22%3A%20%22cu%E1%BB%91i%20%C4%91%E1%BB%99%20tu%E1%BB%95i%2020%22%2C%0A%20%20%20%20%22expression%22%3A%20%22h%C3%A0i%20l%C3%B2ng%2C%20h%C6%A1i%20th%E1%BB%9F%20d%E1%BB%91c%2C%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20tin%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20color%5C%22%20default%3D%5C%22t%C3%B3c%20v%C3%A0ng%20highlight%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22hair%20style%5C%22%20default%3D%5C%22t%C3%B3c%20%C4%91u%C3%B4i%20ng%E1%BB%B1a%20cao%2C%20h%C6%A1i%20r%E1%BB%91i%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20s%E1%BB%A3i%20t%C3%B3c%20con%20do%20t%E1%BA%ADp%20luy%E1%BB%87n%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%C3%A1o%20ng%E1%BB%B1c%20th%E1%BB%83%20thao%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%5C%22top%20color%5C%22%20default%3D%5C%22h%E1%BB%93ng%20ph%E1%BA%A5n%20b%E1%BB%A5i%5C%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22h%E1%BB%97%20tr%E1%BB%A3%20v%E1%BB%ABa%20ph%E1%BA%A3i%2C%20chi%20ti%E1%BA%BFt%20d%C3%A2y%20%C4%91an%20ch%C3%A9o%20ph%C3%ADa%20sau%2C%20c%C3%B3%20v%E1%BA%BFt%20%E1%BA%A9m%20do%20m%E1%BB%93%20h%C3%B4i%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22qu%E1%BA%A7n%20legging%20c%E1%BA%A1p%20cao%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%C4%91en%20v%E1%BB%9Bi%20c%C3%A1c%20m%E1%BA%A3ng%20l%C6%B0%E1%BB%9Bi%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22d%C3%A0i%20%C4%91%E1%BA%BFn%20m%E1%BA%AFt%20c%C3%A1%20ch%C3%A2n%2C%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20c%E1%BA%AFt%20l%C6%B0%E1%BB%9Bi%20%E1%BB%9F%20b%E1%BA%AFp%20ch%C3%A2n%2C%20%C3%B4m%20s%C3%A1t%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22t%E1%BB%91i%20thi%E1%BB%83u%2C%20c%C4%83ng%20b%C3%B3ng%20do%20t%E1%BA%ADp%20luy%E1%BB%87n%2C%20m%C3%A1%20%E1%BB%ADng%20h%E1%BB%93ng%20t%E1%BB%B1%20nhi%C3%AAn%2C%20kh%C3%B4ng%20trang%20%C4%91i%E1%BB%83m%20m%E1%BA%AFt%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22kh%C3%B4ng%20c%C3%B3%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22t%C3%B3c%20bu%E1%BB%99c%20g%E1%BB%8Dn%20b%E1%BA%B1ng%20d%C3%A2y%20bu%E1%BB%99c%20t%C3%B3c%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22khuy%C3%AAn%20tai%20%C4%91inh%20nh%E1%BB%8F%20b%E1%BA%B1ng%20kim%20c%C6%B0%C6%A1ng%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22kh%C3%B4ng%20c%C3%B3%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22thi%E1%BA%BFt%20b%E1%BB%8B%20theo%20d%C3%B5i%20s%E1%BB%A9c%20kh%E1%BB%8Fe%20m%C3%A0u%20v%C3%A0ng%20h%E1%BB%93ng%2C%20d%C3%A2y%20bu%E1%BB%99c%20t%C3%B3c%20m%C3%A0u%20%C4%91en%20tr%C3%AAn%20c%E1%BB%95%20tay%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22kh%C3%B4ng%20c%C3%B3%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%C4%91%E1%BA%B7t%20t%E1%BB%B1a%20v%C3%A0o%20qu%E1%BA%A3%20t%E1%BA%A1%2C%20%C4%91ang%20quay%20video%20selfie%20t%E1%BA%ADp%20luy%E1%BB%87n%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22b%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20gi%E1%BB%AF%20nhi%E1%BB%87t%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22b%C3%ACnh%20m%C3%A0u%20%C4%91en%20m%E1%BB%9D%2032oz%20v%E1%BB%9Bi%20nh%C3%A3n%20d%C3%A1n%20c%C3%A2u%20n%C3%B3i%20t%E1%BA%A1o%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%2C%20c%C3%B3%20h%C6%A1i%20n%C6%B0%E1%BB%9Bc%20%C4%91%E1%BB%8Dng%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22phong%20c%C3%A1ch%20selfie%20ph%C3%B2ng%20gym%2C%20camera%20tr%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%22%2C%0A%20%20%20%20%22angle%22%3A%20%22h%C6%A1i%20cao%20h%C6%A1n%20t%E1%BA%A7m%20m%E1%BA%AFt%2C%20t%C6%B0%20th%E1%BA%BF%20ng%E1%BB%93i%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22to%C3%A0n%20b%E1%BB%99%20ph%E1%BA%A7n%20th%C3%A2n%20tr%C3%AAn%20v%C3%A0%20ch%C3%A2n%20b%E1%BA%AFt%20ch%C3%A9o%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ch%C3%ADnh%20gi%E1%BB%AFa%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%229%3A16%20d%E1%BB%8Dc%5C%22%7D%22%2C%0A%20%20%20%20%22texture%22%3A%20%22chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t%2C%20%C3%A1nh%20s%C3%A1ng%20ph%C3%B2ng%20gym%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20c%E1%BA%A3m%20gi%C3%A1c%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22ph%C3%B2ng%20t%E1%BA%ADp%20gym%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22m%C3%A0u%20x%C3%A1m%20nh%E1%BA%A1t%20v%E1%BB%9Bi%20m%E1%BB%99t%20b%E1%BB%A9c%20tranh%20t%C6%B0%E1%BB%9Dng%20t%E1%BA%A1o%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22th%E1%BA%A3m%20t%E1%BA%ADp%20yoga%20m%C3%A0u%20t%C3%ADm%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BA%A3i%20ra%22%2C%0A%20%20%20%20%20%20%22m%E1%BB%99t%20b%E1%BB%99%20t%E1%BA%A1%20nh%E1%BB%8F%20n%E1%BA%B1m%20r%E1%BA%A3i%20r%C3%A1c%20g%E1%BA%A7n%20%C4%91%C3%B3%22%2C%0A%20%20%20%20%20%20%22kh%C4%83n%20tr%E1%BA%AFng%20v%E1%BA%AFt%20qua%20vai%20c%C3%B4%20%E1%BA%A5y%22%2C%0A%20%20%20%20%20%20%22thi%E1%BA%BFt%20b%E1%BB%8B%20t%E1%BA%ADp%20gym%20b%E1%BB%8B%20l%C3%A0m%20m%E1%BB%9D%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%22%2C%0A%20%20%20%20%20%20%22g%C6%B0%C6%A1ng%20l%E1%BB%9Bn%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20ph%C3%ADa%20sau%22%2C%0A%20%20%20%20%20%20%22d%C3%A2y%20kh%C3%A1ng%20l%E1%BB%B1c%20cu%E1%BB%99n%20tr%C3%B2n%20tr%C3%AAn%20s%C3%A0n%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%2C%20h%C3%A0i%20l%C3%B2ng%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20s%E1%BB%A9c%20kh%E1%BB%8Fe%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%C3%A1nh%20s%C3%A1ng%20%C4%91%C3%A8n%20LED%20tr%C3%AAn%20tr%E1%BA%A7n%20ph%C3%B2ng%20gym%20s%C3%A1ng%20r%E1%BB%B1c%2C%20chi%E1%BA%BFu%20s%C3%A1ng%20%C4%91%E1%BB%81u%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -6376,19 +6498,23 @@ Tạo một video quảng cáo cho tiệm bánh thủ công mới.
 
 ---
 
-### No. 146: Thẻ học thơ Đường
+### No. 146: Thẻ ghi nhớ giáo dục và gợi ý thẻ học tập
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc để tạo thẻ học tập cho các bài thơ Đường nổi tiếng, kết hợp toàn bộ văn bản, hình ảnh phù hợp và chú thích đơn giản để giúp học sinh hiểu tâm trạng và bối cảnh của bài thơ.
+Một bộ ba lời nhắc Nano Banana Pro để tạo đồ họa thông tin về định luật vật lý, thẻ hội thoại tình huống tiếng Anh và thẻ học thơ tiếng Trung cho học sinh.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo {argument name="poem_count_en" default="10"} thẻ học tập cho các bài thơ Đường nổi tiếng. Mỗi hình ảnh phải chứa toàn bộ văn bản bài thơ, và hình ảnh phải phù hợp với nội dung các câu thơ cũng như không khí tổng thể, giúp học sinh dễ dàng hiểu được bối cảnh và không khí của bài thơ. Bao gồm các chú thích tiếng Trung đơn giản.
+Lời nhắc luật vật lý: Tạo các thẻ thông tin đồ họa cho {argument name="physics law scope" default="tất cả các định luật vật lý trong sách giáo khoa cấp hai"}, mỗi định luật một hình ảnh. Nội dung phải dễ hiểu và dễ tiếp cận để học sinh cấp hai có thể đọc và nắm bắt dễ dàng.
+
+Lời nhắc thẻ tiếng Anh: Giúp tôi tạo các thẻ học tiếng Anh, mỗi thẻ một hình ảnh, được trình bày thông qua các tình huống đời sống hàng ngày như {argument name="English scenario examples" default="đặt món ăn, hỏi đường khi đi du lịch, khách sạn, làm thủ tục tại sân bay và các tình huống phổ biến khác"}. Mỗi thẻ nên bao gồm một cảnh đối thoại giữa những người và các câu được sử dụng phổ biến chính, đồng thời liệt kê các từ vựng quan trọng (có phiên âm và nghĩa, v.v.). Bắt đầu với {argument name="number of English scenarios" default="12"} tình huống để tôi xem xét.
+
+Lời nhắc thẻ thơ: Tạo các thẻ học tập cho {argument name="number of poems" default="10"} bài thơ Đường nổi tiếng. Mỗi hình ảnh nên bao gồm toàn bộ văn bản của bài thơ, và hình ảnh phải phù hợp với nội dung của các dòng thơ và hài hòa với tâm trạng và hình ảnh của bài thơ, giúp học sinh hiểu được bối cảnh và không khí. Bao gồm các chú thích tiếng Trung đơn giản.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -6396,7 +6522,7 @@ Tạo {argument name="poem_count_en" default="10"} thẻ học tập cho các b�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Thẻ học thơ Đường - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Thẻ ghi nhớ giáo dục và gợi ý thẻ học tập - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6406,7 +6532,7 @@ Tạo {argument name="poem_count_en" default="10"} thẻ học tập cho các b�
 - **Đã xuất bản:** 22 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20th%E1%BA%BB%20h%E1%BB%8Dc%20t%E1%BA%ADp%20cho%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20%C4%90%C6%B0%E1%BB%9Dng%20n%E1%BB%95i%20ti%E1%BA%BFng.%20M%E1%BB%97i%20h%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ch%E1%BB%A9a%20to%C3%A0n%20b%E1%BB%99%20v%C4%83n%20b%E1%BA%A3n%20b%C3%A0i%20th%C6%A1%2C%20v%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%E1%BB%99i%20dung%20c%C3%A1c%20c%C3%A2u%20th%C6%A1%20c%C5%A9ng%20nh%C6%B0%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%95ng%20th%E1%BB%83%2C%20gi%C3%BAp%20h%E1%BB%8Dc%20sinh%20d%E1%BB%85%20d%C3%A0ng%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%91i%20c%E1%BA%A3nh%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20c%E1%BB%A7a%20b%C3%A0i%20th%C6%A1.%20Bao%20g%E1%BB%93m%20c%C3%A1c%20ch%C3%BA%20th%C3%ADch%20ti%E1%BA%BFng%20Trung%20%C4%91%C6%A1n%20gi%E1%BA%A3n.)**
+**[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=L%E1%BB%9Di%20nh%E1%BA%AFc%20lu%E1%BA%ADt%20v%E1%BA%ADt%20l%C3%BD%3A%20T%E1%BA%A1o%20c%C3%A1c%20th%E1%BA%BB%20th%C3%B4ng%20tin%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20cho%20%7Bargument%20name%3D%22physics%20law%20scope%22%20default%3D%22t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20%C4%91%E1%BB%8Bnh%20lu%E1%BA%ADt%20v%E1%BA%ADt%20l%C3%BD%20trong%20s%C3%A1ch%20gi%C3%A1o%20khoa%20c%E1%BA%A5p%20hai%22%7D%2C%20m%E1%BB%97i%20%C4%91%E1%BB%8Bnh%20lu%E1%BA%ADt%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh.%20N%E1%BB%99i%20dung%20ph%E1%BA%A3i%20d%E1%BB%85%20hi%E1%BB%83u%20v%C3%A0%20d%E1%BB%85%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20sinh%20c%E1%BA%A5p%20hai%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BB%8Dc%20v%C3%A0%20n%E1%BA%AFm%20b%E1%BA%AFt%20d%E1%BB%85%20d%C3%A0ng.%0A%0AL%E1%BB%9Di%20nh%E1%BA%AFc%20th%E1%BA%BB%20ti%E1%BA%BFng%20Anh%3A%20Gi%C3%BAp%20t%C3%B4i%20t%E1%BA%A1o%20c%C3%A1c%20th%E1%BA%BB%20h%E1%BB%8Dc%20ti%E1%BA%BFng%20Anh%2C%20m%E1%BB%97i%20th%E1%BA%BB%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%2C%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20qua%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20h%C3%A0ng%20ng%C3%A0y%20nh%C6%B0%20%7Bargument%20name%3D%22English%20scenario%20examples%22%20default%3D%22%C4%91%E1%BA%B7t%20m%C3%B3n%20%C4%83n%2C%20h%E1%BB%8Fi%20%C4%91%C6%B0%E1%BB%9Dng%20khi%20%C4%91i%20du%20l%E1%BB%8Bch%2C%20kh%C3%A1ch%20s%E1%BA%A1n%2C%20l%C3%A0m%20th%E1%BB%A7%20t%E1%BB%A5c%20t%E1%BA%A1i%20s%C3%A2n%20bay%20v%C3%A0%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20ph%E1%BB%95%20bi%E1%BA%BFn%20kh%C3%A1c%22%7D.%20M%E1%BB%97i%20th%E1%BA%BB%20n%C3%AAn%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20c%E1%BA%A3nh%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20gi%E1%BB%AFa%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20c%C3%A1c%20c%C3%A2u%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20d%E1%BB%A5ng%20ph%E1%BB%95%20bi%E1%BA%BFn%20ch%C3%ADnh%2C%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20li%E1%BB%87t%20k%C3%AA%20c%C3%A1c%20t%E1%BB%AB%20v%E1%BB%B1ng%20quan%20tr%E1%BB%8Dng%20(c%C3%B3%20phi%C3%AAn%20%C3%A2m%20v%C3%A0%20ngh%C4%A9a%2C%20v.v.).%20B%E1%BA%AFt%20%C4%91%E1%BA%A7u%20v%E1%BB%9Bi%20%7Bargument%20name%3D%22number%20of%20English%20scenarios%22%20default%3D%2212%22%7D%20t%C3%ACnh%20hu%E1%BB%91ng%20%C4%91%E1%BB%83%20t%C3%B4i%20xem%20x%C3%A9t.%0A%0AL%E1%BB%9Di%20nh%E1%BA%AFc%20th%E1%BA%BB%20th%C6%A1%3A%20T%E1%BA%A1o%20c%C3%A1c%20th%E1%BA%BB%20h%E1%BB%8Dc%20t%E1%BA%ADp%20cho%20%7Bargument%20name%3D%22number%20of%20poems%22%20default%3D%2210%22%7D%20b%C3%A0i%20th%C6%A1%20%C4%90%C6%B0%E1%BB%9Dng%20n%E1%BB%95i%20ti%E1%BA%BFng.%20M%E1%BB%97i%20h%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20bao%20g%E1%BB%93m%20to%C3%A0n%20b%E1%BB%99%20v%C4%83n%20b%E1%BA%A3n%20c%E1%BB%A7a%20b%C3%A0i%20th%C6%A1%2C%20v%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%E1%BB%99i%20dung%20c%E1%BB%A7a%20c%C3%A1c%20d%C3%B2ng%20th%C6%A1%20v%C3%A0%20h%C3%A0i%20h%C3%B2a%20v%E1%BB%9Bi%20t%C3%A2m%20tr%E1%BA%A1ng%20v%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20b%C3%A0i%20th%C6%A1%2C%20gi%C3%BAp%20h%E1%BB%8Dc%20sinh%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%91i%20c%E1%BA%A3nh%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD.%20Bao%20g%E1%BB%93m%20c%C3%A1c%20ch%C3%BA%20th%C3%ADch%20ti%E1%BA%BFng%20Trung%20%C4%91%C6%A1n%20gi%E1%BA%A3n.)**
 
 ---
 
@@ -8549,6 +8675,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-04T16:15:21.844Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-04T20:13:06.790Z</sub>
 
 </div>
