@@ -1,3 +1,6 @@
+
+  > [!NOTE]
+  > 🎄 我們製作了 Nano Banana Pro 聖誕卡片提示詞特輯，您可以點擊[該連結 🔗]({{link}})嘗試 🎁
 # 🚀 Nano Banana Pro 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **2193** |
 | ⭐ 精選 | **12** |
-| 🔄 最後更新 | **2025年12月24日 星期三 凌晨12:54:06 [UTC]** |
+| 🔄 最後更新 | **2025年12月24日 星期三 凌晨2:08:49 [UTC]** |
 
 </div>
 
@@ -7823,6 +7826,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-24T00:54:06.051Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-24T02:08:49.422Z</sub>
 
 </div>

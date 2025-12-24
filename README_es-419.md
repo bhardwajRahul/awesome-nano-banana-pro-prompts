@@ -1,3 +1,6 @@
+
+  > [!NOTE]
+  > 🎄 Hemos creado una colección de prompts de tarjetas de Navidad de Nano Banana Pro. Haz clic [aquí 🔗]({{link}}) para probarlo 🎁
 # 🚀 Prompts Increíbles de Nano Banana Pro
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **2193** |
 | ⭐ Destacado | **12** |
-| 🔄 Última actualización | **miércoles, 24 de diciembre de 2025, 12:54:56 a.m. UTC** |
+| 🔄 Última actualización | **miércoles, 24 de diciembre de 2025, 2:09:28 a.m. UTC** |
 
 </div>
 
@@ -7809,6 +7812,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-24T00:54:56.281Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-24T02:09:28.274Z</sub>
 
 </div>

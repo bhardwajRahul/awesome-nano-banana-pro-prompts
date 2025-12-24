@@ -1,3 +1,6 @@
+
+  > [!NOTE]
+  > 🎄 Chúng tôi đã tạo bộ sưu tập câu lệnh thiệp Giáng sinh Nano Banana Pro. Nhấp [vào đây 🔗]({{link}}) để thử 🎁
 # 🚀 Tuyển tập Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +140,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **2193** |
 | ⭐ Nổi bật | **12** |
-| 🔄 Cập nhật lần cuối | **lúc 00:54:35 UTC Thứ Tư, 24 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 02:09:11 UTC Thứ Tư, 24 tháng 12, 2025** |
 
 </div>
 
@@ -7857,6 +7860,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-24T00:54:35.341Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-24T02:09:11.914Z</sub>
 
 </div>
