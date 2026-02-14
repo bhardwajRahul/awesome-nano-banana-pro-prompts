@@ -1,5 +1,5 @@
 
-> 🎬 200+ seçilmiş Seedance 2.0 video istemleri — sinematik AI videoları oluşturun 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 Tek tıkla istediğiniz istemleri bulmak için Agent Skill 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 Harika Nano Banana Pro İstemleri
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **9235** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **14 Şubat 2026 Cumartesi 16:16:59 UTC** |
+| 🔄 Son Güncelleme | **14 Şubat 2026 Cumartesi 20:15:06 UTC** |
 
 </div>
 
@@ -8319,6 +8319,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:16:59.215Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T20:15:06.381Z</sub>
 
 </div>

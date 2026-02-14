@@ -1,5 +1,5 @@
 
-> 🎬 200以上の厳選 Seedance 2.0 動画プロンプト — 映画品質のAI動画を作成 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 Agent Skill でワンクリックで欲しいプロンプトを見つける 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **9235** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年2月14日土曜日 16:16:13 UTC** |
+| 🔄 最終更新 | **2026年2月14日土曜日 20:14:18 UTC** |
 
 </div>
 
@@ -8341,6 +8341,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-02-14T16:16:14.005Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-02-14T20:14:18.984Z</sub>
 
 </div>

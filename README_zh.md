@@ -1,5 +1,5 @@
 
-> 🎬 200+ 精选 Seedance 2.0 视频提示词，轻松生成电影级 AI 视频 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 配套 Agent Skill，一键找到你想要的提示词 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 Nano Banana Pro 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **9235** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年2月14日星期六 UTC 16:16:06** |
+| 🔄 最后更新 | **2026年2月14日星期六 UTC 20:14:10** |
 
 </div>
 
@@ -8333,6 +8333,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T16:16:06.404Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T20:14:10.997Z</sub>
 
 </div>

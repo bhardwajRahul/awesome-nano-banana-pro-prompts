@@ -1,5 +1,5 @@
 
-> 🎬 200+ prompt video Seedance 2.0 được tuyển chọn — tạo video AI điện ảnh 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 Agent Skill để tìm prompt bạn muốn chỉ với một cú nhấp chuột 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 Tuyển tập Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **9235** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 16:16:25 UTC Thứ Bảy, 14 tháng 2, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 20:14:30 UTC Thứ Bảy, 14 tháng 2, 2026** |
 
 </div>
 
@@ -8334,6 +8334,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T16:16:25.782Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T20:14:30.979Z</sub>
 
 </div>

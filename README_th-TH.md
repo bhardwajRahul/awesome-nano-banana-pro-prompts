@@ -1,5 +1,5 @@
 
-> 🎬 200+ prompt วิดีโอ Seedance 2.0 คัดสรร — สร้างวิดีโอ AI ระดับภาพยนตร์ 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 Agent Skill เพื่อค้นหา prompt ที่คุณต้องการด้วยคลิกเดียว 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **9235** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 14 กุมภาพันธ์ พ.ศ. 2569 เวลา 16 นาฬิกา 16 นาที 21 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 14 กุมภาพันธ์ พ.ศ. 2569 เวลา 20 นาฬิกา 14 นาที 27 วินาที UTC** |
 
 </div>
 
@@ -8325,6 +8325,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-14T16:16:21.742Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-14T20:14:27.214Z</sub>
 
 </div>

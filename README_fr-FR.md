@@ -1,5 +1,5 @@
 
-> 🎬 200+ prompts vidéo Seedance 2.0 sélectionnés — créez des vidéos IA cinématiques 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 Agent Skill pour trouver les prompts que vous voulez en un clic 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 # 🚀 Prompts Nano Banana Pro Géniaux
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +137,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **9235** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **samedi 14 février 2026 à 16:16:44 UTC** |
+| 🔄 Dernière mise à jour | **samedi 14 février 2026 à 20:14:51 UTC** |
 
 </div>
 
@@ -8351,6 +8351,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-14T16:16:44.126Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-14T20:14:51.054Z</sub>
 
 </div>
