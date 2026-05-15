@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **13413** |
+| 📝 Gesamtanzahl Prompts | **13412** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 15. Mai 2026 um 08:58:57 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 15. Mai 2026 um 12:32:27 UTC** |
 
 </div>
 
@@ -3850,41 +3850,7 @@ Eine verspielte Kollektion von {argument name="art style" default="Aquarellillus
 
 ---
 
-### No. 73: Comic / Storyboard - Zwölf-Winkel-Raster für Motivkonsistenz
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Image-to-Image-Prompt zur Erstellung eines konsistenten Gesichts aus 12 verschiedenen Kamerawinkeln in einem einzigen Raster-Layout.
-
-#### 📝 Prompt
-
-```
-Das 12-Bilder-Raster umfasst: >* Nahaufnahme-Porträt >* Seitenprofil >* Untersicht (von unten) > Aufsicht (von oben) > Über die Schulter >* Weite Ganzkörperaufnahme > * Dutch Angle (schräge Perspektive) >* Rückansicht mit Blick auf Stadtlichter >* Dreiviertelansicht >* Makro-Detail des Auges >* Halbnahaufnahme, an ein Geländer gelehnt > Offener, lachender Blickwinkel. Ich habe dieses Foto mit Ihnen geteilt. Bitte erstellen Sie ein einzelnes Bild, das dasselbe Gesicht aus den 12 oben genannten Winkeln zeigt. Das Gesicht muss in allen Winkeln identisch bleiben.
-2:3ar
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778830078349_ppugys_HIQGdkXaYAA20nf.jpg" width="600" alt="Comic / Storyboard - Zwölf-Winkel-Raster für Motivkonsistenz - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Sonam](https://x.com/XSydneyFan)
-- **Quelle:** [Twitter Post](https://x.com/XSydneyFan/status/2054774440748359864)
-- **Veröffentlicht:** 14. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=20177)**
-
----
-
-### No. 74: Comic / Storyboard - Illustration eines Fantasy-Feldtagebuchs
+### No. 73: Comic / Storyboard - Illustration eines Fantasy-Feldtagebuchs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3918,7 +3884,7 @@ Das Bild ist eine {argument name="page type" default="detaillierte Fantasy-Feldt
 
 ---
 
-### No. 75: Comic / Storyboard - Fischaugen-Perspektive
+### No. 74: Comic / Storyboard - Fischaugen-Perspektive
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3952,7 +3918,7 @@ Fischaugen-Foto, aufgenommen aus der {argument name="perspective" default="Persp
 
 ---
 
-### No. 76: Comic / Storyboard - Tusche- und Aquarell-Illustration einer Bibliothek
+### No. 75: Comic / Storyboard - Tusche- und Aquarell-Illustration einer Bibliothek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4010,7 +3976,7 @@ Ein hochwertiger redaktioneller Illustrations-Prompt für ein elegantes sitzende
 
 ---
 
-### No. 77: Comic / Storyboard - Yoga-Pose Editorial-Collage
+### No. 76: Comic / Storyboard - Yoga-Pose Editorial-Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4044,7 +4010,7 @@ Eine filmische, vertikale Collage aus drei Panels, die eine {argument name="subj
 
 ---
 
-### No. 78: Comic / Storyboard - Illustration eines märchenhaften Waldhäuschens
+### No. 77: Comic / Storyboard - Illustration eines märchenhaften Waldhäuschens
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4084,7 +4050,7 @@ Eine magische, vertikale Illustration eines {argument name="theme" default="mär
 
 ---
 
-### No. 79: Comic / Storyboard - Anime-Straßenillustration-Transformation
+### No. 78: Comic / Storyboard - Anime-Straßenillustration-Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4118,7 +4084,7 @@ Transformiere das hochgeladene Foto in eine {argument name="art style" default="
 
 ---
 
-### No. 80: Comic / Storyboard - Mad Max Action: Wüstenverfolgungsjagd
+### No. 79: Comic / Storyboard - Mad Max Action: Wüstenverfolgungsjagd
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4151,7 +4117,7 @@ Ein hochoktaniger, filmreifer Prompt, inspiriert von Mad Max, mit einer weiblich
 
 ---
 
-### No. 81: Comic / Storyboard - Samurai-Landschaft im Tuschemalerei-Stil
+### No. 80: Comic / Storyboard - Samurai-Landschaft im Tuschemalerei-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4157,7 @@ Erstellen Sie auf Basis des traditionellen Tuschemalerei-Stils eine stimmungsvol
 
 ---
 
-### No. 82: Comic / Storyboard - Retro 90er-Jahre Collage-Fotografie
+### No. 81: Comic / Storyboard - Retro 90er-Jahre Collage-Fotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4231,7 +4197,7 @@ Retro 90er-Jahre Collage-Fotografie. Im Mittelpunkt steht eine Frau mit {argumen
 
 ---
 
-### No. 83: Comic / Storyboard - Cinematische Streetwear-Model-Collage
+### No. 82: Comic / Storyboard - Cinematische Streetwear-Model-Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4265,7 +4231,7 @@ Eine cinematische, randlose Collage mit demselben Model in mehreren ausdruckssta
 
 ---
 
-### No. 84: Comic / Storyboard - Mehrschichtige künstlerische Journal-Skizze
+### No. 83: Comic / Storyboard - Mehrschichtige künstlerische Journal-Skizze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4265,7 @@ Erstelle eine mehrschichtige {argument name="medium" default="Kohle- und Graphit
 
 ---
 
-### No. 85: Comic / Storyboard - Illustration eines Café-Dates im Folk-Art-Stil
+### No. 84: Comic / Storyboard - Illustration eines Café-Dates im Folk-Art-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,6 +4296,46 @@ Eine skurrile, von Volkskunst inspirierte Illustration eines gemütlichen Café-
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=19401)**
+
+---
+
+### No. 85: Comic / Storyboard - Himmlischer Drache Himmelsfantasie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hyperrealistischer Fantasy-Prompt mit einem riesigen eisblauen Drachen, der an einem strahlend blauen Himmel über einem Mädchen fliegt, das auf einem Feldweg steht.
+
+#### 📝 Prompt
+
+```
+Ein riesiger {argument name="dragon" default="eisblauer himmlischer Drache"}, der durch einen strahlend blauen, bewölkten Himmel fliegt, ultrarealistische Fantasieszene, leuchtende Kristallschuppen, scharfe Hörner, wilde Augen, filmische Untersicht, dramatisches Tageslicht, detaillierte Wolken und Schatten. Auf einem einsamen Feldweg steht ein {argument name="girl" default="extrem großes, 2,40 Meter großes Mädchen"} mit ausgebreiteten Armen, Rücken zur Kamera, exakt gleiche Pose und gleicher Winkel. Sie trägt ein {argument name="outfit" default="dunkelgrün-schwarzes, übergroßes Karohemd"} über einem weißen T-Shirt, eine weite, dunkelblaue Baggy-Jeans, weiße Sneaker, langes schwarzes Haar, Ganzkörperansicht. Gleiche verlassene Struktur auf der linken Seite, Bäume und trockenes Gras an den Seiten, gleicher Feldweg, gleiche Drachenposition, gleiche Rahmung, gleiche Beleuchtung, gleiche Atmosphäre, nichts im Hintergrund verändert. Hyperrealistisch, scharfer Fokus, hoher Kontrast, filmischer Fantasiestil, 4K, vertikale 9:16-Komposition.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Comic / Storyboard - Himmlischer Drache Himmelsfantasie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Comic / Storyboard - Himmlischer Drache Himmelsfantasie - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Harboris](https://x.com/harboriis)
+- **Quelle:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
+- **Veröffentlicht:** 10. Mai 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=19402)**
 
 ---
 
@@ -5521,47 +5527,7 @@ Ein hyperrealistisches 8K-cinematisches Porträt einer {argument name="subject" 
 
 ---
 
-### No. 114: Spiel-Asset - Himmlischer Drache Himmelsfantasie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein hyperrealistischer Fantasy-Prompt mit einem riesigen eisblauen Drachen, der an einem strahlend blauen Himmel über einem Mädchen fliegt, das auf einem Feldweg steht.
-
-#### 📝 Prompt
-
-```
-Ein riesiger {argument name="dragon" default="eisblauer himmlischer Drache"}, der durch einen strahlend blauen, bewölkten Himmel fliegt, ultrarealistische Fantasieszene, leuchtende Kristallschuppen, scharfe Hörner, wilde Augen, filmische Untersicht, dramatisches Tageslicht, detaillierte Wolken und Schatten. Auf einem einsamen Feldweg steht ein {argument name="girl" default="extrem großes, 2,40 Meter großes Mädchen"} mit ausgebreiteten Armen, Rücken zur Kamera, exakt gleiche Pose und gleicher Winkel. Sie trägt ein {argument name="outfit" default="dunkelgrün-schwarzes, übergroßes Karohemd"} über einem weißen T-Shirt, eine weite, dunkelblaue Baggy-Jeans, weiße Sneaker, langes schwarzes Haar, Ganzkörperansicht. Gleiche verlassene Struktur auf der linken Seite, Bäume und trockenes Gras an den Seiten, gleicher Feldweg, gleiche Drachenposition, gleiche Rahmung, gleiche Beleuchtung, gleiche Atmosphäre, nichts im Hintergrund verändert. Hyperrealistisch, scharfer Fokus, hoher Kontrast, filmischer Fantasiestil, 4K, vertikale 9:16-Komposition.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Spiel-Asset - Himmlischer Drache Himmelsfantasie - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Spiel-Asset - Himmlischer Drache Himmelsfantasie - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Quelle:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Veröffentlicht:** 10. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=19402)**
-
----
-
-### No. 115: Spiel-Asset - Zyklop mit Augenklappe
+### No. 114: Spiel-Asset - Zyklop mit Augenklappe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5595,7 +5561,7 @@ Ein Charakter-Design-Prompt für einen Zyklopen mit Augenklappe, der ein einziga
 
 ---
 
-### No. 116: Spiel-Asset - Technisches Fahrzeug mit Maschinengewehr
+### No. 115: Spiel-Asset - Technisches Fahrzeug mit Maschinengewehr
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5595,7 @@ ein {argument name="vehicle" default="Technical"} mit einem {argument name="weap
 
 ---
 
-### No. 117: Spiel-Asset - PS1-Stil Low-Poly Villen-Interieur
+### No. 116: Spiel-Asset - PS1-Stil Low-Poly Villen-Interieur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5663,7 +5629,7 @@ das {argument name="setting" default="Innere einer Villa"}, das grafisch wie ein
 
 ---
 
-### No. 118: Spiel-Asset - Das stille Aquarium: Ein surreales Porträt
+### No. 117: Spiel-Asset - Das stille Aquarium: Ein surreales Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5739,7 +5705,7 @@ Ein komplexer, surrealer Porträt-Prompt für ein in Flüssigkeit getauchtes Sub
 
 ---
 
-### No. 119: Spiel-Asset - Mittelalterliche Kriegerin auf dem Wüstenschlachtfeld
+### No. 118: Spiel-Asset - Mittelalterliche Kriegerin auf dem Wüstenschlachtfeld
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5772,7 +5738,7 @@ Ein Prompt für eine historische Wüstenschlachtfeld-Kriegerin, der eine Frau in
 
 ---
 
-### No. 120: Spiel-Asset - Charakterbogen: The Arcanist's Ledger
+### No. 119: Spiel-Asset - Charakterbogen: The Arcanist's Ledger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5806,13 +5772,63 @@ Ein detaillierter Charakterentwurf für einen männlichen Magier mit dem Titel �
 
 ---
 
+### No. 120: Spiel-Asset - Cinematisches Porträt einer Soldatin
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein hyperrealistisches, filmisches Porträt einer entschlossenen Soldatin in einer vom Krieg gezeichneten Umgebung, mit Fokus auf realistischen Texturen und emotionaler Tiefe.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die bereitgestellte Gesichtsreferenz als exakte Identitätsgrundlage und bewahren Sie dabei alle Gesichtsstrukturen, Proportionen und Ausdrücke mit hoher Wiedergabetreue.
+
+Erzeugen Sie ein hyperrealistisches, filmisches Porträt einer {argument name="subject" default="schönen Frau"} mit starken, definierten Gesichtszügen, einer markanten Kieferpartie, hohen Wangenknochen und durchdringenden, intensiven Augen, die Entschlossenheit und emotionale Tiefe vermitteln. Ihr Haar ist streng kontrolliert, ohne lose Strähnen, und in einem praktischen, kampfbereiten Stil wie einem festen Dutt oder einem gesicherten Zopf frisiert, um ein diszipliniertes militärisches Erscheinungsbild zu wahren.
+
+Sie trägt ein eng anliegendes {argument name="clothing" default="schwarzes ärmelloses taktisches Shirt"}, das unter einer hochwertigen, robusten Militärweste mit realistischen Riemen, Schnallen und subtilen Abnutzungsspuren, die auf einen längeren Feldeinsatz hindeuten, geschichtet ist. Achten Sie darauf, dass das Outfit im Design schlicht, aber in der Funktion kampfbereit ist, ohne übermäßiges Branding oder Stilisierung.
+
+Ihre Arme sind sichtbar und völlig frei von Tätowierungen; sie zeigen eine natürliche Hauttextur mit realistischen Schmutzflecken, Schweiß, kleineren Kratzern und leichten Prellungen, die auf einen kürzlichen Kampfeinsatz hindeuten. Ihr Körperbau wirkt athletisch und funktional statt stilisiert, was Stärke und Ausdauer betont.
+
+Die Person hockt in einer niedrigen taktischen Haltung nach vorne gebeugt, wobei beide Unterarme auf ihren Knien ruhen. Ihre Hände sind locker vor ihr gefaltet, was eher ruhige Kontrolle als Anspannung zeigt. Ihre Körperhaltung vermittelt Bereitschaft, Disziplin und Überlebensinstinkt in einer feindseligen Umgebung.
+
+Ihr Ausdruck ist grimmig, fokussiert und emotional abgehärtet, wobei ihre Augen direkt in das Kameraobjektiv blicken und eine intensive psychologische Verbindung zum Betrachter herstellen. Subtile Gesichtsunvollkommenheiten wie Staubpartikel, kleine Schnitte und ein Schweißglanz sollten sichtbar sein, um den Realismus zu verstärken.
+
+Die Umgebung ist ein {argument name="environment" default="vom Krieg gezeichnetes urbanes Schlachtfeld"}, das zerstörte Betongebäude, eingestürzte Strukturen, verstreute Trümmer und teilweise verbrannte Fahrzeuge im Hintergrund zeigt. Rauch zieht durch die Szene, während schwach glühende Funken in der Luft schweben, was Tiefe und Bewegung verleiht.
+
+Die Beleuchtung sollte filmisch und dramatisch sein, mit hohem Kontrast und einem weichen, gerichteten Hauptlicht, das ihr Gesicht beleuchtet, während tiefe Schatten für die Stimmung beibehalten werden. Die gesamte Farbkorrektur sollte entsättigt, düster und realistisch wirken und das Überleben sowie die Spannung betonen.
+
+In ultra-fotorealistischem Detail rendern, mit geringer Schärfentiefe, 8K-Auflösung, Filmstill-Qualität und einem starken Fokus auf Realismus, emotionaler Intensität und atmosphärischer Kriegsfotografie-Ästhetik.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310288704_1gmgno_HHw_c2kbAAApxBM.jpg" width="600" alt="Spiel-Asset - Cinematisches Porträt einer Soldatin - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Dr. Samia](https://x.com/oye_samia)
+- **Quelle:** [Twitter Post](https://x.com/oye_samia/status/2052585304536776798)
+- **Veröffentlicht:** 8. Mai 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=18972)**
+
+---
+
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 13293 weitere Prompts hier nicht angezeigt
+### 🎯 13292 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5875,6 +5891,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-15T08:58:57.146Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-15T12:32:28.005Z</sub>
 
 </div>

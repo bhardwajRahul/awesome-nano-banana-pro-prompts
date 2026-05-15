@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **13413** |
+| 📝 Total de prompts | **13412** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sexta-feira, 15 de maio de 2026 às 08:59:07 UTC** |
+| 🔄 Última atualização | **sexta-feira, 15 de maio de 2026 às 12:32:45 UTC** |
 
 </div>
 
@@ -3850,41 +3850,7 @@ Uma coleção encantadora de {argument name="art style" default="ilustrações e
 
 ---
 
-### No. 73: Quadrinhos / Storyboard - Grade de Consistência de Sujeito em Doze Ângulos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Um prompt de imagem para imagem para criar um rosto consistente exibido a partir de 12 ângulos de câmera diferentes em um layout de grade única.
-
-#### 📝 Prompt
-
-```
-A grade de 12 quadros inclui: >* Retrato em close-up >* Perfil lateral >* Ângulo baixo olhando para cima > Ângulo alto olhando para baixo > Por cima do ombro >* Plano geral de corpo inteiro > * Ângulo holandês >* Vista traseira olhando para as luzes da cidade >* Vista de três quartos >* Detalhe macro do olho >* Plano médio apoiado em um corrimão > Ângulo espontâneo rindo. Compartilhei esta foto com você. Por favor, crie uma única imagem que inclua o mesmo rosto exibido a partir de 12 ângulos diferentes, com base nos ângulos que listei acima. O rosto deve permanecer o mesmo em todos os ângulos.
-2:3ar
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778830078349_ppugys_HIQGdkXaYAA20nf.jpg" width="600" alt="Quadrinhos / Storyboard - Grade de Consistência de Sujeito em Doze Ângulos - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Sonam](https://x.com/XSydneyFan)
-- **Fonte:** [Twitter Post](https://x.com/XSydneyFan/status/2054774440748359864)
-- **Publicado:** 14 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=20177)**
-
----
-
-### No. 74: Quadrinhos / Storyboard - Ilustração de Diário de Campo de Fantasia
+### No. 73: Quadrinhos / Storyboard - Ilustração de Diário de Campo de Fantasia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3918,7 +3884,7 @@ A imagem é uma {argument name="page type" default="página detalhada de diário
 
 ---
 
-### No. 75: Quadrinhos / Storyboard - Foto com perspectiva olho de peixe
+### No. 74: Quadrinhos / Storyboard - Foto com perspectiva olho de peixe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3952,7 +3918,7 @@ Foto com lente olho de peixe capturada a partir da {argument name="perspective" 
 
 ---
 
-### No. 76: Quadrinhos / Storyboard - Ilustração em Tinta e Aquarela de Biblioteca
+### No. 75: Quadrinhos / Storyboard - Ilustração em Tinta e Aquarela de Biblioteca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4010,7 +3976,7 @@ Um prompt de ilustração editorial de alto padrão para um retrato elegante sen
 
 ---
 
-### No. 77: Quadrinhos / Storyboard - Colagem Editorial de Posturas de Yoga
+### No. 76: Quadrinhos / Storyboard - Colagem Editorial de Posturas de Yoga
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4044,7 +4010,7 @@ Uma colagem vertical cinematográfica de três painéis apresentando uma {argume
 
 ---
 
-### No. 78: Quadrinhos / Storyboard - Ilustração de Chalé em Floresta Encantada
+### No. 77: Quadrinhos / Storyboard - Ilustração de Chalé em Floresta Encantada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4084,7 +4050,7 @@ Uma ilustração mágica e vertical de uma {argument name="theme" default="flore
 
 ---
 
-### No. 79: Quadrinhos / Storyboard - Transformação em Ilustração de Rua Estilo Anime
+### No. 78: Quadrinhos / Storyboard - Transformação em Ilustração de Rua Estilo Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4118,7 +4084,7 @@ Transforme a foto enviada em uma {argument name="art style" default="ilustraçã
 
 ---
 
-### No. 80: Quadrinhos / Storyboard - Perseguição no Deserto estilo Mad Max
+### No. 79: Quadrinhos / Storyboard - Perseguição no Deserto estilo Mad Max
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4151,7 +4117,7 @@ Um prompt cinematográfico de alta octanagem inspirado em Mad Max, apresentando 
 
 ---
 
-### No. 81: Quadrinhos / Storyboard - Paisagem de Samurai em Pintura a Nanquim
+### No. 80: Quadrinhos / Storyboard - Paisagem de Samurai em Pintura a Nanquim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4157,7 @@ Com base no estilo tradicional de pintura a nanquim, crie uma composição verti
 
 ---
 
-### No. 82: Quadrinhos / Storyboard - Fotografia de Colagem Retrô dos Anos 90
+### No. 81: Quadrinhos / Storyboard - Fotografia de Colagem Retrô dos Anos 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4231,7 +4197,7 @@ Fotografia estilo colagem retrô dos anos 90. O ponto focal é uma mulher usando
 
 ---
 
-### No. 83: Quadrinhos / Storyboard - Colagem Cinematográfica de Modelo em Streetwear
+### No. 82: Quadrinhos / Storyboard - Colagem Cinematográfica de Modelo em Streetwear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4265,7 +4231,7 @@ Uma colagem cinematográfica sem bordas apresentando a mesma modelo em múltiplo
 
 ---
 
-### No. 84: Quadrinhos / Storyboard - Esboço de Diário Artístico em Camadas
+### No. 83: Quadrinhos / Storyboard - Esboço de Diário Artístico em Camadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4265,7 @@ Crie um {argument name="medium" default="esboço em carvão e grafite"} em camad
 
 ---
 
-### No. 85: Quadrinhos / Storyboard - Ilustração de encontro em café estilo arte folclórica
+### No. 84: Quadrinhos / Storyboard - Ilustração de encontro em café estilo arte folclórica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,6 +4296,46 @@ Uma ilustração caprichosa, inspirada na arte folclórica, de um encontro aconc
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=19401)**
+
+---
+
+### No. 85: Quadrinhos / Storyboard - Fantasia Celestial do Dragão no Céu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt de fantasia hiper-realista apresentando um dragão gigante azul-gelo voando em um céu azul brilhante acima de uma garota em uma estrada de terra.
+
+#### 📝 Prompt
+
+```
+Um dragão gigante {argument name="dragon" default="dragão celestial azul-gelo"} voando através de um céu azul brilhante e nublado, cena de fantasia ultra-realista, escamas de cristal brilhantes, chifres afiados, olhos ferozes, visão cinematográfica em ângulo baixo, luz do dia dramática, nuvens e sombras detalhadas. Em uma estrada de terra solitária, uma {argument name="girl" default="garota extremamente alta de 2,4 metros"} parada com os braços abertos, de costas para a câmera, exatamente na mesma pose e ângulo. Ela veste uma {argument name="outfit" default="camisa xadrez oversized verde-escura e preta"} sobre uma camiseta branca, calça jeans larga azul-escura, tênis brancos, cabelos pretos longos, corpo inteiro visível. A mesma estrutura abandonada à esquerda, árvores e grama seca nas laterais, o mesmo caminho de terra, a mesma posição do dragão, o mesmo enquadramento, a mesma iluminação, a mesma atmosfera, nada mudou no fundo. Hiper-realista, foco nítido, alto contraste, estilo de fantasia cinematográfica, 4K, composição vertical 9:16.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Quadrinhos / Storyboard - Fantasia Celestial do Dragão no Céu - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Quadrinhos / Storyboard - Fantasia Celestial do Dragão no Céu - Image 2">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Harboris](https://x.com/harboriis)
+- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
+- **Publicado:** 10 de maio de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=19402)**
 
 ---
 
@@ -5521,47 +5527,7 @@ Um retrato cinematográfico hiper-realista em 8K de uma {argument name="subject"
 
 ---
 
-### No. 114: Ativo de Jogo - Fantasia Celestial do Dragão no Céu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um prompt de fantasia hiper-realista apresentando um dragão gigante azul-gelo voando em um céu azul brilhante acima de uma garota em uma estrada de terra.
-
-#### 📝 Prompt
-
-```
-Um dragão gigante {argument name="dragon" default="dragão celestial azul-gelo"} voando através de um céu azul brilhante e nublado, cena de fantasia ultra-realista, escamas de cristal brilhantes, chifres afiados, olhos ferozes, visão cinematográfica em ângulo baixo, luz do dia dramática, nuvens e sombras detalhadas. Em uma estrada de terra solitária, uma {argument name="girl" default="garota extremamente alta de 2,4 metros"} parada com os braços abertos, de costas para a câmera, exatamente na mesma pose e ângulo. Ela veste uma {argument name="outfit" default="camisa xadrez oversized verde-escura e preta"} sobre uma camiseta branca, calça jeans larga azul-escura, tênis brancos, cabelos pretos longos, corpo inteiro visível. A mesma estrutura abandonada à esquerda, árvores e grama seca nas laterais, o mesmo caminho de terra, a mesma posição do dragão, o mesmo enquadramento, a mesma iluminação, a mesma atmosfera, nada mudou no fundo. Hiper-realista, foco nítido, alto contraste, estilo de fantasia cinematográfica, 4K, composição vertical 9:16.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Ativo de Jogo - Fantasia Celestial do Dragão no Céu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Ativo de Jogo - Fantasia Celestial do Dragão no Céu - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Publicado:** 10 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=19402)**
-
----
-
-### No. 115: Ativo de Jogo - Ciclope com tapa-olho
+### No. 114: Ativo de Jogo - Ciclope com tapa-olho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5595,7 +5561,7 @@ Um prompt de design de personagem para um ciclope usando um tapa-olho, gerando u
 
 ---
 
-### No. 116: Ativo de Jogo - Veículo Técnico com Metralhadora
+### No. 115: Ativo de Jogo - Veículo Técnico com Metralhadora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5595,7 @@ um {argument name="vehicle" default="technical"} com uma {argument name="weapon"
 
 ---
 
-### No. 117: Ativo de Jogo - Interior de Mansão em Estilo Low-Poly de PS1
+### No. 116: Ativo de Jogo - Interior de Mansão em Estilo Low-Poly de PS1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5663,7 +5629,7 @@ o {argument name="setting" default="interior de uma mansão"} com um visual que 
 
 ---
 
-### No. 118: Ativo de Jogo - O Retrato Surreal do Aquário Silencioso
+### No. 117: Ativo de Jogo - O Retrato Surreal do Aquário Silencioso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5739,7 +5705,7 @@ Um prompt de retrato surreal complexo para um sujeito submerso em fluido com um 
 
 ---
 
-### No. 119: Ativo de Jogo - Guerreira em Campo de Batalha Medieval no Deserto
+### No. 118: Ativo de Jogo - Guerreira em Campo de Batalha Medieval no Deserto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5772,7 +5738,7 @@ Um prompt de guerreira em campo de batalha histórico no deserto, apresentando u
 
 ---
 
-### No. 120: Ativo de Jogo - Ficha de Personagem The Arcanist's Ledger
+### No. 119: Ativo de Jogo - Ficha de Personagem The Arcanist's Ledger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5806,13 +5772,63 @@ Uma ficha de design de personagem detalhada para um mago intitulada "The Arcanis
 
 ---
 
+### No. 120: Ativo de Jogo - Retrato Cinematográfico de Mulher Militar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um retrato cinematográfico hiper-realista de uma mulher militar determinada em um ambiente devastado pela guerra, com foco em texturas realistas e profundidade emocional.
+
+#### 📝 Prompt
+
+```
+Use a referência facial fornecida como a base exata da identidade, preservando toda a estrutura facial, proporções e expressão com alta fidelidade.
+
+Gere um retrato cinematográfico hiper-realista de uma {argument name="subject" default="mulher bonita"} com traços faciais fortes e definidos, mandíbula marcada, maçãs do rosto altas e olhos intensos e penetrantes que transmitem determinação e profundidade emocional. Seu cabelo está firmemente controlado, sem fios soltos, estilizado de maneira prática e pronta para o combate, como um coque apertado ou uma trança presa, para manter uma aparência militar disciplinada.
+
+Ela está vestindo uma {argument name="clothing" default="camisa tática preta sem mangas"} justa, sob um colete militar robusto e de alta qualidade, equipado com tiras, fivelas e marcas de desgaste sutis que indicam uso prolongado em campo. Certifique-se de que o traje tenha um design limpo, mas funcional para a batalha, sem marcas ou estilizações excessivas.
+
+Seus braços estão visíveis e completamente livres de tatuagens, exibindo uma textura de pele natural com manchas de sujeira realistas, suor, pequenos arranhões e hematomas leves que sugerem exposição recente ao combate. Seu físico parece atlético e funcional, em vez de estilizado, enfatizando força e resistência.
+
+A personagem está agachada em uma postura tática baixa, com ambos os antebraços apoiados nos joelhos. Suas mãos estão levemente entrelaçadas à frente, demonstrando controle calmo em vez de tensão. Sua postura comunica prontidão, disciplina e instinto de sobrevivência em um ambiente hostil.
+
+Sua expressão é feroz, focada e emocionalmente endurecida, com os olhos fixos diretamente na lente da câmera, criando uma conexão psicológica intensa com o espectador. Imperfeições faciais sutis, como partículas de poeira, pequenos cortes e brilho de suor, devem estar visíveis para aumentar o realismo.
+
+O ambiente é um {argument name="environment" default="campo de batalha urbano devastado pela guerra"}, apresentando edifícios de concreto destruídos, estruturas colapsadas, escombros espalhados e veículos parcialmente queimados ao fundo. A fumaça flutua pela cena com brasas fracas brilhando no ar, adicionando profundidade e movimento.
+
+A iluminação deve ser cinematográfica e dramática, usando alto contraste com uma luz principal direcional suave iluminando seu rosto, mantendo sombras profundas para criar clima. A gradação de cor geral deve parecer dessaturada, crua e realista, enfatizando a sobrevivência e a tensão.
+
+Renderize em detalhes ultra fotorrealistas, profundidade de campo rasa, resolução 8K, qualidade de cena de filme, com um forte foco em realismo, intensidade emocional e estética de fotografia de guerra atmosférica.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310288704_1gmgno_HHw_c2kbAAApxBM.jpg" width="600" alt="Ativo de Jogo - Retrato Cinematográfico de Mulher Militar - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Dr. Samia](https://x.com/oye_samia)
+- **Fonte:** [Twitter Post](https://x.com/oye_samia/status/2052585304536776798)
+- **Publicado:** 8 de maio de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=18972)**
+
+---
+
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 13293 mais prompts não mostrados aqui
+### 🎯 13292 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5875,6 +5891,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-15T08:59:07.189Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-15T12:32:45.906Z</sub>
 
 </div>

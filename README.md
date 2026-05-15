@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13413** |
+| 📝 Total Prompts | **13412** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, May 15, 2026 at 8:58:23 AM UTC** |
+| 🔄 Last Updated | **Friday, May 15, 2026 at 12:31:27 PM UTC** |
 
 </div>
 
@@ -3850,41 +3850,7 @@ A whimsical collection of {argument name="art style" default="watercolor illustr
 
 ---
 
-### No. 73: Comic / Storyboard - Twelve-Angle Subject Consistency Grid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-An image-to-image prompt to create a consistent face shown from 12 different camera angles in a single grid layout.
-
-#### 📝 Prompt
-
-```
-The 12-frame grid includes: >* Close-up portrait >* Side profile >* Low angle looking up > High angle looking down > Over-the-shoulder >* Wide full-body shot > * Dutch angle >* Back view looking at city lights >* Three-quarter view >* Macro eye detail >* Mid-shot leaning on a railing > Candid laughing angle. I have shared this photo with you. Please create one single image that includes the same face shown from 12 different angles, based on the angles I listed above.The face must remain the same in all angles.
-2:3ar
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778830078349_ppugys_HIQGdkXaYAA20nf.jpg" width="600" alt="Comic / Storyboard - Twelve-Angle Subject Consistency Grid - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Sonam](https://x.com/XSydneyFan)
-- **Source:** [Twitter Post](https://x.com/XSydneyFan/status/2054774440748359864)
-- **Published:** May 14, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=20177)**
-
----
-
-### No. 74: Comic / Storyboard - Fantasy Field Journal Illustration
+### No. 73: Comic / Storyboard - Fantasy Field Journal Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3918,7 +3884,7 @@ The image is a {argument name="page type" default="detailed fantasy field journa
 
 ---
 
-### No. 75: Comic / Storyboard - Fish Eye Perspective Shot
+### No. 74: Comic / Storyboard - Fish Eye Perspective Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3952,7 +3918,7 @@ Fisheye lens photo captured from the {argument name="perspective" default="persp
 
 ---
 
-### No. 76: Comic / Storyboard - Ink and Watercolor Library Illustration
+### No. 75: Comic / Storyboard - Ink and Watercolor Library Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4010,7 +3976,7 @@ A high-end editorial illustration prompt for an elegant seated portrait in a lib
 
 ---
 
-### No. 77: Comic / Storyboard - Yoga Pose Editorial Collage
+### No. 76: Comic / Storyboard - Yoga Pose Editorial Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4044,7 +4010,7 @@ A cinematic three-panel vertical collage featuring a {argument name="subject" de
 
 ---
 
-### No. 78: Comic / Storyboard - Whimsical Forest Cottage Illustration
+### No. 77: Comic / Storyboard - Whimsical Forest Cottage Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4084,7 +4050,7 @@ A magical, vertical illustration of a {argument name="theme" default="whimsical 
 
 ---
 
-### No. 79: Comic / Storyboard - Anime Street Illustration Transformation
+### No. 78: Comic / Storyboard - Anime Street Illustration Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4118,7 +4084,7 @@ Transform the uploaded photo into a {argument name="art style" default="vibrant 
 
 ---
 
-### No. 80: Comic / Storyboard - Mad Max Action Desert Chase
+### No. 79: Comic / Storyboard - Mad Max Action Desert Chase
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4151,7 +4117,7 @@ A high-octane cinematic prompt inspired by Mad Max, featuring a female protagoni
 
 ---
 
-### No. 81: Comic / Storyboard - Ink-Wash Samurai Landscape
+### No. 80: Comic / Storyboard - Ink-Wash Samurai Landscape
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4157,7 @@ Based on the traditional ink-wash painting style, create an evocative vertical c
 
 ---
 
-### No. 82: Comic / Storyboard - Retro 90s Collage Photography
+### No. 81: Comic / Storyboard - Retro 90s Collage Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4231,7 +4197,7 @@ Retro 90s collage-style photography. The focal point is a woman wearing {argumen
 
 ---
 
-### No. 83: Comic / Storyboard - Cinematic Streetwear Model Collage
+### No. 82: Comic / Storyboard - Cinematic Streetwear Model Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4265,7 +4231,7 @@ A cinematic border-less collage featuring the same model in multiple expressive 
 
 ---
 
-### No. 84: Comic / Storyboard - Multi-Layered Artist Journal Sketch
+### No. 83: Comic / Storyboard - Multi-Layered Artist Journal Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4265,7 @@ Create a multi-layered {argument name="medium" default="charcoal and graphite sk
 
 ---
 
-### No. 85: Comic / Storyboard - Folk Art Cafe Date Illustration
+### No. 84: Comic / Storyboard - Folk Art Cafe Date Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,6 +4296,46 @@ A whimsical, folk-art-inspired illustration of a cozy cafe date featuring a youn
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19401)**
+
+---
+
+### No. 85: Comic / Storyboard - Celestial Dragon Sky Fantasy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A hyper-realistic fantasy prompt featuring a giant icy-blue dragon flying in a bright blue sky above a girl standing on a dirt road.
+
+#### 📝 Prompt
+
+```
+A giant {argument name="dragon" default="icy-blue celestial dragon"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name="girl" default="extremely tall 8-feet girl"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name="outfit" default="dark green-black oversized check shirt"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Comic / Storyboard - Celestial Dragon Sky Fantasy - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Comic / Storyboard - Celestial Dragon Sky Fantasy - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Harboris](https://x.com/harboriis)
+- **Source:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
+- **Published:** May 10, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19402)**
 
 ---
 
@@ -5521,47 +5527,7 @@ A hyper-realistic 8K cinematic portrait of a {argument name="subject" default="b
 
 ---
 
-### No. 114: Game Asset - Celestial Dragon Sky Fantasy
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A hyper-realistic fantasy prompt featuring a giant icy-blue dragon flying in a bright blue sky above a girl standing on a dirt road.
-
-#### 📝 Prompt
-
-```
-A giant {argument name="dragon" default="icy-blue celestial dragon"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name="girl" default="extremely tall 8-feet girl"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name="outfit" default="dark green-black oversized check shirt"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Game Asset - Celestial Dragon Sky Fantasy - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Game Asset - Celestial Dragon Sky Fantasy - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Harboris](https://x.com/harboriis)
-- **Source:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Published:** May 10, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19402)**
-
----
-
-### No. 115: Game Asset - Cyclops with Eye Patch
+### No. 114: Game Asset - Cyclops with Eye Patch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5595,7 +5561,7 @@ A character design prompt for a cyclops wearing an eye patch, generating a uniqu
 
 ---
 
-### No. 116: Game Asset - Technical Vehicle with Machine Gun
+### No. 115: Game Asset - Technical Vehicle with Machine Gun
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5595,7 @@ a {argument name="vehicle" default="technical"} with an {argument name="weapon" 
 
 ---
 
-### No. 117: Game Asset - PS1 Style Low-Poly Mansion Interior
+### No. 116: Game Asset - PS1 Style Low-Poly Mansion Interior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5663,7 +5629,7 @@ the {argument name="setting" default="inside of a mansion"} that graphic looks l
 
 ---
 
-### No. 118: Game Asset - The Silent Aquarium Surreal Portrait
+### No. 117: Game Asset - The Silent Aquarium Surreal Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5739,7 +5705,7 @@ A complex surreal portrait prompt for a subject submerged in fluid with a massiv
 
 ---
 
-### No. 119: Game Asset - Medieval Desert Battlefield Warrior
+### No. 118: Game Asset - Medieval Desert Battlefield Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5772,7 +5738,7 @@ A historical desert battlefield warrior prompt, featuring a woman in antique arm
 
 ---
 
-### No. 120: Game Asset - The Arcanist's Ledger Character Sheet
+### No. 119: Game Asset - The Arcanist's Ledger Character Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5806,13 +5772,63 @@ A detailed character design sheet for a male mage titled "The Arcanist's Ledger.
 
 ---
 
+### No. 120: Game Asset - Cinematic Military Woman Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A hyper-realistic cinematic portrait of a determined military woman in a war-torn environment, focusing on realistic textures and emotional depth.
+
+#### 📝 Prompt
+
+```
+Use the provided face reference as the exact identity base, preserving all facial structure, proportions, and expression with high fidelity.
+
+Generate a hyper realistic cinematic portrait of a {argument name="subject" default="beautiful woman"} with strong, defined facial features, sharp jawline, high cheekbones, and piercing intense eyes that convey determination and emotional depth. Her hair is tightly controlled with no loose strands, styled in a practical, combat ready manner such as a tight bun or secured braid to maintain a disciplined military appearance.
+
+She is wearing a fitted {argument name="clothing" default="black sleeveless tactical shirt"} layered under a high quality, rugged military vest equipped with realistic straps, buckles, and subtle wear marks indicating prolonged field use. Ensure the outfit is clean in design but battle ready in function, with no excessive branding or stylization.
+
+Her arms are visible and completely free of tattoos, showing natural skin texture with realistic dirt smudges, sweat, minor scratches, and faint bruising that suggest recent combat exposure. Her physique appears athletic and functional rather than stylized, emphasizing strength and endurance.
+
+The subject is crouched forward in a low tactical stance, with both forearms resting on her knees. Her hands are loosely clasped together in front of her, showing calm control rather than tension. Her posture communicates readiness, discipline, and survival instinct in a hostile environment.
+
+Her expression is fierce, focused, and emotionally hardened, with eyes locked directly into the camera lens, creating an intense psychological connection with the viewer. Subtle facial imperfections such as dust particles, minor cuts, and sweat sheen should be visible to enhance realism.
+
+The environment is a {argument name="environment" default="war torn urban battlefield"}, featuring destroyed concrete buildings, collapsed structures, scattered debris, and partially burned vehicles in the background. Smoke drifts through the scene with faint embers glowing in the air, adding depth and movement.
+
+Lighting should be cinematic and dramatic, using high contrast with soft directional key light illuminating her face while maintaining deep shadows for mood. The overall color grading should feel desaturated, gritty, and realistic, emphasizing survival and tension.
+
+Render in ultra photorealistic detail, shallow depth of field, 8K resolution, film still quality, with a strong focus on realism, emotional intensity, and atmospheric war photography aesthetics.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310288704_1gmgno_HHw_c2kbAAApxBM.jpg" width="600" alt="Game Asset - Cinematic Military Woman Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Dr. Samia](https://x.com/oye_samia)
+- **Source:** [Twitter Post](https://x.com/oye_samia/status/2052585304536776798)
+- **Published:** May 8, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=18972)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 13293 more prompts not shown here
+### 🎯 13292 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5875,6 +5891,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-15T08:58:23.542Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-15T12:31:27.802Z</sub>
 
 </div>

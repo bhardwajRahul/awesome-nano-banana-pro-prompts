@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13413** |
+| 📝 Total de prompts | **13412** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 15 de mayo de 2026, 8:58:50 UTC** |
+| 🔄 Última actualización | **viernes, 15 de mayo de 2026, 12:32:15 UTC** |
 
 </div>
 
@@ -3850,41 +3850,7 @@ Una colección fantástica de {argument name="art style" default="ilustraciones 
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Cuadrícula de consistencia de sujeto en doce ángulos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt de imagen a imagen para crear un rostro consistente mostrado desde 12 ángulos de cámara diferentes en un diseño de cuadrícula único.
-
-#### 📝 Prompt
-
-```
-La cuadrícula de 12 cuadros incluye: >* Retrato en primer plano >* Perfil lateral >* Ángulo bajo mirando hacia arriba > Ángulo alto mirando hacia abajo > Por encima del hombro >* Plano general de cuerpo completo > * Ángulo holandés >* Vista trasera mirando las luces de la ciudad >* Vista de tres cuartos >* Detalle macro del ojo >* Plano medio apoyado en una barandilla > Ángulo de risa espontánea. He compartido esta foto contigo. Por favor, crea una sola imagen que incluya el mismo rostro mostrado desde 12 ángulos diferentes, basados en los ángulos que enumeré anteriormente. El rostro debe permanecer igual en todos los ángulos.
-2:3ar
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778830078349_ppugys_HIQGdkXaYAA20nf.jpg" width="600" alt="Cómic / Guion gráfico - Cuadrícula de consistencia de sujeto en doce ángulos - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Sonam](https://x.com/XSydneyFan)
-- **Fuente:** [Twitter Post](https://x.com/XSydneyFan/status/2054774440748359864)
-- **Publicado:** 14 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=20177)**
-
----
-
-### No. 74: Cómic / Guion gráfico - Ilustración de diario de campo de fantasía
+### No. 73: Cómic / Guion gráfico - Ilustración de diario de campo de fantasía
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3918,7 +3884,7 @@ La imagen es una {argument name="page type" default="página detallada de diario
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Toma con perspectiva de ojo de pez
+### No. 74: Cómic / Guion gráfico - Toma con perspectiva de ojo de pez
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3952,7 +3918,7 @@ Foto con lente ojo de pez capturada desde la {argument name="perspective" defaul
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Ilustración de biblioteca en tinta y acuarela
+### No. 75: Cómic / Guion gráfico - Ilustración de biblioteca en tinta y acuarela
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4010,7 +3976,7 @@ Un prompt de ilustración editorial de alta gama para un elegante retrato sentad
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Collage editorial de posturas de yoga
+### No. 76: Cómic / Guion gráfico - Collage editorial de posturas de yoga
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4044,7 +4010,7 @@ Un collage vertical cinematográfico de tres paneles que muestra a una {argument
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Ilustración de cabaña en un bosque fantástico
+### No. 77: Cómic / Guion gráfico - Ilustración de cabaña en un bosque fantástico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4084,7 +4050,7 @@ Una ilustración vertical y mágica de un {argument name="theme" default="bosque
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Transformación a ilustración callejera estilo anime
+### No. 78: Cómic / Guion gráfico - Transformación a ilustración callejera estilo anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4118,7 +4084,7 @@ Transforma la foto subida en una {argument name="art style" default="vibrante il
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Persecución en el desierto al estilo Mad Max
+### No. 79: Cómic / Guion gráfico - Persecución en el desierto al estilo Mad Max
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4151,7 +4117,7 @@ Un prompt cinematográfico de alta intensidad inspirado en Mad Max, que presenta
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Paisaje de samurái al estilo de pintura a tinta
+### No. 80: Cómic / Guion gráfico - Paisaje de samurái al estilo de pintura a tinta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4157,7 @@ Basado en el estilo tradicional de pintura a tinta, crea una evocadora composici
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Fotografía de collage retro de los 90
+### No. 81: Cómic / Guion gráfico - Fotografía de collage retro de los 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4231,7 +4197,7 @@ Fotografía estilo collage retro de los 90. El punto focal es una mujer que llev
 
 ---
 
-### No. 83: Cómic / Guion gráfico - Collage cinematográfico de modelos de streetwear
+### No. 82: Cómic / Guion gráfico - Collage cinematográfico de modelos de streetwear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4265,7 +4231,7 @@ Un collage cinematográfico sin bordes que presenta a la misma modelo en múltip
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Boceto de diario artístico multicapa
+### No. 83: Cómic / Guion gráfico - Boceto de diario artístico multicapa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4265,7 @@ Crea un {argument name="medium" default="boceto a carboncillo y grafito"} multic
 
 ---
 
-### No. 85: Cómic / Guion gráfico - Ilustración de cita en una cafetería de arte popular
+### No. 84: Cómic / Guion gráfico - Ilustración de cita en una cafetería de arte popular
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,6 +4296,46 @@ Una ilustración caprichosa inspirada en el arte popular de una acogedora cita e
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19401)**
+
+---
+
+### No. 85: Cómic / Guion gráfico - Fantasía del Dragón Celestial en el Cielo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de fantasía hiperrealista que presenta a un dragón gigante de color azul hielo volando en un cielo azul brillante sobre una chica parada en un camino de tierra.
+
+#### 📝 Prompt
+
+```
+Un {argument name="dragon" default="dragón celestial de color azul hielo"} gigante volando a través de un cielo azul brillante y nublado, escena de fantasía ultrarrealista, escamas de cristal brillantes, cuernos afilados, ojos feroces, vista cinematográfica desde un ángulo bajo, luz diurna dramática, nubes y sombras detalladas. En un camino de tierra solitario, una {argument name="girl" default="chica extremadamente alta de 2.4 metros"} de pie con los brazos abiertos, de espaldas a la cámara, exactamente en la misma pose y ángulo. Viste una {argument name="outfit" default="camisa de cuadros extragrande de color verde oscuro y negro"} sobre una camiseta blanca, jeans holgados de color azul oscuro, zapatillas blancas, cabello negro largo, cuerpo completo visible. Misma estructura abandonada a la izquierda, árboles y hierba seca a los lados, mismo sendero de tierra, misma posición del dragón, mismo encuadre, misma iluminación, misma atmósfera, nada ha cambiado en el fondo. Hiperrealista, enfoque nítido, alto contraste, estilo de fantasía cinematográfica, 4K, composición vertical 9:16.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Cómic / Guion gráfico - Fantasía del Dragón Celestial en el Cielo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Cómic / Guion gráfico - Fantasía del Dragón Celestial en el Cielo - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Harboris](https://x.com/harboriis)
+- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
+- **Publicado:** 10 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19402)**
 
 ---
 
@@ -5521,47 +5527,7 @@ Un retrato cinematográfico hiperrealista en 8K de una {argument name="subject" 
 
 ---
 
-### No. 114: Activo de juego - Fantasía del Dragón Celestial en el Cielo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de fantasía hiperrealista que presenta a un dragón gigante de color azul hielo volando en un cielo azul brillante sobre una chica parada en un camino de tierra.
-
-#### 📝 Prompt
-
-```
-Un {argument name="dragon" default="dragón celestial de color azul hielo"} gigante volando a través de un cielo azul brillante y nublado, escena de fantasía ultrarrealista, escamas de cristal brillantes, cuernos afilados, ojos feroces, vista cinematográfica desde un ángulo bajo, luz diurna dramática, nubes y sombras detalladas. En un camino de tierra solitario, una {argument name="girl" default="chica extremadamente alta de 2.4 metros"} de pie con los brazos abiertos, de espaldas a la cámara, exactamente en la misma pose y ángulo. Viste una {argument name="outfit" default="camisa de cuadros extragrande de color verde oscuro y negro"} sobre una camiseta blanca, jeans holgados de color azul oscuro, zapatillas blancas, cabello negro largo, cuerpo completo visible. Misma estructura abandonada a la izquierda, árboles y hierba seca a los lados, mismo sendero de tierra, misma posición del dragón, mismo encuadre, misma iluminación, misma atmósfera, nada ha cambiado en el fondo. Hiperrealista, enfoque nítido, alto contraste, estilo de fantasía cinematográfica, 4K, composición vertical 9:16.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Activo de juego - Fantasía del Dragón Celestial en el Cielo - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Activo de juego - Fantasía del Dragón Celestial en el Cielo - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Publicado:** 10 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19402)**
-
----
-
-### No. 115: Activo de juego - Cíclope con parche en el ojo
+### No. 114: Activo de juego - Cíclope con parche en el ojo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5595,7 +5561,7 @@ Un prompt de diseño de personaje para un cíclope que lleva un parche en el ojo
 
 ---
 
-### No. 116: Activo de juego - Vehículo técnico con ametralladora
+### No. 115: Activo de juego - Vehículo técnico con ametralladora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5595,7 @@ un {argument name="vehicle" default="technical"} con una {argument name="weapon"
 
 ---
 
-### No. 117: Activo de juego - Interior de mansión low-poly estilo PS1
+### No. 116: Activo de juego - Interior de mansión low-poly estilo PS1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5663,7 +5629,7 @@ Un prompt de estilo retro diseñado para crear un entorno que luzca como un inte
 
 ---
 
-### No. 118: Activo de juego - Retrato surrealista del acuario silencioso
+### No. 117: Activo de juego - Retrato surrealista del acuario silencioso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5739,7 +5705,7 @@ Un complejo prompt de retrato surrealista para un sujeto sumergido en un fluido 
 
 ---
 
-### No. 119: Activo de juego - Guerrera en un campo de batalla medieval en el desierto
+### No. 118: Activo de juego - Guerrera en un campo de batalla medieval en el desierto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5772,7 +5738,7 @@ Un prompt de una guerrera en un campo de batalla histórico en el desierto, que 
 
 ---
 
-### No. 120: Activo de juego - Hoja de personaje: El Registro del Arcanista
+### No. 119: Activo de juego - Hoja de personaje: El Registro del Arcanista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5806,13 +5772,63 @@ Una hoja de diseño de personaje detallada para un mago titulada "El Registro de
 
 ---
 
+### No. 120: Activo de juego - Retrato cinematográfico de mujer militar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un retrato cinematográfico hiperrealista de una mujer militar decidida en un entorno devastado por la guerra, centrado en texturas realistas y profundidad emocional.
+
+#### 📝 Prompt
+
+```
+Utiliza la referencia facial proporcionada como base de identidad exacta, preservando toda la estructura facial, proporciones y expresión con alta fidelidad.
+
+Genera un retrato cinematográfico hiperrealista de una {argument name="subject" default="mujer hermosa"} con rasgos faciales fuertes y definidos, mandíbula marcada, pómulos altos y ojos penetrantes e intensos que transmitan determinación y profundidad emocional. Su cabello debe estar perfectamente controlado, sin mechones sueltos, peinado de manera práctica y lista para el combate, como un moño apretado o una trenza asegurada para mantener una apariencia militar disciplinada.
+
+Lleva una {argument name="clothing" default="camiseta táctica negra sin mangas"} ajustada, debajo de un chaleco militar resistente y de alta calidad, equipado con correas, hebillas y marcas de desgaste sutiles que indiquen un uso prolongado en el campo. Asegúrate de que el atuendo tenga un diseño limpio pero funcional para la batalla, sin marcas excesivas ni estilización.
+
+Sus brazos son visibles y están completamente libres de tatuajes, mostrando una textura de piel natural con manchas de suciedad realistas, sudor, rasguños menores y hematomas leves que sugieran una exposición reciente al combate. Su físico parece atlético y funcional en lugar de estilizado, enfatizando la fuerza y la resistencia.
+
+El sujeto está agachado hacia adelante en una postura táctica baja, con ambos antebrazos descansando sobre sus rodillas. Sus manos están entrelazadas suavemente frente a ella, mostrando un control tranquilo en lugar de tensión. Su postura comunica preparación, disciplina e instinto de supervivencia en un entorno hostil.
+
+Su expresión es feroz, enfocada y emocionalmente endurecida, con los ojos fijos directamente en el lente de la cámara, creando una conexión psicológica intensa con el espectador. Deben ser visibles imperfecciones faciales sutiles como partículas de polvo, cortes menores y un brillo de sudor para mejorar el realismo.
+
+El entorno es un {argument name="environment" default="campo de batalla urbano devastado por la guerra"}, con edificios de hormigón destruidos, estructuras colapsadas, escombros dispersos y vehículos parcialmente quemados en el fondo. El humo se desplaza por la escena con brasas tenues brillando en el aire, añadiendo profundidad y movimiento.
+
+La iluminación debe ser cinematográfica y dramática, utilizando un alto contraste con una luz principal direccional suave que ilumine su rostro mientras mantiene sombras profundas para crear ambiente. La gradación de color general debe sentirse desaturada, cruda y realista, enfatizando la supervivencia y la tensión.
+
+Renderiza con detalles ultra fotorrealistas, profundidad de campo reducida, resolución 8K, calidad de fotograma de película, con un fuerte enfoque en el realismo, la intensidad emocional y la estética de la fotografía de guerra atmosférica.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310288704_1gmgno_HHw_c2kbAAApxBM.jpg" width="600" alt="Activo de juego - Retrato cinematográfico de mujer militar - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Dr. Samia](https://x.com/oye_samia)
+- **Fuente:** [Twitter Post](https://x.com/oye_samia/status/2052585304536776798)
+- **Publicado:** 8 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=18972)**
+
+---
+
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 13293 prompts más no mostrados aquí
+### 🎯 13292 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5875,6 +5891,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-15T08:58:50.792Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-15T12:32:15.092Z</sub>
 
 </div>
