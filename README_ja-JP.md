@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **13906** |
+| 📝 プロンプト総数 | **13905** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年5月29日金曜日 9:03:18 UTC** |
+| 🔄 最終更新 | **2026年5月29日金曜日 12:56:26 UTC** |
 
 </div>
 
@@ -5698,7 +5698,7 @@ Jaxon “The Reaper” のシネマティックなミディアムショット。
 
 <div align="center">
 
-### 🎯 13786 さらに多くのプロンプトがあります
+### 🎯 13785 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5761,6 +5761,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-05-29T09:03:18.768Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-05-29T12:56:26.593Z</sub>
 
 </div>

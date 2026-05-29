@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **13906** |
+| 📝 कुल प्रॉम्पट्स | **13905** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 29 मई 2026 को 9:03:37 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 29 मई 2026 को 12:56:44 pm UTC बजे** |
 
 </div>
 
@@ -5695,7 +5695,7 @@ Jaxon “The Reaper” का सिनेमैटिक मीडियम श
 
 <div align="center">
 
-### 🎯 13786 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 13785 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5758,6 +5758,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-29T09:03:37.523Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-29T12:56:44.130Z</sub>
 
 </div>

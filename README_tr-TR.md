@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **13906** |
+| 📝 Toplam İstem | **13905** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **29 Mayıs 2026 Cuma 09:04:14 UTC** |
+| 🔄 Son Güncelleme | **29 Mayıs 2026 Cuma 12:57:17 UTC** |
 
 </div>
 
@@ -5695,7 +5695,7 @@ Eşleşen bir 2D chibi avatarı ve müzik çalar arayüzü katmanı içeren, yü
 
 <div align="center">
 
-### 🎯 13786 burada gösterilmeyen daha fazla istem
+### 🎯 13785 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5758,6 +5758,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-29T09:04:14.630Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-29T12:57:17.052Z</sub>
 
 </div>

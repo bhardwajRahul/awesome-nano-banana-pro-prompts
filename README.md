@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13906** |
+| 📝 Total Prompts | **13905** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, May 29, 2026 at 9:03:04 AM UTC** |
+| 🔄 Last Updated | **Friday, May 29, 2026 at 12:56:13 PM UTC** |
 
 </div>
 
@@ -5673,7 +5673,7 @@ A sophisticated prompt for generating a high-fashion urban portrait that include
 
 <div align="center">
 
-### 🎯 13786 more prompts not shown here
+### 🎯 13785 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5736,6 +5736,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T09:03:04.927Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T12:56:13.940Z</sub>
 
 </div>

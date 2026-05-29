@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **13906** |
+| 📝 提示词总数 | **13905** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年5月29日星期五 UTC 09:03:09** |
+| 🔄 最后更新 | **2026年5月29日星期五 UTC 12:56:17** |
 
 </div>
 
@@ -5695,7 +5695,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 <div align="center">
 
-### 🎯 13786 更多提示词未在此显示
+### 🎯 13785 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5758,6 +5758,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-29T09:03:09.309Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-29T12:56:17.922Z</sub>
 
 </div>

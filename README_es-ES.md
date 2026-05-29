@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13906** |
+| 📝 Total de prompts | **13905** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 29 de mayo de 2026, 9:03:41 UTC** |
+| 🔄 Última actualización | **viernes, 29 de mayo de 2026, 12:56:48 UTC** |
 
 </div>
 
@@ -5695,7 +5695,7 @@ Un prompt sofisticado para generar un retrato urbano de alta costura que incluye
 
 <div align="center">
 
-### 🎯 13786 prompts más no mostrados aquí
+### 🎯 13785 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5758,6 +5758,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-29T09:03:41.761Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-29T12:56:48.610Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **13906** |
+| 📝 Total des prompts | **13905** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **vendredi 29 mai 2026 à 09:03:55 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 29 mai 2026 à 12:57:00 UTC** |
 
 </div>
 
@@ -5695,7 +5695,7 @@ Un prompt sophistiqué pour générer un portrait urbain haute couture incluant 
 
 <div align="center">
 
-### 🎯 13786 prompts supplémentaires non affichés ici
+### 🎯 13785 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5758,6 +5758,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-29T09:03:55.564Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-29T12:57:00.652Z</sub>
 
 </div>
