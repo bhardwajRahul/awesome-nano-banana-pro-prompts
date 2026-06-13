@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **14365** |
+| 📝 Total des prompts | **14364** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **samedi 13 juin 2026 à 09:00:25 UTC** |
+| 🔄 Dernière mise à jour | **samedi 13 juin 2026 à 12:30:24 UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ Un prompt structuré pour un portrait studio en pied. Le sujet est une jeune fem
 
 ---
 
-### No. 120: Ressource de jeu - Beauté fantastique orientale en 3D CG
+### No. 120: Ressource de jeu - Transporteur de fret lourd Atlas Titan
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une illustration 3D CG hautement détaillée d'un personnage féminin éthéré de fantasy orientale dans un environnement pluvieux, avec des textures réalistes et un éclairage cinématographique.
+Un prompt cinématique et mécanique pour un camion de transport autonome ultra-robuste conçu pour le transport planétaire, arborant un design industriel brutaliste.
 
 #### 📝 Prompt
 
 ```
-Version verticale 9:16, portrait de personnage féminin de fantasy orientale en 3D CG de haute précision, portrait de beauté fantastique orientale en 3D CG, art de personnage 3D CG de style anime, rendu de personnage 3D semi-réaliste. La composition va des cuisses jusqu'au haut du corps. Le sujet principal est une jeune femme adulte de fantasy orientale, âge visuel d'environ {argument name="visual age" default="20–26 ans"}. Le tempérament général est froid, éthéré, délicat et calme, avec la sensation mystérieuse et haut de gamme d'un esprit aquatique sous la pluie. Il ne s'agit pas d'une illustration plate mais d'un rendu de personnage 3D CG très abouti, avec une modélisation exquise, des matériaux réalistes, une lumière douce et froide cinématographique et une texture d'affiche de personnage virtuel haut de gamme. Le personnage possède un visage oriental exquis, un visage ovale petit et lisse, une peau blanche froide et délicate avec une légère translucidité et une coloration douce, ainsi que de fines gouttelettes d'eau et des reflets humides à la surface de la peau. Les yeux sont fins et clairs, la couleur des pupilles est {argument name="pupil color" default="bleu-vert glacier"}, les pupilles ont un aspect de verre transparent et des reflets détaillés, les yeux sont légèrement baissés, calmes, détachés et légèrement fragiles. Les cils sont longs, le maquillage des yeux est propre et sobre, l'arête du nez est délicate et droite, les lèvres sont douces, la couleur des lèvres est rose nude à faible saturation, les lèvres sont légèrement entrouvertes et l'expression est calme et charmante. La coiffure est un court dégradé bleu-noir, les couleurs principales sont le noir profond et le bleu marine, les pointes ont des reflets bleu froid, la coiffure est un carré court ondulé et dégradé, une mèche sur le front tombe naturellement pour couvrir une partie de la joue, le sommet a une structure tressée, les mèches de cheveux sont humides, légères et délicates, avec une modélisation de haute précision et un éclat lisse. Portant des boucles d'oreilles géométriques en cristal bleu exquis et des ear cuffs en métal pour renforcer le tempérament fantastique oriental et l'élément aquatique. Portant un col décoratif blanc à col montant et des détails de pompons en pierre précieuse cyan sur le cou, exquis et haut de gamme. La tenue est une robe de cérémonie exquise sur le thème de l'eau fantastique orientale, le haut du corps portant une robe longue moulante en satin blanc léger à l'aspect humide, le tissu est doux et drapé, avec des reflets délicats et une légère translucidité, les lignes de la poitrine et du torse sont exprimées de manière sobre et élégante. La couche extérieure est un châle en gaze légère de style chemise blanche, glissant naturellement vers les bras et la taille, formant des plis superposés et une sensation de fluidité, renforçant l'atmosphère décontractée et onirique. Des détails de short à bordure en dentelle noire sont visibles à la taille et aux hanches, comme une touche gothique légère dans le style global, rendant l'image plus riche et exquise, mais l'ensemble reste haut de gamme, sobre et non vulgaire. La pose du personnage est élégante, debout de profil, le corps montrant une courbe en S lisse, les épaules et le cou étirés, le dos et la taille s'étendant naturellement, la tête légèrement baissée et tournée sur le côté, les yeux regardant vers le bas, la posture globale est calme, légère et sobre. Les bras pendent naturellement, les doigts sont fins, la posture est comme un moment de quiétude sous la pluie, soulignant le profil, les épaules et le cou, le dos, les lignes de la taille et des hanches, et l'expression exquise du matériau humide du vêtement. L'arrière-plan est ajusté sur une scène aquatique fantastique orientale exquise, le ton général est {argument name="main color tone" default="blanc froid, bleu glacier, gris clair"}. L'arrière-plan est un rideau de pluie brumeux, une légère brume et des contours de bâtiments fantastiques orientaux qui se profilent, pouvant intégrer des pavillons flous au loin, des marches en pierre, des bords de piscine ou des contours de palais éthérés pour créer une sensation d'espace fantastique haut de gamme. Il y a des éclaboussures d'eau dynamiques, des arcs de flux d'eau et des effets d'éclaboussures transparents comme du cristal autour du personnage, comme des ondulations décoratives condensées à partir d'éléments aquatiques, l'arrière-plan est modérément flou, transparent et éthéré sans être envahissant. L'éclairage utilise une combinaison de lumière principale blanc froid et de rétroéclairage doux, un éclairage cinématographique global à haute luminosité et faible saturation pour une journée pluvieuse. Il y a des reflets humides délicats sur le visage, les clavicules, les épaules, le dos, les bras et les jambes, et une légère lumière de contour sur les bords des cheveux et des éclaboussures d'eau. Le tissu blanc, la dentelle, le métal, les pierres précieuses, les gouttelettes d'eau et les éclaboussures d'eau ont tous un rendu de matière réaliste et clair. L'image globale est propre, transparente, froide et glamour, onirique et hautement raffinée, avec une texture d'affiche de personnage fantastique oriental 3D CG de collection haut de gamme. rendu 3D CG très détaillé, qualité Unreal Engine, look Octane render, éclairage cinématographique, matériaux PBR, peau avec diffusion sous la surface, mèches de cheveux humides réalistes, tissu humide translucide, effets d'éclaboussures d'eau cristalline, détails de dentelle délicats, style fantastique oriental élégant, atmosphère d'esprit aquatique, lumière volumétrique, profondeur de champ cinématographique, soft bloom, ultra détaillé, réalisme anime poli, portrait de personnage virtuel premium
+Le transporteur de fret Atlas Titan 
+Un immense camion de transport autonome ultra-robuste conçu pour transporter des {argument name="cargo type" default="villes modulaires"} entières à travers des environnements planétaires hostiles. Le véhicule colossal repose sur douze ensembles de roues articulées indépendamment et gigantesques, chacun contenant des mécanismes de suspension complexes, des systèmes d'amortisseurs blindés et une technologie de contrôle adaptatif du terrain. La cabine ressemble à un centre de commandement mobile avec une vitre d'observation panoramique renforcée, des réseaux de capteurs avancés, des tours de communication, des radars de navigation et un blindage défensif multicouche. La plateforme de transport arrière supporte d'énormes modules de fret sécurisés par des systèmes de chargement robotisés, des verrous de confinement magnétiques, des grues articulées et des drones de maintenance automatisés. Chaque section est riche en détails mécaniques, incluant des systèmes hydrauliques, des composants d'ingénierie apparents, des conduits d'alimentation, une infrastructure de refroidissement, des panneaux d'accès, des plateformes de maintenance, des feux d'avertissement et des machines industrielles. {argument name="style" default="Design industriel brutaliste"}, échelle cinématique, ingénierie mécanique hautement détaillée, rendu photoréaliste, qualité chef-d'œuvre, 8K.
 ```
 
 #### 🖼️ Images générées
@@ -5375,17 +5376,17 @@ Version verticale 9:16, portrait de personnage féminin de fantasy orientale en 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Ressource de jeu - Beauté fantastique orientale en 3D CG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Ressource de jeu - Transporteur de fret lourd Atlas Titan - Image 1">
 </div>
 
 #### 📌 Détails
 
-- **Auteur:** [李岳](https://x.com/liyue_ai)
-- **Source:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Auteur:** [Artingent](https://x.com/artingent)
+- **Source:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Publié:** 11 juin 2026
-- **Langues:** zh
+- **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=25142)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ Version verticale 9:16, portrait de personnage féminin de fantasy orientale en 
 
 <div align="center">
 
-### 🎯 14245 prompts supplémentaires non affichés ici
+### 🎯 14244 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T09:00:25.482Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T12:30:24.301Z</sub>
 
 </div>

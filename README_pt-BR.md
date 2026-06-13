@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **14365** |
+| 📝 Total de prompts | **14364** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sábado, 13 de junho de 2026 às 09:00:33 UTC** |
+| 🔄 Última atualização | **sábado, 13 de junho de 2026 às 12:30:30 UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ Um prompt estruturado para um retrato de estúdio de corpo inteiro. A modelo é 
 
 ---
 
-### No. 120: Ativo de Jogo - Beleza de Fantasia Oriental em CG 3D
+### No. 120: Ativo de Jogo - Transportador de Carga Pesada Atlas Titan
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Uma ilustração em CG 3D altamente detalhada de uma personagem feminina de fantasia oriental etérea em um ambiente chuvoso, apresentando texturas realistas e iluminação cinematográfica.
+Um prompt cinematográfico e mecânico para um caminhão de carga autônomo de serviço pesado projetado para transporte planetário, apresentando um design industrial brutalista.
 
 #### 📝 Prompt
 
 ```
-Versão vertical 9:16, retrato de personagem feminina de fantasia oriental em CG 3D de alta precisão, retrato de beleza de fantasia oriental em CG 3D, arte de personagem em CG 3D estilo anime, renderização de personagem 3D semirrealista. A composição vai das coxas até a parte superior do corpo. O sujeito principal é uma jovem mulher de fantasia oriental claramente adulta, idade visual de cerca de {argument name="visual age" default="20–26 anos"}. O temperamento geral é frio, etéreo, delicado e silencioso, com a sensação misteriosa e sofisticada de um espírito aquático na chuva. Esta não é uma ilustração plana, mas uma renderização de personagem em CG 3D de alta finalização, com modelagem requintada, materiais realistas, luz suave e fria cinematográfica e uma textura de pôster de personagem virtual de alto nível. A personagem tem um rosto oriental belo e requintado, um rosto oval pequeno e suave, pele branca fria e delicada com uma leve translucidez e coloração suave, e gotas de água delicadas e reflexos úmidos na superfície da pele. Os olhos são esguios e claros, a cor da íris é {argument name="pupil color" default="azul-esverdeado gelo"}, as pupilas têm uma sensação de vidro transparente e destaques detalhados, os olhos estão levemente baixos, silenciosos, distantes e levemente frágeis. Os cílios são longos, a maquiagem dos olhos é limpa e contida, a ponte do nariz é delicada e reta, os lábios são macios, a cor dos lábios é rosa nude de baixa saturação, os lábios estão levemente entreabertos e a expressão é calma e encantadora. O penteado é um cabelo curto com degradê azul-preto, as cores principais são preto profundo e azul marinho, as pontas têm reflexos em azul frio, o penteado é um cabelo curto ondulado em camadas, uma parte do cabelo da testa cai naturalmente para cobrir parte da bochecha, o topo tem uma estrutura trançada, as mechas de cabelo estão úmidas, leves e delicadas, com modelagem de alta precisão e brilho suave. Usando brincos geométricos de cristal azul requintados e algemas de orelha de metal para realçar o temperamento de fantasia oriental e elemento de água. Usando uma gola decorativa branca de gola alta e detalhes de borla de gema ciano no pescoço, requintado e sofisticado. A roupa é um vestido formal requintado com tema de água de fantasia oriental, a parte superior do corpo usa um vestido longo justo de cetim branco, leve e com aparência úmida, o tecido é macio e com caimento, com destaques delicados e leve translucidez, as linhas do peito e do tronco são expressas de forma contida e elegante. A camada externa é um envoltório de gaze leve estilo camisa branca solta, deslizando naturalmente para os braços e cintura, formando dobras em camadas e uma sensação fluida, realçando a atmosfera casual e sonhadora. Detalhes de shorts com bordas de renda preta podem ser vistos na cintura e nos quadris, como um toque gótico leve no estilo geral, tornando a imagem mais em camadas e requintada, mas o todo permanece sofisticado, contido e não vulgar. A pose da personagem é elegantemente em pé de lado, o corpo mostrando uma curva em S suave, ombros e pescoço esticados, costas e linha da cintura estendendo-se naturalmente, cabeça levemente baixa e virada para o lado, olhos olhando para baixo, postura geral silenciosa, leve e contida. Braços pendurados naturalmente, dedos esguios, a postura é como um momento de ficar em silêncio na chuva, destacando o perfil, ombro e pescoço, costas, linhas da cintura e quadril, e a expressão requintada do material úmido da roupa. O fundo é ajustado para uma cena de água de fantasia oriental requintada, o tom geral é {argument name="main color tone" default="branco frio, azul gelo, cinza claro"}. O fundo é uma cortina de chuva nebulosa, névoa leve e contornos de edifícios de fantasia oriental iminentes, que podem integrar pavilhões distantes desfocados, degraus de pedra, bordas de piscina ou contornos de palácios etéreos para criar uma sensação de espaço de fantasia de alto nível. Existem respingos de água dinâmicos, arcos de fluxo de água e efeitos de respingos transparentes como cristal ao redor da personagem, como ondulações decorativas condensadas de elementos de água, o fundo é moderadamente desfocado, transparente e etéreo sem ser avassalador. A iluminação usa uma combinação de luz principal branca fria e luz de fundo suave, no geral uma iluminação cinematográfica de alta intensidade e baixa saturação para um dia chuvoso. Existem destaques úmidos delicados no rosto, clavícula, ombros, costas, braços e pernas, e uma leve luz de contorno nas bordas do cabelo e nas bordas dos respingos de água. Tecido branco, renda, metal, pedras preciosas, gotas de água e respingos de água têm feedback de material realista e claro. A imagem geral é limpa, transparente, fria e glamorosa, sonhadora e altamente refinada, com uma textura de pôster de personagem de fantasia oriental em CG 3D colecionável de alto nível. renderização em CG 3D de alto detalhe, qualidade Unreal Engine, visual de renderização Octane, iluminação cinematográfica, materiais PBR, pele com espalhamento subsuperficial, mechas de cabelo úmidas realistas, tecido úmido translúcido, efeitos de respingo de água de cristal, detalhes de renda delicados, estilo de fantasia oriental elegante, atmosfera de espírito aquático, luz volumétrica, profundidade de campo cinematográfica, brilho suave, ultra detalhado, realismo de anime polido, retrato de personagem virtual premium
+O Transportador de Carga Atlas Titan
+Um enorme caminhão autônomo de serviço pesado projetado para transportar {argument name="cargo type" default="cidades modulares"} inteiras através de ambientes planetários hostis. O veículo colossal se desloca sobre doze conjuntos de rodas gigantes independentemente articulados, cada um contendo mecanismos complexos de suspensão, sistemas de amortecimento blindados e tecnologia adaptativa de controle de terreno. A cabine se assemelha a um centro de comando móvel com vidro de observação panorâmico reforçado, conjuntos de sensores avançados, torres de comunicação, radares de navegação e placas defensivas em camadas. A plataforma de transporte traseira suporta enormes módulos de carga fixados por sistemas de carregamento robóticos, travas de contenção magnética, guindastes articulados e drones de manutenção automatizados. Cada seção é repleta de detalhes mecânicos, incluindo sistemas hidráulicos, componentes de engenharia expostos, conduítes de energia, infraestrutura de resfriamento, painéis de acesso, plataformas de manutenção, luzes de aviso e maquinário industrial. {argument name="style" default="Design industrial brutalista"}, escala cinematográfica, engenharia mecânica altamente detalhada, renderização fotorrealista, qualidade de obra-prima, 8K.
 ```
 
 #### 🖼️ Imagens geradas
@@ -5375,17 +5376,17 @@ Versão vertical 9:16, retrato de personagem feminina de fantasia oriental em CG
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Ativo de Jogo - Beleza de Fantasia Oriental em CG 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Ativo de Jogo - Transportador de Carga Pesada Atlas Titan - Image 1">
 </div>
 
 #### 📌 Detalhes
 
-- **Autor:** [李岳](https://x.com/liyue_ai)
-- **Fonte:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Autor:** [Artingent](https://x.com/artingent)
+- **Fonte:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Publicado:** 11 de junho de 2026
-- **Idiomas:** zh
+- **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=25142)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ Versão vertical 9:16, retrato de personagem feminina de fantasia oriental em CG
 
 <div align="center">
 
-### 🎯 14245 mais prompts não mostrados aqui
+### 🎯 14244 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T09:00:33.247Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T12:30:30.294Z</sub>
 
 </div>

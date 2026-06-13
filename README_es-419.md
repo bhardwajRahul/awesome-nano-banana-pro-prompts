@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14365** |
+| 📝 Total de prompts | **14364** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **sábado, 13 de junio de 2026, 9:00:18 a.m. UTC** |
+| 🔄 Última actualización | **sábado, 13 de junio de 2026, 12:30:17 p.m. UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ Un prompt estructurado para un retrato de estudio de cuerpo completo. La modelo 
 
 ---
 
-### No. 120: Activo de juego - Belleza de fantasía oriental en 3D CG
+### No. 120: Activo de juego - Transportador de Carga Pesada Atlas Titan
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una ilustración 3D CG altamente detallada de un personaje femenino de fantasía oriental etéreo en un entorno lluvioso, con texturas realistas e iluminación cinematográfica.
+Un prompt cinemático y mecánico para un camión de carga pesada autónomo diseñado para transporte planetario, con un diseño industrial brutalista.
 
 #### 📝 Prompt
 
 ```
-Versión vertical 9:16, retrato de personaje femenino de fantasía oriental en 3D CG de alta precisión, retrato de belleza de fantasía oriental en 3D CG, arte de personaje 3D CG estilo anime, renderizado de personaje 3D semirrealista. La composición va desde los muslos hasta la parte superior del cuerpo. El sujeto principal es una joven mujer de fantasía oriental claramente adulta, edad visual de aproximadamente {argument name="visual age" default="20–26 años"}. El temperamento general es frío, etéreo, delicado y tranquilo, con la sensación misteriosa y sofisticada de un espíritu acuático bajo la lluvia. No se trata de una ilustración plana, sino de un renderizado de personaje 3D CG de alta calidad, con modelado exquisito, materiales realistas, luz suave y fría cinematográfica, y una textura de póster de personaje virtual de alta gama. El personaje tiene un rostro oriental exquisitamente bello, una cara ovalada pequeña y suave, piel blanca fría y delicada con una ligera translucidez y coloración suave, y delicadas gotas de agua y reflejos húmedos en la superficie de la piel. Los ojos son alargados y claros, el color de las pupilas es {argument name="pupil color" default="azul-verde hielo"}, las pupilas tienen una sensación de vidrio transparente y reflejos detallados, los ojos están ligeramente bajos, tranquilos, distantes y ligeramente frágiles. Las pestañas son largas, el maquillaje de ojos es limpio y contenido, el puente de la nariz es delicado y recto, los labios son suaves, el color de los labios es rosa nude de baja saturación, los labios están ligeramente entreabiertos y la expresión es tranquila y encantadora. El peinado es un cabello corto con degradado azul-negro, los colores principales son negro profundo y azul marino, las puntas tienen reflejos azul frío, el peinado es un cabello corto ondulado y en capas, un lado del cabello de la frente cae naturalmente para cubrir parte de la mejilla, la parte superior tiene una estructura trenzada, los mechones de cabello están húmedos, ligeros y delicados, con modelado de alta precisión y brillo suave. Lleva exquisitos pendientes geométricos de cristal azul y ear cuffs de metal para realzar el temperamento de fantasía oriental y elemento acuático. Lleva un cuello decorativo blanco de cuello alto y detalles de borlas de piedras preciosas cian en el cuello, exquisito y de alta gama. La ropa es un exquisito vestido formal de fantasía oriental con temática acuática, la parte superior lleva un vestido largo ajustado de satén blanco ligero con aspecto húmedo, la tela es suave y con caída, con reflejos delicados y ligera translucidez, las líneas del pecho y el torso se expresan de manera contenida y elegante. La capa exterior es un envoltorio de gasa ligera estilo camisa blanca suelta, que se desliza naturalmente hacia los brazos y la cintura, formando pliegues en capas y una sensación de fluidez, realzando la atmósfera casual y de ensueño. Se pueden ver detalles de pantalones cortos con bordes de encaje negro en la cintura y las caderas, como un toque gótico ligero en el estilo general, haciendo que la imagen sea más estratificada y exquisita, pero el conjunto sigue siendo de alta gama, contenido y no vulgar. La pose del personaje es elegantemente de pie de lado, el cuerpo mostrando una curva en forma de S suave, hombros y cuello estirados, espalda y cintura extendiéndose naturalmente, cabeza ligeramente baja y girada hacia un lado, ojos mirando hacia abajo, postura general tranquila, ligera y contenida. Brazos colgando naturalmente, dedos delgados, la postura es como un momento de estar de pie tranquilamente bajo la lluvia, resaltando el perfil, hombros y cuello, espalda, líneas de cintura y cadera, y la exquisita expresión del material húmedo de la ropa. El fondo está ajustado a una exquisita escena acuática de fantasía oriental, el tono general es {argument name="main color tone" default="blanco frío, azul hielo, gris claro"}. El fondo es una cortina de lluvia brumosa, niebla ligera y contornos de edificios de fantasía oriental que se vislumbran, los cuales pueden integrar pabellones lejanos borrosos, escalones de piedra, bordes de piscinas o contornos de palacios etéreos para crear una sensación de espacio de fantasía de alta gama. Hay salpicaduras de agua dinámicas, arcos de flujo de agua y efectos de salpicaduras transparentes como cristales alrededor del personaje, como ondas decorativas condensadas de elementos de agua, el fondo está moderadamente borroso, transparente y etéreo sin ser abrumador. La iluminación utiliza una combinación de luz principal blanca fría y luz de fondo suave, en general una iluminación cinematográfica de clave alta y baja saturación para un día lluvioso. Hay reflejos húmedos delicados en la cara, clavícula, hombros, espalda, brazos y piernas, y una ligera luz de contorno en los bordes del cabello y los bordes de las salpicaduras de agua. La tela blanca, el encaje, el metal, las piedras preciosas, las gotas de agua y las salpicaduras de agua tienen una respuesta de material realista y clara. La imagen general es limpia, transparente, fría y glamorosa, de ensueño y altamente refinada, con una textura de póster de personaje de fantasía oriental 3D CG coleccionable de alta gama. renderizado 3D CG de alto detalle, calidad Unreal Engine, aspecto de renderizado Octane, iluminación cinematográfica, materiales PBR, piel con dispersión subsuperficial, mechones de cabello húmedos realistas, tela húmeda translúcida, efectos de salpicaduras de agua de cristal, detalles de encaje delicados, estilo de fantasía oriental elegante, atmósfera de espíritu acuático, luz volumétrica, profundidad de campo cinematográfica, resplandor suave, ultra detallado, realismo de anime pulido, retrato de personaje virtual premium
+El Transportador de Carga Atlas Titan
+Un camión de carga pesada autónomo y masivo diseñado para transportar {argument name="cargo type" default="ciudades modulares"} completas a través de entornos planetarios hostiles. El vehículo colosal se desplaza sobre doce ensamblajes de ruedas gigantes articuladas de forma independiente, cada uno con complejos mecanismos de suspensión, sistemas de amortiguación blindados y tecnología de control de terreno adaptable. La cabina se asemeja a un centro de comando móvil con vidrio de observación reforzado panorámico, conjuntos de sensores avanzados, torres de comunicación, radares de navegación y placas defensivas en capas. La plataforma de transporte trasera soporta enormes módulos de carga asegurados por sistemas de carga robóticos, cierres de contención magnéticos, grúas articuladas y drones de mantenimiento automatizados. Cada sección está repleta de detalles mecánicos, incluyendo sistemas hidráulicos, componentes de ingeniería expuestos, conductos de energía, infraestructura de refrigeración, paneles de acceso, plataformas de mantenimiento, luces de advertencia y maquinaria industrial. {argument name="style" default="Diseño industrial brutalista"}, escala cinemática, ingeniería mecánica altamente detallada, renderizado fotorrealista, calidad de obra maestra, 8K.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -5375,17 +5376,17 @@ Versión vertical 9:16, retrato de personaje femenino de fantasía oriental en 3
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Activo de juego - Belleza de fantasía oriental en 3D CG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Activo de juego - Transportador de Carga Pesada Atlas Titan - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [李岳](https://x.com/liyue_ai)
-- **Fuente:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Autor:** [Artingent](https://x.com/artingent)
+- **Fuente:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Publicado:** 11 de junio de 2026
-- **Idiomas:** zh
+- **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=25142)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ Versión vertical 9:16, retrato de personaje femenino de fantasía oriental en 3
 
 <div align="center">
 
-### 🎯 14245 prompts más no mostrados aquí
+### 🎯 14244 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T09:00:18.039Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T12:30:17.921Z</sub>
 
 </div>

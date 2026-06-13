@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **14365** |
+| 📝 Toplam İstem | **14364** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **13 Haziran 2026 Cumartesi 09:00:40 UTC** |
+| 🔄 Son Güncelleme | **13 Haziran 2026 Cumartesi 12:30:36 UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ Tam boy stüdyo portresi için yapılandırılmış bir istem. Konu, at kuyruğu
 
 ---
 
-### No. 120: Oyun Varlığı - 3D CG Oryantal Fantastik Güzellik
+### No. 120: Oyun Varlığı - Atlas Titan Ağır Yük Taşıyıcı
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Yağmurlu bir ortamda, gerçekçi dokular ve sinematik aydınlatma ile bezenmiş, ruhani bir oryantal fantastik kadın karakterin son derece detaylı 3D CG illüstrasyonu.
+Gezegenler arası taşımacılık için tasarlanmış, brutalist endüstriyel tasarıma sahip otonom ağır hizmet tipi bir kargo kamyonu için sinematik ve mekanik bir istem.
 
 #### 📝 İstem
 
 ```
-9:16 dikey versiyon, yüksek hassasiyetli 3D CG oryantal fantastik kadın karakter portresi, 3D CG oryantal fantastik güzellik portresi, anime tarzı 3D CG karakter sanatı, yarı gerçekçi 3D karakter renderı. Kompozisyon uyluklardan üst gövdeye kadardır. Ana özne, görsel yaşı yaklaşık {argument name="visual age" default="20–26 yaş arası"} olan, belirgin bir şekilde yetişkin, genç bir oryantal fantastik kadındır. Genel mizaç; yağmur altındaki bir su ruhunun gizemli ve üst düzey hissiyle, soğuk, ruhani, narin ve sakindir. Bu düz bir illüstrasyon değil; zarif modelleme, gerçekçi materyaller, sinematik soğuk yumuşak ışık ve üst düzey sanal karakter posteri dokusuna sahip, yüksek tamamlanma seviyesinde bir 3D CG karakter renderıdır. Karakter, zarif bir oryantal güzel yüze, küçük ve pürüzsüz oval bir yüze, hafif bir yarı saydamlığa ve yumuşak renklere sahip soğuk beyaz ve narin bir cilde, cilt yüzeyinde ise ince su damlacıklarına ve ıslak yansımalara sahiptir. Gözler çekik ve berraktır, göz bebeği rengi {argument name="pupil color" default="buz mavisi-yeşil"} tonundadır, göz bebekleri şeffaf cam hissine ve detaylı parlamalara sahiptir; gözler hafifçe aşağı bakmaktadır, sakin, mesafeli ve hafif kırılgan bir ifadeye sahiptir. Kirpikler uzun, göz makyajı temiz ve ölçülüdür, burun kemeri narin ve düzdür, dudaklar yumuşaktır, dudak rengi düşük doygunlukta ten rengi pembedir, dudaklar hafif aralıktır ve ifade sakin ve büyüleyicidir. Saç modeli kısa mavi-siyah geçişli saçtır, ana renkler koyu siyah ve laciverttir, uçlarda soğuk mavi parlamalar vardır, saç modeli kısa katmanlı dalgalı saçtır, alın kısmındaki saçların bir tarafı doğal bir şekilde yanağa düşerek yanağın bir kısmını kapatır, tepede örgülü bir yapı vardır, saç telleri ıslak, hafif ve narindir, yüksek hassasiyetli modelleme ve pürüzsüz bir parlaklığa sahiptir. Oryantal fantastik ve su elementi mizacını güçlendirmek için zarif mavi kristal geometrik küpeler ve metal kulak manşetleri takmaktadır. Boyunda beyaz, yüksek yakalı dekoratif bir yaka ve camgöbeği rengi değerli taşlı püskül detayları vardır, zarif ve üst düzey bir görünümdedir. Kıyafet, zarif bir oryantal fantastik su temalı resmi elbisedir; üst gövdede beyaz, hafif, ıslak görünümlü saten dar bir uzun elbise vardır, kumaş yumuşak ve dökümlüdür, narin parlamalara ve hafif bir yarı saydamlığa sahiptir, göğüs ve gövde hatları ölçülü ve zarif bir şekilde ifade edilmiştir. Dış katman, kollara ve bele doğru doğal bir şekilde süzülen, katmanlı kıvrımlar ve akışkan bir his oluşturan, gündelik ve rüya gibi atmosferi güçlendiren beyaz gömlek tarzı hafif bir tül sargıdır. Bel ve kalça kısmında, genel stilde hafif bir gotik dokunuş olarak görülebilen siyah dantel kenarlı şort detayları, resme daha fazla katman ve zarafet katar ancak genel görünüm üst düzey, ölçülü ve abartısız kalır. Karakterin pozu zarif bir şekilde yan durmaktadır, vücut pürüzsüz bir S kıvrımı sergiler, omuzlar ve boyun gergin, sırt ve bel hattı doğal bir şekilde uzanmaktadır, baş hafifçe aşağı eğik ve yana dönüktür, gözler aşağı bakmaktadır, genel duruş sakin, hafif ve ölçülüdür. Kollar doğal bir şekilde aşağı sarkmaktadır, parmaklar incedir, duruş yağmurda sessizce durulan bir anı andırır; profili, omuz ve boyun, sırt, bel ve kalça hatlarını ve kıyafetin ıslak materyalinin zarif ifadesini vurgular. Arka plan, zarif bir oryantal fantastik su sahnesine göre ayarlanmıştır, genel ton {argument name="main color tone" default="soğuk beyaz, buz mavisi, açık gri"} şeklindedir. Arka plan puslu bir yağmur perdesi, hafif sis ve belirsiz oryantal fantastik bina ana hatlarıdır; üst düzey bir fantastik mekan hissi yaratmak için uzaktaki bulanık pavyonlar, taş basamaklar, havuz kenarları veya ruhani saray ana hatları entegre edilebilir. Karakterin etrafında, su elementlerinden yoğunlaşmış dekoratif dalgalanmalar gibi dinamik su sıçramaları, su akış yayları ve şeffaf kristal benzeri sıçrama efektleri vardır; arka plan orta derecede bulanık, şeffaf ve bunaltıcı olmadan ruhani bir yapıdadır. Aydınlatma, soğuk beyaz ana ışık ve yumuşak arka ışık kombinasyonunu kullanır, genel olarak yağmurlu bir gün için yüksek tonlu, düşük doygunlukta sinematik bir aydınlatmadır. Yüzde, köprücük kemiğinde, omuzlarda, sırtta, kollarda ve bacaklarda narin ıslak parlamalar, saç kenarlarında ve su sıçraması kenarlarında hafif bir kenar ışığı vardır. Beyaz kumaş, dantel, metal, değerli taşlar, su damlacıkları ve su sıçramalarının tümü gerçekçi ve net materyal geri bildirimine sahiptir. Genel resim temiz, şeffaf, soğuk ve çekici, rüya gibi ve son derece rafine olup, üst düzey koleksiyonluk bir 3D CG oryantal fantastik karakter posteri dokusuna sahiptir. yüksek detaylı 3D CG render, Unreal Engine kalitesi, Octane render görünümü, sinematik aydınlatma, PBR materyalleri, yüzey altı saçılmalı cilt, gerçekçi ıslak saç telleri, yarı saydam ıslak kumaş, kristal su sıçrama efektleri, narin dantel detayları, zarif oryantal fantastik stil, su ruhu atmosferi, hacimsel ışık, sinematik alan derinliği, yumuşak parlama, ultra detaylı, cilalı anime gerçekçiliği, premium sanal karakter portresi
+Atlas Titan Yük Taşıyıcı
+{argument name="cargo type" default="modüler şehirler"} gibi yükleri düşmanca gezegen ortamlarında taşımak için tasarlanmış devasa, otonom ve ağır hizmet tipi bir kargo kamyonu. Bu devasa araç, her biri karmaşık süspansiyon mekanizmaları, zırhlı şok sistemleri ve uyarlanabilir arazi kontrol teknolojisi içeren on iki adet bağımsız mafsallı tekerlek düzeneği üzerinde hareket eder. Kabin; panoramik güçlendirilmiş gözlem camı, gelişmiş sensör dizileri, iletişim kuleleri, navigasyon radarları ve katmanlı savunma zırhı ile mobil bir komuta merkezini andırır. Arka taşıma platformu; robotik yükleme sistemleri, manyetik muhafaza kilitleri, mafsallı vinçler ve otomatik bakım dronları ile sabitlenmiş devasa kargo modüllerini destekler. Her bölüm; hidrolik sistemler, açıkta duran mühendislik bileşenleri, güç kanalları, soğutma altyapısı, erişim panelleri, bakım platformları, uyarı ışıkları ve endüstriyel makineler dahil olmak üzere mekanik detaylarla doludur. {argument name="style" default="Brutalist endüstriyel tasarım"}, sinematik ölçek, yüksek detaylı mekanik mühendislik, fotogerçekçi render, başyapıt kalitesi, 8K.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -5375,17 +5376,17 @@ Yağmurlu bir ortamda, gerçekçi dokular ve sinematik aydınlatma ile bezenmiş
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Oyun Varlığı - 3D CG Oryantal Fantastik Güzellik - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Oyun Varlığı - Atlas Titan Ağır Yük Taşıyıcı - Image 1">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [李岳](https://x.com/liyue_ai)
-- **Kaynak:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Yazar:** [Artingent](https://x.com/artingent)
+- **Kaynak:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Yayınlandı:** 11 Haziran 2026
-- **Diller:** zh
+- **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=25142)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ Yağmurlu bir ortamda, gerçekçi dokular ve sinematik aydınlatma ile bezenmiş
 
 <div align="center">
 
-### 🎯 14245 burada gösterilmeyen daha fazla istem
+### 🎯 14244 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T09:00:40.636Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T12:30:36.478Z</sub>
 
 </div>

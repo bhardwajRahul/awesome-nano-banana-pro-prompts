@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **14365** |
+| 📝 Gesamtanzahl Prompts | **14364** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 13. Juni 2026 um 09:00:21 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 13. Juni 2026 um 12:30:21 UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ Ein strukturierter Prompt für ein Ganzkörper-Studio-Porträt. Das Motiv ist ei
 
 ---
 
-### No. 120: Spiel-Asset - 3D-CG orientalische Fantasy-Schönheit
+### No. 120: Spiel-Asset - Atlas Titan Schwerlasttransporter
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Eine hochdetaillierte 3D-CG-Illustration einer ätherischen orientalischen Fantasy-Frauenfigur in einer regnerischen Umgebung, mit realistischen Texturen und filmischer Beleuchtung.
+Ein filmischer und mechanischer Prompt für einen autonomen Schwerlast-Fracht-LKW für den planetaren Transport, geprägt durch ein brutalistisches Industriedesign.
 
 #### 📝 Prompt
 
 ```
-9:16 vertikale Version, hochpräzises 3D-CG-Porträt einer orientalischen Fantasy-Frauenfigur, 3D-CG-Porträt einer orientalischen Fantasy-Schönheit, 3D-CG-Charakterkunst im Anime-Stil, semi-realistisches 3D-Charakter-Rendering. Die Komposition reicht von den Oberschenkeln bis zum Oberkörper. Das Hauptmotiv ist eine eindeutig erwachsene junge orientalische Fantasy-Frau, visuelles Alter ca. {argument name="visual age" default="20–26 Jahre"}. Das allgemeine Temperament ist kühl, ätherisch, zart und ruhig, mit der geheimnisvollen und hochwertigen Ausstrahlung eines Wassergeistes im Regen. Dies ist keine flache Illustration, sondern ein hochkomplettes 3D-CG-Charakter-Rendering mit exquisiter Modellierung, realistischen Materialien, filmischem, kaltem, weichem Licht und einer hochwertigen Textur für virtuelle Charakterposter. Die Figur hat ein exquisites orientalisches Gesicht, ein kleines und glattes ovales Gesicht, kühle weiße und zarte Haut mit einer leichten Transparenz und weicher Färbung sowie zarte Wassertropfen und nasse Reflexionen auf der Hautoberfläche. Die Augen sind schmal und klar, die Pupillenfarbe ist {argument name="pupil color" default="eisblau-grün"}, die Pupillen haben eine transparente Glasoptik und detaillierte Glanzlichter, die Augen sind leicht gesenkt, ruhig, distanziert und leicht zerbrechlich. Die Wimpern sind lang, das Augen-Make-up ist sauber und zurückhaltend, der Nasenrücken ist zart und gerade, die Lippen sind weich, die Lippenfarbe ist ein niedrig gesättigtes Nude-Rosa, die Lippen sind leicht geöffnet und der Ausdruck ist ruhig und charmant. Die Frisur ist ein kurzes, blau-schwarzes Verlaufshaar, die Hauptfarben sind tiefschwarz und marineblau, die Spitzen haben kühle blaue Highlights, die Frisur ist ein kurzes, gestuftes, welliges Haar, eine Seite des Stirnhaars fällt natürlich und bedeckt einen Teil der Wange, der Oberkopf hat eine geflochtene Struktur, die Haarsträhnen sind nass, leicht und zart, mit hochpräziser Modellierung und glattem Glanz. Sie trägt exquisite blaue Kristall-Ohrringe in geometrischer Form und metallische Ear Cuffs, um das orientalische Fantasy- und Wasserelement-Temperament zu unterstreichen. Sie trägt einen weißen, hochgeschlossenen Zierkragen und cyanfarbene Edelstein-Quasten-Details am Hals, exquisit und hochwertig. Die Kleidung ist ein exquisites, formelles Kleid im orientalischen Fantasy-Wasser-Stil, der Oberkörper trägt ein weißes, leichtes, nass aussehendes, eng anliegendes Satinkleid, der Stoff ist weich und fällt fließend, mit zarten Highlights und leichter Transparenz, die Brust- und Rumpflinien sind zurückhaltend und elegant dargestellt. Die äußere Schicht ist ein lockeres, weißes, hemdartiges, leichtes Gaze-Tuch, das natürlich auf die Arme und die Taille fällt, geschichtete Falten bildet und ein fließendes Gefühl vermittelt, was die lässige und verträumte Atmosphäre verstärkt. Details von schwarzen, spitzenbesetzten Shorts sind an Taille und Hüfte zu sehen, als leichter Gothic-Touch im Gesamtstyling, was das Bild vielschichtiger und exquisiter macht, aber das Ganze bleibt hochwertig, zurückhaltend und nicht vulgär. Die Pose der Figur ist elegant seitlich stehend, der Körper zeigt eine glatte S-Kurve, Schultern und Hals sind gestreckt, Rücken und Taille verlaufen natürlich, der Kopf ist leicht gesenkt und zur Seite gedreht, die Augen blicken nach unten, die gesamte Haltung ist ruhig, leicht und zurückhaltend. Die Arme hängen natürlich herab, die Finger sind schlank, die Haltung wirkt wie ein Moment des stillen Stehens im Regen, was das Profil, Schulter und Hals, Rücken, Taille und Hüftlinien sowie die exquisite Darstellung des nassen Materials der Kleidung hervorhebt. Der Hintergrund ist an eine exquisite orientalische Fantasy-Wasserszene angepasst, der Gesamtfarbton ist {argument name="main color tone" default="kühles Weiß, Eisblau, Hellgrau"}. Der Hintergrund ist ein dunstiger Regenschleier, leichter Nebel und schemenhafte orientalische Fantasy-Gebäudekonturen, die entfernte, verschwommene Pavillons, Steinstufen, Poolränder oder ätherische Palastumrisse integrieren können, um ein hochwertiges Fantasy-Raumgefühl zu erzeugen. Es gibt dynamische Wasserspritzer, Wasserflussbögen und transparente, kristallartige Spritzeffekte um die Figur herum, wie dekorative Wellen, die aus Wasserelementen kondensiert sind; der Hintergrund ist mäßig verschwommen, transparent und ätherisch, ohne überwältigend zu wirken. Die Beleuchtung verwendet eine Kombination aus kühlem weißem Hauptlicht und weichem Gegenlicht, insgesamt eine filmische Beleuchtung mit hohem Key und niedriger Sättigung für einen Regentag. Es gibt zarte nasse Highlights auf Gesicht, Schlüsselbein, Schultern, Rücken, Armen und Beinen sowie ein leichtes Kantenlicht an den Haar- und Wasserspritzerkanten. Weißer Stoff, Spitze, Metall, Edelsteine, Wassertropfen und Wasserspritzer haben alle eine realistische und klare Materialwiedergabe. Das Gesamtbild ist sauber, transparent, kalt und glamourös, verträumt und hochgradig verfeinert, mit einer hochwertigen 3D-CG-orientalischen Fantasy-Charakterposter-Textur. hochdetailliertes 3D-CG-Rendering, Unreal Engine-Qualität, Octane-Render-Look, filmische Beleuchtung, PBR-Materialien, Subsurface-Scattering-Haut, realistische nasse Haarsträhnen, transparenter nasser Stoff, Kristall-Wasserspritzeffekte, zarte Spitzendetails, elegantes orientalisches Fantasy-Styling, Wassergeist-Atmosphäre, volumetrisches Licht, filmische Schärfentiefe, weicher Bloom, ultra-detailliert, polierter Anime-Realismus, erstklassiges virtuelles Charakterporträt
+Der Atlas Titan Frachttransporter
+Ein massiver, autonomer Schwerlast-LKW, der für den Transport ganzer {argument name="cargo type" default="modularer Städte"} durch lebensfeindliche planetare Umgebungen konzipiert wurde. Das kolossale Fahrzeug fährt auf zwölf gigantischen, unabhängig voneinander beweglichen Radaufhängungen, von denen jede komplexe Federungsmechanismen, gepanzerte Stoßdämpfersysteme und eine adaptive Technologie zur Geländekontrolle enthält. Das Führerhaus gleicht einer mobilen Kommandozentrale mit verstärktem Panorama-Beobachtungsglas, fortschrittlichen Sensor-Arrays, Kommunikationstürmen, Navigationsradaren und einer geschichteten Panzerung. Die hintere Transportplattform trägt enorme Frachtmodule, die durch robotische Ladesysteme, magnetische Sicherungsschlösser, bewegliche Kräne und automatisierte Wartungsdrohnen gesichert sind. Jeder Abschnitt ist vollgepackt mit mechanischen Details, darunter Hydrauliksysteme, freiliegende technische Komponenten, Stromleitungen, Kühlinfrastruktur, Wartungsklappen, Arbeitsplattformen, Warnleuchten und Industriemaschinen. {argument name="style" default="Brutalistisches Industriedesign"}, filmischer Maßstab, hochdetaillierte Maschinenbaukunst, fotorealistisches Rendering, Meisterwerk-Qualität, 8K.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -5375,17 +5376,17 @@ Eine hochdetaillierte 3D-CG-Illustration einer ätherischen orientalischen Fanta
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Spiel-Asset - 3D-CG orientalische Fantasy-Schönheit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Spiel-Asset - Atlas Titan Schwerlasttransporter - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [李岳](https://x.com/liyue_ai)
-- **Quelle:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Autor:** [Artingent](https://x.com/artingent)
+- **Quelle:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Veröffentlicht:** 11. Juni 2026
-- **Sprachen:** zh
+- **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25142)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ Eine hochdetaillierte 3D-CG-Illustration einer ätherischen orientalischen Fanta
 
 <div align="center">
 
-### 🎯 14245 weitere Prompts hier nicht angezeigt
+### 🎯 14244 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T09:00:21.577Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T12:30:21.311Z</sub>
 
 </div>

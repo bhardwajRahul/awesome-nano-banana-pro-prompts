@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14365** |
+| 📝 Total Prompts | **14364** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Saturday, June 13, 2026 at 8:59:44 AM UTC** |
+| 🔄 Last Updated | **Saturday, June 13, 2026 at 12:29:48 PM UTC** |
 
 </div>
 
@@ -5355,19 +5355,20 @@ A structured prompt for a full-body studio portrait. The subject is a young woma
 
 ---
 
-### No. 120: Game Asset - 3D CG Oriental Fantasy Beauty
+### No. 120: Game Asset - Atlas Titan Heavy Cargo Hauler
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A highly detailed 3D CG illustration of an ethereal oriental fantasy female character in a rainy environment, featuring realistic textures and cinematic lighting.
+A cinematic and mechanical prompt for an autonomous heavy-duty cargo truck designed for planetary transport, featuring brutalist industrial design.
 
 #### 📝 Prompt
 
 ```
-9:16 vertical version, high-precision 3D CG oriental fantasy female character portrait, 3D CG oriental fantasy beauty portrait, anime-style 3D CG character art, semi-realistic 3D character render. Composition is from the thighs to the upper body. The main subject is a clearly adult young oriental fantasy woman, visual age about {argument name="visual age" default="20–26 years old"}. The overall temperament is cool, ethereal, delicate, and quiet, with the mysterious and high-end feel of an aquatic spirit in the rain. This is not a flat illustration but a high-completion 3D CG character render, with exquisite modeling, realistic materials, cinematic cold soft light, and a high-end virtual character poster texture. The character has an exquisite oriental beautiful face, a small and smooth oval face, cool white and delicate skin with a slight translucency and soft coloring, and delicate water droplets and wet reflections on the skin surface. The eyes are slender and clear, the pupil color is {argument name="pupil color" default="ice blue-green"}, the pupils have a transparent glass feel and detailed highlights, the eyes are slightly lowered, quiet, detached, and slightly fragile. Eyelashes are long, eye makeup is clean and restrained, the bridge of the nose is delicate and straight, the lips are soft, the lip color is low-saturation nude pink, the lips are slightly parted, and the expression is calm and charming. The hairstyle is a short blue-black gradient hair, the main colors are deep black and navy blue, the ends have cool blue highlights, the hairstyle is short layered wavy short hair, one side of the forehead hair falls naturally to cover part of the cheek, the top has a braided structure, the hair strands are wet, light, and delicate, with high-precision modeling and smooth luster. Wearing exquisite blue crystal geometric earrings and metal ear cuffs to enhance the oriental fantasy and water element temperament. Wearing a white high-neck decorative collar and cyan gemstone tassel details on the neck, exquisite and high-end. The clothing is an exquisite oriental fantasy water-themed formal dress, the upper body wearing a white light, wet-looking satin tight-fitting long dress, the fabric is soft and draped, with delicate highlights and slight translucency, the chest and torso lines are expressed in a restrained and elegant way. The outer layer is a loose white shirt-style light gauze wrap, naturally sliding down to the arms and waist, forming layered folds and a flowing feel, enhancing the casual and dreamy atmosphere. Black lace-edged shorts details can be seen at the waist and hips, as a light gothic touch in the overall styling, making the picture more layered and exquisite, but the whole remains high-end, restrained, and not vulgar. The character pose is elegantly standing sideways, the body showing a smooth S-shaped curve, shoulders and neck stretched, back and waistline naturally extending, head slightly lowered and turned to the side, eyes looking down, overall posture quiet, light, and restrained. Arms hanging down naturally, fingers slender, the posture is like a moment of standing quietly in the rain, highlighting the profile, shoulder and neck, back, waist and hip lines, and the exquisite expression of the wet material of the clothing. The background is adjusted to an exquisite oriental fantasy water scene, the overall tone is {argument name="main color tone" default="cool white, ice blue, light gray"}. The background is a hazy rain curtain, light mist, and looming oriental fantasy building outlines, which can integrate distant blurred pavilions, stone steps, pool edges, or ethereal palace outlines to create a high-end fantasy space feel. There are dynamic water splashes, water flow arcs, and transparent crystal-like splashing effects around the character, like decorative ripples condensed from water elements, the background is moderately blurred, transparent and ethereal without being overwhelming. The lighting uses a combination of cool white main light and soft backlight, overall a high-key low-saturation cinematic lighting for a rainy day. There are delicate wet highlights on the face, collarbone, shoulders, back, arms, and legs, and slight rim light on the hair edges and water splash edges. White fabric, lace, metal, gemstones, water droplets, and water splashes all have realistic and clear material feedback. The overall picture is clean, transparent, cold and glamorous, dreamy, and highly refined, with a high-end collectible 3D CG oriental fantasy character poster texture. high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic wet hair strands, translucent wet fabric, crystal water splash effects, delicate lace details, elegant oriental fantasy styling, aquatic spirit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait
+The Atlas Titan Freight Hauler  
+A massive autonomous heavy-duty cargo truck designed to transport entire {argument name="cargo type" default="modular cities"} across hostile planetary environments. The colossal vehicle rides on twelve gigantic independently articulated wheel assemblies, each containing complex suspension mechanisms, armored shock systems, and adaptive terrain-control technology. The cab resembles a mobile command center with panoramic reinforced observation glass, advanced sensor arrays, communication towers, navigation radars, and layered defensive plating. The rear transport platform supports enormous cargo modules secured by robotic loading systems, magnetic containment locks, articulated cranes, and automated maintenance drones. Every section is packed with mechanical detail including hydraulic systems, exposed engineering components, power conduits, cooling infrastructure, access panels, maintenance platforms, warning lights, and industrial machinery. {argument name="style" default="Brutalist industrial design"}, cinematic scale, highly detailed mechanical engineering, photorealistic rendering, masterpiece quality, 8K.
 ```
 
 #### 🖼️ Generated Images
@@ -5375,17 +5376,17 @@ A highly detailed 3D CG illustration of an ethereal oriental fantasy female char
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg" width="600" alt="Game Asset - 3D CG Oriental Fantasy Beauty - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781251719885_mry7vv_HKiKC-uaUAAhd5z.jpg" width="600" alt="Game Asset - Atlas Titan Heavy Cargo Hauler - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [李岳](https://x.com/liyue_ai)
-- **Source:** [Twitter Post](https://x.com/liyue_ai/status/2065107695557075460)
+- **Author:** [Artingent](https://x.com/artingent)
+- **Source:** [Twitter Post](https://x.com/artingent/status/2065052689789227310)
 - **Published:** June 11, 2026
-- **Languages:** zh
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=25142)**
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=25119)**
 
 ---
 
@@ -5395,7 +5396,7 @@ A highly detailed 3D CG illustration of an ethereal oriental fantasy female char
 
 <div align="center">
 
-### 🎯 14245 more prompts not shown here
+### 🎯 14244 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5458,6 +5459,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T08:59:44.534Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T12:29:49.022Z</sub>
 
 </div>
