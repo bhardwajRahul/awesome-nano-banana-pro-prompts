@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **14441** |
+| 📝 提示词总数 | **14440** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年6月15日星期一 UTC 10:01:56** |
+| 🔄 最后更新 | **2026年6月15日星期一 UTC 14:00:54** |
 
 </div>
 
@@ -5665,7 +5665,7 @@ Atlas Titan 货运车
 
 <div align="center">
 
-### 🎯 14321 更多提示词未在此显示
+### 🎯 14320 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5728,6 +5728,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-15T10:01:56.875Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-15T14:00:54.618Z</sub>
 
 </div>

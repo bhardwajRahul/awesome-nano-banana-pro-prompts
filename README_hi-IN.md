@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **14441** |
+| 📝 कुल प्रॉम्पट्स | **14440** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **सोमवार, 15 जून 2026 को 10:02:20 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 15 जून 2026 को 2:01:19 pm UTC बजे** |
 
 </div>
 
@@ -5665,7 +5665,7 @@ Atlas Titan फ्रेट हॉलर
 
 <div align="center">
 
-### 🎯 14321 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 14320 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5728,6 +5728,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-15T10:02:20.322Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-15T14:01:19.262Z</sub>
 
 </div>

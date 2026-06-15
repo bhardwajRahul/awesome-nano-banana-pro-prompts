@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14441** |
+| 📝 Total de prompts | **14440** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 15 de junio de 2026, 10:02:23 UTC** |
+| 🔄 Última actualización | **lunes, 15 de junio de 2026, 14:01:23 UTC** |
 
 </div>
 
@@ -5665,7 +5665,7 @@ Una instrucción de prompt para generar imágenes de personajes que parecen figu
 
 <div align="center">
 
-### 🎯 14321 prompts más no mostrados aquí
+### 🎯 14320 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5728,6 +5728,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-15T10:02:23.896Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-15T14:01:23.097Z</sub>
 
 </div>

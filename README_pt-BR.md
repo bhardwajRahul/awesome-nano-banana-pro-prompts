@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **14441** |
+| 📝 Total de prompts | **14440** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **segunda-feira, 15 de junho de 2026 às 10:02:43 UTC** |
+| 🔄 Última atualização | **segunda-feira, 15 de junho de 2026 às 14:01:42 UTC** |
 
 </div>
 
@@ -5665,7 +5665,7 @@ Uma instrução de prompt para gerar imagens de personagens que parecem action f
 
 <div align="center">
 
-### 🎯 14321 mais prompts não mostrados aqui
+### 🎯 14320 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5728,6 +5728,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-15T10:02:43.298Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-15T14:01:42.642Z</sub>
 
 </div>

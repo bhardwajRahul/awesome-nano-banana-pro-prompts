@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **14441** |
+| 📝 プロンプト総数 | **14440** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年6月15日月曜日 10:02:04 UTC** |
+| 🔄 最終更新 | **2026年6月15日月曜日 14:01:02 UTC** |
 
 </div>
 
@@ -5665,7 +5665,7 @@ Atlas Titan 貨物運搬車
 
 <div align="center">
 
-### 🎯 14321 さらに多くのプロンプトがあります
+### 🎯 14320 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5728,6 +5728,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-06-15T10:02:04.312Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-06-15T14:01:02.908Z</sub>
 
 </div>

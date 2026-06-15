@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14441** |
+| 📝 Total Prompts | **14440** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, June 15, 2026 at 10:01:52 AM UTC** |
+| 🔄 Last Updated | **Monday, June 15, 2026 at 2:00:50 PM UTC** |
 
 </div>
 
@@ -5664,7 +5664,7 @@ A prompt instruction for generating character images that look like vintage acti
 
 <div align="center">
 
-### 🎯 14321 more prompts not shown here
+### 🎯 14320 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5727,6 +5727,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T10:01:52.677Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T14:00:50.462Z</sub>
 
 </div>
